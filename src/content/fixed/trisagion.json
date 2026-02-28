@@ -1,0 +1,21 @@
+{
+  "id": "trisagion",
+  "title": "Sfinte Dumnezeule (Trisaghionul)",
+  "lines": [
+    { "role": "rubrica", "text": "Citeţul rostește Trisaghionul:" },
+    { "role": "citeti", "text": "Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi." },
+    { "role": "citeti", "text": "Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi." },
+    { "role": "citeti", "text": "Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi." },
+    { "role": "citeti", "text": "Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin." },
+    { "role": "citeti", "text": "Preasfântă Treime, miluiește-ne pe noi. Doamne, curățește păcatele noastre. Stăpâne, iartă fărădelegile noastre. Sfinte, cercetează și vindecă neputințele noastre, pentru numele Tău." },
+    { "role": "citeti", "text": "Doamne, miluiește. Doamne, miluiește. Doamne, miluiește." },
+    { "role": "citeti", "text": "Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin." },
+    { "role": "rubrica", "text": "Tatăl nostru:" },
+    { "role": "citeti", "text": "Tatăl nostru, Care ești în ceruri, sfințească-Se numele Tău, vie împărăția Ta, fie voia Ta, precum în cer așa și pe pământ." },
+    { "role": "citeti", "text": "Pâinea noastră cea spre ființă dă-ne-o nouă astăzi, și ne iartă nouă greșelile noastre, precum și noi iertăm greșiților noștri." },
+    { "role": "citeti", "text": "Și nu ne duce pe noi în ispită, ci ne izbăvește de cel rău." },
+    { "role": "rubrica", "text": "Ecfonisul:" },
+    { "role": "preot", "text": "Că a Ta este împărăția și puterea și slava, a Tatălui și a Fiului și a Sfântului Duh, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." }
+  ]
+}

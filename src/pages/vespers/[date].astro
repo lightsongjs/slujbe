@@ -1,0 +1,43 @@
+---
+import ServiceLayout from "../../layouts/ServiceLayout.astro";
+import ServiceSection from "../../components/ServiceSection.astro";
+import { getContext, getLentSaturdays } from "../../lib/context";
+import { composeVespers } from "../../lib/composer";
+
+import type { GetStaticPaths } from "astro";
+
+export const getStaticPaths: GetStaticPaths = () => {
+  const saturdays = getLentSaturdays(2026);
+  return saturdays.map((sat) => ({
+    params: { date: sat.date.toISOString().split("T")[0] },
+  }));
+};
+
+const { date } = Astro.params;
+const context = getContext(date as string);
+
+if (!context) {
+  return Astro.redirect("/");
+}
+
+const service = await composeVespers(context);
+const pageTitle = `Vecernia Mare — ${context.sundayName} (${context.formattedDate})`;
+---
+
+<ServiceLayout title={pageTitle}>
+  <div class="text-center mb-8">
+    <p class="text-stone-500 text-sm mb-1">Sâmbătă seara, {context.formattedDate}</p>
+    <p class="text-rubric font-medium">{context.sundayName}</p>
+    <p class="text-stone-400 text-sm">Glasul {context.tone}</p>
+  </div>
+
+  {service.sections.map((section) => (
+    <ServiceSection section={section} />
+  ))}
+
+  <div class="text-center mt-12 mb-4 print:hidden">
+    <a href="/" class="text-rubric hover:underline text-sm">
+      &larr; Inapoi la lista
+    </a>
+  </div>
+</ServiceLayout>

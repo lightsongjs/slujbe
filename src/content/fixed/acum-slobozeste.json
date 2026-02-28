@@ -1,0 +1,11 @@
+{
+  "id": "acum-slobozeste",
+  "title": "Acum slobozește (Cântarea lui Simeon)",
+  "lines": [
+    { "role": "rubrica", "text": "După Stihoavnă, citeţul (sau strana) rostește Cântarea dreptului Simeon:" },
+    { "role": "citeti", "text": "Acum slobozește pe robul Tău, Stăpâne, după cuvântul Tău, în pace." },
+    { "role": "citeti", "text": "Că văzură ochii mei mântuirea Ta," },
+    { "role": "citeti", "text": "pe care ai gătit-o înaintea feței tuturor popoarelor," },
+    { "role": "citeti", "text": "lumină spre descoperirea neamurilor și slavă poporului Tău Israel." }
+  ]
+}

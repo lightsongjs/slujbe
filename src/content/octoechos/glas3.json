@@ -1,0 +1,23 @@
+{
+  "glas": 3,
+  "stihiriDomneStragatAm": [
+    {
+      "text": "[placeholder - de completat] Stihira 1, glasul 3, Doamne strigat-am",
+      "glasIndicator": "Glasul 3"
+    },
+    {
+      "text": "[placeholder - de completat] Stihira 2, glasul 3, Doamne strigat-am"
+    },
+    {
+      "text": "[placeholder - de completat] Stihira 3, glasul 3, Doamne strigat-am"
+    }
+  ],
+  "stihiraStihoavna": [
+    {
+      "text": "[placeholder - de completat] Stihira Stihoavnei, glasul 3"
+    }
+  ],
+  "tropar": {
+    "text": "[placeholder - de completat] Troparul Învierii, glasul 3"
+  }
+}

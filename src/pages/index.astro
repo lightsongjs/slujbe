@@ -1,0 +1,39 @@
+---
+import ServiceLayout from "../layouts/ServiceLayout.astro";
+import { getLentSaturdays } from "../lib/context";
+
+const saturdays = getLentSaturdays(2026);
+
+function toISODate(d: Date): string {
+  return d.toISOString().split("T")[0];
+}
+---
+
+<ServiceLayout title="Vecernia Mare - Postul Mare 2026">
+  <div class="text-center mb-10">
+    <h2 class="text-xl sm:text-2xl font-semibold mb-1">Vecernia Mare</h2>
+    <p class="text-stone-500">Sâmbetele Postului Mare 2026</p>
+  </div>
+
+  <div class="space-y-4">
+    {saturdays.map((sat) => (
+      <a
+        href={`/vespers/${toISODate(sat.date)}`}
+        class="block border border-stone-200 rounded-lg p-5 hover:border-rubric hover:shadow-sm transition-all group"
+      >
+        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+          <div>
+            <p class="font-semibold text-lg group-hover:text-rubric transition-colors">
+              {sat.formattedDate}
+            </p>
+            <p class="text-stone-500 text-sm">Sâmbătă seara</p>
+          </div>
+          <div class="text-right">
+            <p class="text-rubric font-medium">{sat.sundayName}</p>
+            <p class="text-stone-400 text-sm">Glasul {sat.tone}</p>
+          </div>
+        </div>
+      </a>
+    ))}
+  </div>
+</ServiceLayout>

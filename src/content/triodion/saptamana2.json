@@ -1,0 +1,24 @@
+{
+  "saptamana": 2,
+  "sundayName": "Duminica Sfântului Grigorie Palama",
+  "stihiriDomneStragatAm": [
+    {
+      "text": "[placeholder - de completat] Stihira 1 din Triod, Sf. Grigorie Palama, Doamne strigat-am",
+      "rubric": "Din Triod"
+    },
+    {
+      "text": "[placeholder - de completat] Stihira 2 din Triod, Sf. Grigorie Palama, Doamne strigat-am"
+    },
+    {
+      "text": "[placeholder - de completat] Stihira 3 din Triod, Sf. Grigorie Palama, Doamne strigat-am"
+    }
+  ],
+  "stihiraStihoavna": [
+    {
+      "text": "[placeholder - de completat] Stihira Stihoavnei, Sf. Grigorie Palama"
+    }
+  ],
+  "slavaMarimiStihoavna": {
+    "text": "[placeholder - de completat] Slavă… Și acum… a Stihoavnei, Sf. Grigorie Palama"
+  }
+}

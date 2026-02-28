@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Orthodox-style cross -->
+  <rect x="27" y="4" width="10" height="56" rx="1" fill="#b91c1c"/>
+  <!-- Top crossbar -->
+  <rect x="18" y="14" width="28" height="8" rx="1" fill="#b91c1c"/>
+  <!-- Bottom slanted crossbar -->
+  <rect x="20" y="42" width="24" height="6" rx="1" fill="#b91c1c" transform="rotate(-15 32 45)"/>
+</svg>

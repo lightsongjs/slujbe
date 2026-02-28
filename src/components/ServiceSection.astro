@@ -1,0 +1,74 @@
+---
+interface ServiceLine {
+  role: "preot" | "diacon" | "strana" | "citeti" | "rubrica";
+  text: string;
+}
+
+interface Props {
+  section: {
+    id: string;
+    title: string;
+    lines: ServiceLine[];
+  };
+}
+
+const { section } = Astro.props;
+
+const roleLabels: Record<string, string> = {
+  preot: "Preotul:",
+  diacon: "Diaconul:",
+  strana: "Strana:",
+  citeti: "Citeţul:",
+};
+
+const roleClasses: Record<string, string> = {
+  preot: "text-red-800 font-bold",
+  diacon: "text-red-800 font-bold",
+  strana: "text-black",
+  citeti: "text-black",
+  rubrica: "text-red-700 italic text-sm",
+};
+
+function labelClass(role: string): string {
+  if (role === "preot" || role === "diacon") return "text-red-800 font-bold";
+  return "text-stone-600 font-semibold";
+}
+
+let lastRole = "";
+---
+
+<section class="mb-12 print:mb-8">
+  <h2
+    class="text-xl font-bold text-center mb-6 pb-2 border-b-2 border-stone-300 print:text-lg"
+  >
+    {section.title}
+  </h2>
+
+  <div class="space-y-1">
+    {section.lines.map((line, i) => {
+      const showLabel = line.role !== "rubrica" && line.role !== lastRole;
+      const prevRole = lastRole;
+      lastRole = line.role;
+
+      return (
+        <div class:list={[
+          "leading-relaxed",
+          line.role === "rubrica" ? "my-3" : "",
+          showLabel && i > 0 ? "mt-4" : "",
+        ]}>
+          {showLabel && roleLabels[line.role] && (
+            <p class={`${labelClass(line.role)} text-sm mb-0.5`}>
+              {roleLabels[line.role]}
+            </p>
+          )}
+          <p class:list={[
+            roleClasses[line.role],
+            line.role !== "rubrica" ? "pl-4" : "pl-0",
+          ]}>
+            {line.text}
+          </p>
+        </div>
+      );
+    })}
+  </div>
+</section>

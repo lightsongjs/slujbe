@@ -1,0 +1,94 @@
+---
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="ro">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body
+    class="bg-white text-black font-serif text-liturgical antialiased min-h-screen"
+  >
+    <nav class="print:hidden bg-stone-50 border-b border-stone-200 px-4 py-3">
+      <div class="max-w-3xl mx-auto">
+        <a href="/" class="text-rubric font-semibold hover:underline">
+          Slujbe
+        </a>
+      </div>
+    </nav>
+
+    <main class="max-w-3xl mx-auto px-4 py-8 print:py-2 print:px-0 print:max-w-none">
+      <h1
+        class="text-2xl sm:text-3xl font-bold text-center mb-8 print:mb-4 print:text-2xl"
+      >
+        {title}
+      </h1>
+      <slot />
+    </main>
+
+    <style is:global>
+      /* Rubric styling -- liturgical instructions in red */
+      .rubric {
+        color: #b91c1c;
+        font-style: italic;
+      }
+
+      /* Dialogue cues (priest, deacon, choir) */
+      .cue {
+        color: #b91c1c;
+        font-weight: 600;
+        font-style: normal;
+      }
+
+      /* Emphasis for exclamations */
+      .exclamation {
+        font-weight: 700;
+      }
+
+      /* Print-friendly rules */
+      @media print {
+        body {
+          font-size: 11pt;
+          line-height: 1.6;
+        }
+
+        nav,
+        .no-print {
+          display: none !important;
+        }
+
+        main {
+          max-width: 100% !important;
+          padding: 0 !important;
+          margin: 0 1cm !important;
+        }
+
+        h1 {
+          font-size: 16pt !important;
+          margin-bottom: 0.5cm !important;
+        }
+
+        @page {
+          margin: 1.5cm;
+          size: A4;
+        }
+
+        /* Avoid breaking inside paragraphs or prayer blocks */
+        p,
+        .prayer-block {
+          orphans: 3;
+          widows: 3;
+          break-inside: avoid;
+        }
+      }
+    </style>
+  </body>
+</html>

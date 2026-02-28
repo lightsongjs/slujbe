@@ -1,0 +1,24 @@
+{
+  "saptamana": 5,
+  "sundayName": "Duminica Sfintei Maria Egipteanca",
+  "stihiriDomneStragatAm": [
+    {
+      "text": "[placeholder - de completat] Stihira 1 din Triod, Sf. Maria Egipteanca, Doamne strigat-am",
+      "rubric": "Din Triod"
+    },
+    {
+      "text": "[placeholder - de completat] Stihira 2 din Triod, Sf. Maria Egipteanca, Doamne strigat-am"
+    },
+    {
+      "text": "[placeholder - de completat] Stihira 3 din Triod, Sf. Maria Egipteanca, Doamne strigat-am"
+    }
+  ],
+  "stihiraStihoavna": [
+    {
+      "text": "[placeholder - de completat] Stihira Stihoavnei, Sf. Maria Egipteanca"
+    }
+  ],
+  "slavaMarimiStihoavna": {
+    "text": "[placeholder - de completat] Slavă… Și acum… a Stihoavnei, Sf. Maria Egipteanca"
+  }
+}
