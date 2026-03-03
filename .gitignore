@@ -2,6 +2,26 @@ node_modules/
 dist/
 .astro/
 .claude/
+
+# Dev/scratch files (kept locally, not in repo)
 test-results/
+tests/
+playwright.config.ts
 screenshot-*.png
 *.pdf
+
+# Extraction scripts and raw source dumps
+*.cjs
+*_text.txt
+*_complet.txt
+triod_site_*.txt
+triod_pages/
+glas-extra/
+glas-pages/
+liturghia_orthodoxwiki.*
+catisma18_text.txt
+minei_ziua*.txt
+
+# Diagrams
+*.excalidraw
+*.png
