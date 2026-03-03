@@ -1,0 +1,34 @@
+{
+  "month": 7,
+  "day": 22,
+  "saint": "Sfânta aducătoare de Mir şi întocmai cu Apostolii Maria Magdalena.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ce vă vom numi...",
+    "stihiri": [
+      {
+        "text": "Miruri ai adus lui Hristos, Care s-a pus în mormânt, şi a insuflat înviere tuturor morţilor, şi tu văzându-L pe El întâi, te-ai închinat Lui lăcrimând, Marie purtătoare de Dumnezeu. Pentru aceasta roagă-te, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Văzând pe Hristos pironindu-Se pe Cruce Magdaleno, plângeai şi strigai : Ce lucru este aceasta ce se vede ? Cum moare viaţa ? Şi zidirea văzând se cutremură, şi luminătorii se întunecă. Drept aceea roagă-te, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Fiind dimpreună cu Ziditorul tău, Marie mărită, te-ai umplut de multă minte şi de cunoştinţă adevărată, şi ai propovăduit noroadelor patimile Lui şi smerirea. Drept aceea roagă-te pururea pomenită, să se dăruiască sufletelor noastre pace şi mare milă."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Întâi tu Magdaleno Marie ai văzut învierea cea dumnezeiască a pricinii celei dintâi a bunătăţilor, a Celui ce cu milostivire a îndumnezeit firea noastră. Întâi te-ai arătat şi evanghelistă, strigând Apostolilor : Luaţi veselie, şi veniţi de vedeţi pe Hristos, că a înviat şi dă lumii mare milă."
+    },
+    "nascatoarea": {
+      "text": "Cele cereşti te laudă pe tine cea plină de Dar, Maică ceea ce nu ştii de mire, şi noi slavoslovim naşterea ta cea neurmată, Născătoare de Dumnezeu; roagă-te să se mântuiască sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşeaua dacă şi-a văzut Mielul întins pe lemnul Crucii de bunăvoie, striga ca o Maică, tânguindu-se cu plâns : Fiul meu ! Ce vedere străină este aceasta ? Cela ce dai viaţă tuturor ca un Domn, cum Te omori îndelung-Răbdătorule, Cela ce dai oamenilor învierea. Slăvesc a Ta multă pogorâre Dumnezeul meu."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Lui Hristos Celui ce pentru noi S-a născut din Fecioară, cinstită Magdaleno Marie ai urmat, ale Aceluia îndreptările şi legile păzind. Pentru aceasta astăzi preasfinţită pomenirea ta prăznuind, te lăudăm cu credinţă şi te cinstim cu dragoste."
+    }
+  }
+}

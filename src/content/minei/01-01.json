@@ -1,0 +1,34 @@
+{
+  "month": 1,
+  "day": 1,
+  "saint": "Tăierea împrejur a Domnului nostru Iisus Hristos; şi pomenirea celui dintru Sfinţi Părintelui, nostru Vasilie cel mare, Arhiepiscopul Cezareei Capadociei.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Cel ce de sus eşti chemat...",
+    "stihiri": [
+      {
+        "text": "Pogorându-Se Mântuitorul la neamul omenesc, primit-a înfăşare cu scutece. Nu S-a scârbit de trupească tăiere împrejur, Cel de opt zile după mamă, şi fără de început după Tată. Acestuia credincioşii să-i strigăm : Tu eşti Dumnezeul nostru, miluieşte-ne pe noi. (De două ori)"
+      },
+      {
+        "text": "Nu S-a ruşinat Preabunul Dumnezeu, cu trupească tăiere împrejur a Se tăia, ci S-a dat pe Sine chip şi pildă tuturor spre mântuire. Că Făcătorul legii, cele ce sunt ale legii le-a plinit, şi proorociile proorocilor cele ce au fost pentru Dânsul. Cel ce toate le cuprinzi cu mâna, şi cu scutece Te-ai înfăşat, Doamne slavă Ție. (De două ori)"
+      },
+      {
+        "text": "Cela ce eşti chemat cu numele împărăţiei; când preoţia cea împărătească, adică poporul cel sfânt al lui Hristos, cu înţelepciunea şi cu ştiinţa, tu Părinte l-ai păscut, atunci te-a împodobit cu coroana împărăţiei Vasilie, Împăratul celor ce împărăţesc, şi Domnul tuturor, Cel ce este împreună socotit cu Cel ce L-a născut, Fiul cel pururea veşnic, şi împreună fără de început. Pe Care roagă-L să mântuiască, şi să lumineze sufletele noastre. (De două ori)"
+      },
+      {
+        "text": "Cu veşmintele arhieriei fiind împodobit, bucurându-te ai propovăduit Evanghelia împărăţiei, izvorând Bisericii învăţăturile dreptei slăviri, Vasilie. Cu care acum fiind luminaţi, o Dumnezeire nedespărţită în Tatăl Atotţiitorul, şi întru Unul-Născut, Cuvântul lui Dumnezeu, şi întru Dumnezeiescul Duh, o binevestim şi o slăvim, în Trei Feţe nedespărţită. Pe Care roagă-o să mântuiască şi să lumineze sufletele noastre."
+      },
+      {
+        "text": "Cela ce eşti împreună cu cetele cereşti, şi împreună locuieşti Părinte Vasilie, a cărora şi viaţă ai râvnit cu strălucită curăţia vieţii tale, încă în trup petrecând, cu cei de pe pământ ca un fără de trup. Pentru cei ce se îndulcesc cu cea de Dumnezeu insuflată învăţătura ta, pe Hristos Dumnezeul nostru roagă-L, ca să-i mântuiască din nevoi şi din întunericul necunoştinţei, şi să lumineze sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "De înţelepciune iubitor făcându-te Cuvioase, şi din toate cele ce sunt alegându-ţi împreună vieţuitoare, cea spre Dumnezeu gândirea de moarte, cu cuviinţă viaţa ţi-ai petrecut. Că patimile trupului cu ostenelile înfrânării pe tine îmbrăcându-te, şi cu dumnezeiască gândire de lege, nerobită vrednicia sufletului păzindu-ţi cu bogăţia faptei bune, şi tot gândul trupesc ai supus Duhului. Pentru aceasta trupul urându-ţi şi lumea şi pe ţiitorul lumii, stând înaintea lui Hristos, cere sufletelor noastre mare milă."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "În tot pământul a ieşit vestirea ta, că acela a primit cuvântul tău. Prin care cu dumnezeiască cuviinţă ai învăţat, firea celor ce sunt ai arătat, obiceiurile oamenilor le-ai împodobit, împărăteasca preoţie, Părinte Cuvioase. Roagă pe Hristos Dumnezeu, să mântuiască sufletele noastre."
+    }
+  }
+}

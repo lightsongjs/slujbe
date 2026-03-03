@@ -1,0 +1,24 @@
+{
+  "month": 5,
+  "day": 4,
+  "saint": "Sfânta Muceniță Pelaghia.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn celor ce...",
+    "stihiri": [
+      {
+        "text": "Dorind Botezul cel preacinstit şi sfinţit, şi mântuitor Pelaghia Muceniță, cu osârdie l-ai căutat și aflând pe cel ce te-a învăţat taina, degrab cu veselie şi cu bucurie, ai alergat către Cela ce ai dorit, şi te-ai învrednicit vedeniilor celor străine, vrednică de minune, şi ca o tânără ai alergat după Mirele tău."
+      },
+      {
+        "text": "Părăsind lumea cea de pe pământ, ca pe o vremelnică şi stricăcioasă şi lesne veștejitoare, cu toată osârdia te-ai vânat, după dumnezeiască buna cuviinţă, ca ceea ce este pururea stătătoare, şi ca una ce are bucurie totdeauna şi veselie şi curăție, şi ai avut şi fecioria, lauda mucenicilor, strălucind întru amândouă."
+      },
+      {
+        "text": "Necuprins şi negrăit, este noianul minunilor tale Pelaghie prealăudată; căci poftind pe Hristos, cu inimă curată şi prea întreagă, ai defăimat chinurile şi arderile focului, şi muncile. Pentru aceea ca pe una ce eşti cu suflet viteaz, te-a făcut pe tine locuitoare în cămara cea cerească, mirele Mântuitorul sufletelor noastre."
+      }
+    ],
+    "tropar": {
+      "glas": 4,
+      "text": "Mieluşeaua Ta, Iisuse, Pelaghia, strigă cu mare glas : Pe Tine, Mirele meu, Te iubesc şi pe Tine căutându-Te, mă chinuiesc şi împreună mă răstignesc, şi împreună mă îngrop cu Botezul Tău; şi pătimesc pentru Tine, ca să împărăţesc întru Tine; şi mor pentru Tine, ca să viez pentru Tine; ci, ca o jertfă fără prihană, primeşte-mă pe mine, ceea ce cu dragoste mă jertfesc Ţie. Pentru rugăciunile ei, ca un milostiv, mântuieşte sufletele noastre."
+    }
+  }
+}

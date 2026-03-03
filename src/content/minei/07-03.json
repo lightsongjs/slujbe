@@ -1,0 +1,30 @@
+{
+  "month": 7,
+  "day": 3,
+  "saint": "Sfântul Mucenic Iachint.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ce vă vom numi pe voi...",
+    "stihiri": [
+      {
+        "text": "Prin strălucirea Duhului, te-ai arătat ca o piatră strălucitoare a Bisericii lui Hristos, pătimitorule; ca cel ce tare te-ai nevoit pentru credinţă, şi ai înfrânt tabăra celor fără de Dumnezeu, şi ai ridicat biruinţe asupra lor Mucenice pătimitorule. Pentru aceasta cu credinţă te mărim, ca pe un ostaş nebiruit; roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ocârmuindu-te de dreapta cea nebiruită a lui Hristos, valurile înşelăciunii le-ai trecut, şi te-ai aşezat la limanul cel înţelegător, pătimitorule, umplându-te de liniştea cea fără de sfârşit, şi învrednicindu-te slavei celei nepieritoare, cugetătorule de Dumnezeu Mucenice Iachinte, veselindu-te pururea; roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Prin mădularele tale ai slăvit pe Dumnezeu cel nemuritor, omorându-te pentru Dânsul; pentru aceasta te-a arătat pe tine înţelepte părtaş darurilor celor nemuritoare, şi te măreşte totdeauna cu semne şi cu puteri Iachinte; căci sicriul tău stă înaintea tuturor ca un izvor de sfinţenie; roagă-te să se mântuiască sufletele noastre."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cui te-ai asemănat ticăloase suflete, nevrând nicidecum a alerga către pocăinţă, şi de foc netemându-te, petreci întru răutăţi ? Scoală şi cheamă pe cea singură grabnică spre ajutor, şi strigă : Fecioară Maică, nu înceta a ruga, pe Fiul tău şi Dumnezeul nostru, ca să mă mântuiască de cursele vrăjmaşului."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşeaua dacă a văzut pe Mielul său, întins pe lemnul Crucii de bunăvoie; a strigat ca o Maică, tânguindu-se cu plângere : Fiul meu, ce vedere străină este aceasta ? Îndelung-răbdătorule, cel ce dai viaţă tuturor ca un Domn, cum mori, vrând se înviezi pe oameni ? Slăvesc pogorârea Ta cea prea-mare."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Iachint, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

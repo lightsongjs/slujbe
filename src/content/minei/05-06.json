@@ -1,0 +1,28 @@
+{
+  "month": 5,
+  "day": 6,
+  "saint": "Sfântul şi dreptul Iov.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Dat-ai pildă de răbdare, şi de bărbăţie preabunule, pe dreptul Iov cel mult pătimitor, cu bunătăţi şi cu cuvinte, şi cu lucruri dumnezeieşti, şi pe cei trufaşi cu adevărat îi înțelepțeşti cu întâmplările cele rele. Pentru aceea slăvim rânduiala ta cea fără de asemănare, Iisuse Atotputernice, Mântuitorule al sufletelor noastre."
+      },
+      {
+        "text": "Drept şi fără de răutate, adevărat şi fără prihană, şi credincios, ferit de tot lucrul rău, te-ai cunoscut fericite Iove, împodobit cu adevărat cu bunătăţile, şi luminat întru bunăcredinţă. Pentru aceea te fericim, şi prăznuim astăzi sfântă şi cinstită pomenirea ta, veselindu-ne."
+      },
+      {
+        "text": "Iove cel fără prihană, împodobindu-te cu buna-credinţă, ca cu o bogăție, şi ca cu o porfiră de mult preț, şi îmbrăcându-te cu milostivirea şi cu dreptatea ca cu o cunună dumnezeiască, ai împărățit peste patimile cele ce tirănesc. Pentru aceea te-ai suit la curțile împărăteşti cele înţelegătoare, şi stai înaintea Împăratului celui veşnic, pururea pomenite."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Păzindu-ți viața întru bunătate desăvârşit, nu ai greşit întru ale legii, căci având de la Dumnezeu bună numirea cea lăudată, ca un ostaş foarte viteaz, te-ai dezbrăcat către nevoința bunătăţii, şi luptându-te cu rănile puroioase cele nesuferite, ai biruit pe cel ce fără de măsură se lăuda. Drept aceea încununându-te cu daruri de biruinţă de la Hristos, roagă-L pe Dânsul pentru sufletele noastre."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Bogăția bunătăților lui Iov văzându-o vrăjmaşul drepţilor, s-a meşteşugit a o fura, şi rupând turnul trupului, vistieria duhului nu o a furat; căci a aflat întrarmat sufletul celui fără prihană, iar pe mine şi golindu-mă m-a robit. Deci mai-nainte de sfârşit întâmpinându-mă, izbăveşte-mă de cel viclean, Mântuitorule, şi mă mântuieşte."
+    }
+  }
+}

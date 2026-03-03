@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 6,
+  "saint": "Sfântul măritul şi întru-tot lăudatul Apostol Toma.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn celor ce...",
+    "stihiri": [
+      {
+        "text": "De coasta Stăpânului atingându-te preafericite, ai ajuns cea mai înaltă din bunătăţi; că precum buretele apa, aşa de acolo ai luat izvor de bunăţăţi şi viaţă veşnică, şi ai adăpat inimile cele uscate de neştiinţă, izvorând neîncetat măririle Darului tău."
+      },
+      {
+        "text": "Cu credincioasă necredinţa ta, pe cei credincioşi i-ai întărit, ca să înceapă a teologhisi pe un Dumnezeu şi Domn a toată făptura; pe Cel ce a purtat trup pentru noi pământenii, şi Crucea şi moartea a răbdat, pătrunderi de cuie, şi împungere cu suliţa în coastă, din care viaţă luăm. (De două ori.)"
+      },
+      {
+        "text": "Toma cel minunat, a deschis izvorul dogmelor Stăpâne, celor de Dumnezeu înţelepţiţi; că de coasta Ta atingându-se, îndoite lucrări, şi îndoite firi împreună a cunoscut, şi a strigat : Tu eşti Dumnezeul meu şi Stăpânul, Tu şi Domnul măririi, Cel ce pentru mine trup Te-ai făcut. (De două ori.)"
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Ca o slugă a Cuvântului şi a negrăitei întrupării Lui, ai luat adâncul înţelepciunii, Toma Apostole. Că cu trestia Crucii, scoţând dintru adânc sufletele le-ai vânat. De unde cu năvodul dogmelor tale, toată lumea ai luminat şi cu lumina cunoştinţei sufletele indienilor cele întunecate le-ai strălucit. Pentru aceasta cu mărirea lui Hristos luminat desfătându-te, roagă pe Acesta să miluiască sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Născătoare de Dumnezeu tu eşti viţa cea adevărată, care ai odrăslit nouă Rodul Vieţii; ţie ne rugăm, roagă-te Stăpână cu Apostolul Toma, să miluiască sufletele noastre."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole sfinte Toma, roagă pe milostivul Dumnezeu ca să dea iertare de greşale sufletelor noastre."
+    },
+    "troparNascatoarea": {
+      "text": "Pe tine, ceea ce ai mijlocit mântuirea neamului nostru, te lăudăm, Născătoare de Dumnezeu, Fecioară; căci, cu trupul cel luat din tine, Fiul tău şi Dumnezeul nostru, prin Cruce răbdând patimă, ne-a izbăvit pe noi din stricăciune, ca un Iubitor de oameni."
+    }
+  }
+}

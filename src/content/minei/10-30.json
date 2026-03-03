@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 30,
+  "saint": "Sfinţitul Mucenic Zenovie, episcopul Egheilor, şi sora lui Zenovia.",
+  "vecernie": {
+    "glas": 0,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Vopsindu-ţi haina cu sângele muceniciei Slăvite Zenovie, ai făcut-o sfinţită cu Harul, cu care ai intrat în Sfintele Sfinţilor ca un arhiereu înţelept; aducându-te jertfă fără de prihană şi prinos preacurat şi desăvârşit, Celui ce S-a jertfit pentru tine Preasfinţite."
+      },
+      {
+        "text": "Strujindu-ţi-se trupul, frumuseţea sufletului tău cea prealuminată, mai frumoasă ai arătat-o vrednicule de laudă, sfinţite Mucenice, de Dumnezeu gânditorule Zenovie, frumuseţea preoţilor, lauda pătimitorilor, izvorul cel pururea curgător al minunilor, gonitorul duhurilor celor necurate, şi rugătorule pentru sufletele noastre."
+      },
+      {
+        "text": "Fiind la un gând cu tine sora ta cea de un sânge, Zenovia preaînţeleapta, a voit să pătimească împreună cu tine; că fierberile căldărilor, îngrozirea focului şi moartea cea silnică, le-a răbdat bărbăteşte. Pentru aceasta împreună cu tine a dobândit cununile biruinţei şi împărăţia cea de sus, sfinţite tăinuitorule Zenovie."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Ceată de cântăreţi să adunăm astăzi o iubitorilor de Mucenici, la pomenirea prealăudaţilor pătimitori, Zenovie şi Zenovia. Că aceştia s-au făcut apărători Treimii, şi la luptă cu bărbăţie au înecat pe vrăjmaşul cel nevăzut, întru cinstit sângele lor, şi cu slavă au luat cununa biruinţei. Pentru aceasta strigăm către ei : Însoţire sfântă a Domnului, binecuvântată şi luminată pereche, rugaţi-vă Mântuitorului, pentru sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Sprijin şi acoperământ, îmi eşti mie de Dumnezeu Născătoare fără prihană; că pe tine te am ajutătoare în supărări, în boli şi în nevoi, şi pe tine te cânt, ceea ce eşti nevinovată."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând Născătoarea de Dumnezeu cea fără prihană, viaţa noastră spânzurată pe lemn, ca o Maică tânguindu-se, striga : Fiul meu şi Dumnezeul meu, mântuieşte pe cei ce cu dragoste Te laudă pe Tine."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

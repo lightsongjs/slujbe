@@ -1,0 +1,30 @@
+{
+  "month": 8,
+  "day": 4,
+  "saint": "Sfinţii şapte Tineri cei din Efes.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Fericiții tineri supunându-se lui Dumnezeu, au defăimat porunca cea fărădelege, şi legaţi fiind au dezlegat legătura rătăcirii, şi vrednicia cea lumească lepădându-o, au luat vrednicia ceea ce i-a făcut pe ei măriţi, şi le-a pricinuit desfătarea, Împărăţiei cea de sus."
+      },
+      {
+        "text": "Spre luptele pătimirii cu tărie iscusindu-vă sfinţilor, v-aţi ascuns în peşteră, rugându-vă Domnului cu neîncetate rugăciuni, ca să vă dea tărie şi putere, şi cu judecăţile care le ştie Iubitorul de oameni, dumnezeieşte v-a poruncit vouă a adormi în pace."
+      },
+      {
+        "text": "Taina tainelor, sfinţilor li se pune înainte; că precum adormind nu au simţit, aşa şi acum sculându-se se spăimântară, că ceea ce s-a săvârşit, s-a făcut încredinţare învierii morţilor, ca cunoscând cei ce se lepădau de dânsa, să li se astupe gurile, cu credinţă preamărind pe Mucenici."
+      }
+    ],
+    "nascatoarea": {
+      "text": "De osândire şi de greşalele cele cumplite, şi de moarte, Preasfântă dumnezeiască Mireasă, mântuieşte pe smerit sufletul meu, şi prin rugăciunile tale izbăveşte-l, şi-mi dăruieşte să dobândesc îndreptare în ziua ispitirii. Pe care o au dobândit adunările sfinţilor, prin pocăinţă mai-nainte de sfârşit curăţindu-mă, şi prin vărsările lacrimilor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Pe tine Mieluşelul şi Păstorul, dacă Te-a văzut pe lemn Mieluşeaua ceea ce Te-a născut, se tânguia şi ca o Maică grăia către Tine : Preaiubite Fiule îndelung-Răbdătorule, cum Te-ai spânzurat pe lemnul Crucii, Cuvinte ? Cum mâinile şi picioarele Tale s-au pironit de cei fărădelege ? Şi sângele Tău Ți-ai vărsat, Stăpâne ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

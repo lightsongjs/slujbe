@@ -1,0 +1,31 @@
+{
+  "month": 6,
+  "day": 5,
+  "saint": "Sfântul sfinţitul Mucenic Dorotei, episcopul Tirului.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Mucenicii tăi...",
+    "stihiri": [
+      {
+        "text": "Arătatu-te-ai tablă Dumnezeiescului Duh, de Dumnezeu fericite Părinte, având scrise întru cunoştinţă dumnezeiască, dogmele cele dumnezeieşti, cu a căror descoperire ai luminat, pe cei ce se primejduiau întru necunoştinţă. Pentru aceasta cu rugăciunile tale, cere-ne nouă tuturor mare milă."
+      },
+      {
+        "text": "Cu dumnezeieşti curgerile sângiurilor, vopsindu-ţi podoaba preoţiei, Doroteie, cu bucurie ai intrat acum în Biserica cea cerească, ca să te arăţi Dumnezeului nostru, Celui ce dă cununile nevoinţei, rugându-L pe Dânsul, ca să dea tuturor mare milă."
+      },
+      {
+        "text": "Viaţa ţi-a fost întocmai cu a îngerilor, şi mucenicia ta preastrălucită, prin care te-ai învrednicit a dănţui cu îngerii, întru bucurie, luminând pământul cu minuni, şi cu învăţături dumnezeieşti, Părinte Doroteie. Pentru aceasta prin rugăciunile tale cere, să se dea nouă tuturor mare milă."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "Blândului tău învăţător, Hristos, urmând Ierarhe, nu ai deschis sfinţita ta gură, împotriva celor ce cumplit te munceau; ci arătat ca un fenix adevărat, întru adânci bătrâneţe răbdând chinurile, înfocat de dumnezeiasca râvnă, întru acestea ţi-ai dat sufletul tău; şi zburând în sus spre Cer, ţi-ai aşezat lăcaşul tău în preajma Dumnezeiescului Scaun celui în chip de foc. O de câtă slavă nemuritoare te-ai învrednicit de trei ori fericite ! Ci cere rugămu-ne, sfinţite Mucenice Doroteie, celor ce cu credinţă săvârşesc pomenirea ta, iertare de păcate şi mare milă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Preacurata, dacă Te-a văzut pe Tine pe Cruce spânzurat, ca o Maică plângând, a strigat : Fiul meu şi Dumnezeul meu, preadulcele meu Fiu ! Cum suferi patimi de ocară ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţă răbdând până la sânge, Sfinţite Mucenice Doroteie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre."
+    }
+  }
+}

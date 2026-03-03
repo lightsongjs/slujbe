@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 24,
+  "saint": "Sfântul Mucenic Aretha şi cu însoţitoarele lui.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Mucenicii Tăi Doamne...",
+    "stihiri": [
+      {
+        "text": "Bărbăţia ta ai pus-o împotriva cruzimii evreilor, Mucenice Aretha prealăudate, şi cu Harul cel dumnezeiesc, te-ai arătat purtător de biruinţă, şi ai adus, Slăvite, lui Hristos mare ceată de Mucenici, oşteni, care s-au adunat din toată vârsta, şi s-au alcătuit din tot neamul."
+      },
+      {
+        "text": "Aretha preamărit eşti care ai întărit ceată veselitoare de sfinţi Mucenici, cu care, împreună ai pătimit pătimirea cea bună, şi ai săvârşit călătoria chinurilor tale celor bărbăteşti. Pentru aceasta roagă-te lui Hristos, să dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Fecioare de Dumnezeu înţelepţite, Mucenițe înfierbântându-se de iubirea lui Hristos, uitându-şi neputinţa firii, şi cu puterea cea dumnezeiască întărindu-se, au călcat înşelăciunea vrăjmaşului; nespăimântându-se, de durerea chinurilor, şi neîngrozindu-se de focul cuptorului."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Cu cântare astăzi să cinstim credincioşii dintr-un cuget, pe păstorul cel mare, pe Aretha preamăritul, împreună cu ceata sa că a înfruntat pe împăratul cel fărădelege, şi şi-a vărsat sângele pentru mărturisirea lui Hristos. De aceea, ca un nor de foc ardea pe faţa pământului, mustrând necredinţa celor fărădelege. Pentru aceasta Hristoase Dumnezeule, Cel ce ai întărit pe purtătorii Tăi de chinuri către mărturisirea Ta mântuieşte-ne pe noi ca un Stăpân al tuturor, de supărări şi de nevoi, pentru rugăciunile sfinţilor Tăi."
+    },
+    "nascatoarea": {
+      "text": "Răpeşte-mă Stăpână din mâna balaurului celui ucigător de oameni, care bate război cu mine ca să mă înghită de tot cu înşelăciunea. Sfărâmă-i măselele rogu-mă şi strică-i măiestriile. Ca izbăvindu-mă din ghiarele lui, să măresc puterea ta."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-Te răstignit şi omorât, Născătoarea de Dumnezeu, striga : Vai mie, cum suferi durerile preadulcele meu Fiu ! Suliţa Ta mă răneşte la inimă, şi patima Ta arde cele dinlăuntru ale mele. Te laud însă, că acestea le pătimeşti, vrând să mântuieşti pe om."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Pentru durerile sfinţilor, care pentru Tine au pătimit, fii milostiv Doamne şi toate durerile noastre le vindecă, Iubitorule de oameni, rugămu-ne Ție."
+    }
+  }
+}

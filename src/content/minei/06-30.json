@@ -1,0 +1,43 @@
+{
+  "month": 6,
+  "day": 30,
+  "saint": "Soborul sfinţilor slăviţilor şi întru tot lăudaţilor celor 12 Apostoli, şi a celor şaptezeci.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": "Dat-ai semn celor ce...",
+    "stihiri": [
+      {
+        "text": "Cu ce cununi de laudă vom încununa pe Petru şi pe Pavel, pe cei despărţiţi cu trupurile, şi împreunaţi cu duhul, pe maimarii propovăduitorilor de Dumnezeu, pe acesta adică ca pe o căpetenie a Apostolilor, iar pe acela ca pe cel ce mai mult decât alții s-a ostenit; că pe aceştia cu adevărat după vrednicie, cu cununile slavei celei nemuritoare îi încununează Hristos Dumnezeul nostru Cel ce are mare milă."
+      },
+      {
+        "text": "Cu ce frumuseți de cântări vom lăuda, pe Petru şi pe Pavel, pe cei ce sunt aripile cunoştinţei de Dumnezeu, care au zburat pe la margini, şi la Cer s-au înălţat, mâinile Evangheliei Darului, picioarele propovăduirii adevărului, râurile înţelepciunii, cornurile Crucii. Prin care sprânceana dracilor, Hristos o a surpat, Cel ce are mare milă."
+      },
+      {
+        "text": "Cu ce cântări duhovniceşti, vom lăuda pe Petru şi pe Pavel, pe cei ce au junghiat nedumnezeirea, şi gurile cele neastupate, săbiile Duhului cele înfricoşate, frumuseţile Romei cele luminoase, desfătările a toată lumea, lespezile cele înţelegătoare ale legii celei noi, de Dumnezeu scrise în Sion, pe care Hristos i-a chemat, Cel ce are mare milă."
+      },
+      {
+        "text": "Ca nişte singuri văzători şi mărturisitori întrupării Cuvântului, vă fericiţi Ucenici preafericiţi, căci ca nişte fulgere strălucind, lumii v-aţi arătat, şi ca nişte munți înţelegători, dulceaţă picaţi. Ca nişte izvoare pururea curgătoare ale raiului despărţindu-vă, adunările neamurilor cu dumnezeieşti ape le adăpaţi."
+      },
+      {
+        "text": "Ca nişte săgeţi strălucind, cu razele Duhului, în toată lumea v-aţi trimis, lucrarea minunilor din-destul dăruind, slujitori tainelor lui Hristos fiind, şi table ale Dumnezeiescului Dar de Dumnezeu scrise, scriind legea cea de Dumnezeu dată, de sfinţenie tăinuitori preafericiţi."
+      },
+      {
+        "text": "Trestia vânătorilor, mândria filosofilor, şi curgerea ritorilor o au tulburat, şi învăţăturile Dumnezeieştii înţelepciuni, şi dogmele însemnând, şi bună-vestirea tainelor celor bune luminat punând, şi împărtăşirea dulceții celei dea pururea, şi desfătările îngerilor, şi lauda cea netrecătoare."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Preacinstită prăznuirea Apostolilor, a sosit Bisericii lui Hristos, care soleşte nouă mântuire. Deci cu taină veselindu-ne, să zicem către dânşii : Bucuraţi-vă luminătorii celor din întuneric, cei ce sunteţi ca nişte raze ale Soarelui Celui înţelegător; bucuraţi-vă Petre şi Pavele, cei ce sunteţi temeiuri neclintite dumnezeieştilor învăţături; prietenii lui Hristos, vase cinstite, veniți în mijlocul nostru nevăzut, învrednicind darurilor celor fără materie, pe cei ce laudă prăznuirea voastră cu cântări."
+    },
+    "nascatoarea": {
+      "text": "Născătoare de Dumnezeu, tu eşti viţa cea adevărată, care ai odrăslit nouă Rodul vieţii, ţie ne rugăm : Roagă-te Stăpână cu sfinţii Apostoli, să se miluiască sufletele noastre."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Cei ce sunteţi între Apostoli mai întâi pe scaun şezători, şi lumii învăţători, Stăpânului tuturor rugaţi-vă, pace lumii să dăruiască, şi sufletelor noastre mare milă."
+    },
+    "troparNascatoarea": {
+      "text": "Pe tine, ceea ce ai mijlocit mântuirea neamului nostru, te lăudăm, Născătoare de Dumnezeu, Fecioară; căci, cu trupul cel luat din tine, Fiul tău şi Dumnezeul nostru, prin Cruce răbdând patimă, ne-a izbăvit pe noi din stricăciune, ca un Iubitor de oameni."
+    }
+  }
+}

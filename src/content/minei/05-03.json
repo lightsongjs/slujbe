@@ -1,0 +1,24 @@
+{
+  "month": 5,
+  "day": 3,
+  "saint": "Sfinţii Mucenici Timotei şi Mavra",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Perechea cea sfântă a lui Hristos, însoţirea cea dumnezeiască, podoaba mucenicilor, marilor Mucenici, care aţi iubit dumnezeiescul jug, întru chinuri, şi de bătăile tiranilor nu v-aţi spăimântat, acum rugați-vă, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Cu chipul cel strălucit, cinstită Mavra preafericită, şi cu lumina Darului tău, ai întunecat ochii tiranului celui cumplit, şi prin smulgerile părului tău, ai vorbit de faţă cu Dumnezeu. Pentru aceea ai şi ars în undele căldărilor capul lui veliar, cel fără dreptate."
+      },
+      {
+        "text": "Cu puterea sufletului, şi din toată inima la Timotee, cinstind pe Dumnezeu cel mai presus de cinste, arzându-te în foc, şi cu frigări ai luat în urechile inimii veselia glasului lui Dumnezeu. Şi prin spânzurarea cea cu capul în jos alergând către călătoria cea cerească, ai primit cununa."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru, că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

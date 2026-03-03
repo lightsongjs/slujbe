@@ -1,0 +1,30 @@
+{
+  "month": 7,
+  "day": 30,
+  "saint": "Sfinţii Apostoli Sila şi Silvan, şi cei dimpreună cu dânşii.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Luminându-vă cu strălucirile Duhului, preaînţelepţilor, aţi înconjurat marginile pământului, şi pe credincioşi i-aţi luminat, risipind întunericul adâncimii necunoştinţei, ca nişte Apostoli ai Cuvântului. Pentru aceea astăzi cu bucurie săvârşim pomenirea voastră cea sfântă, şi purtătoare de lumină, luând sfinţenie."
+      },
+      {
+        "text": "Ca nişte nori aţi rourat ploaia cea cerească pe la marginile pământului, şi aţi adăpat sufletele credincioşilor cu Harul cel dumnezeiesc, înecând neghinele cele cumplite ale nedumnezeirii, şi săvârşind sufletele oamenilor roditoare. Pentru aceasta cu laude vă cinstim pe voi fericiţilor Apostoli."
+      },
+      {
+        "text": "Adunându-ne cu toţii, să cinstim şi cu credinţă să fericim pe Sila cel prea-ales, pe Andronic și pe Epenet, şi pe Crescent, şi împreună cu aceştia cu râvnă să cinstim pe Siluan, pe propovăduitorii credinţei, care revarsă râuri de tămăduiri şi ridică supărările de tot felul de patimi, prin Dumnezeiescul Duh."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Izbăveşte de osândire şi de grele păcate, preasfântă Mireasă a lui Dumnezeu, sufletul meu cel smerit, şi-l mântuieşte din moarte prin rugăciunile tale, şi-mi dăruieşte să câştig la ziua judecăţii îndreptarea care o au câştigat cetele sfinţilor, curăţindu-mă mai-nainte de sfârşit prin pocăinţă, şi cu vărsări de lacrimi."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşea, care ai născut pe Mielul Cel fără de răutate, Care a venit să vindece păcatul a toată lumea cu sângele Său, care S-a junghiat pentru noi, şi toate le-a înviat, Preacurată, tu mă îmbracă cu haina Dumnezeiescului Dar cea din darea naşterii tale, pe mine care m-am golit de toată nestricăciunea."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Sfinţilor Apostoli, rugaţi pe milostivul Dumnezeu ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

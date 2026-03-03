@@ -1,0 +1,37 @@
+{
+  "month": 8,
+  "day": 1,
+  "saint": "În ziua întâia, scoaterea cinstitelor lemne ale cinstitei şi de viaţă făcătoarei Cruci, şi pomenirea Sfinţilor şapte Mucenici Macabei şi a maicii lor Solomoni şi a dascălului lor Eleazar.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Cela ce de sus ești chemat...",
+    "stihiri": [
+      {
+        "text": "Ca pe o păzitoare de obşte, ca pe un izvor de sfinţenie, cinstita Cruce să o sărutăm; pentru că potoleşte patimile, şi alină bolile, şi mântuieşte pe cei neputincioşi de toate durerile, revărsând pâraiele minunilor mai mult decât adâncul mării, celor ce cu credinţă se închină şi cinstesc chipul ei."
+      },
+      {
+        "text": "Noi oamenii cei ce umblăm ca pe mare prin valurile vieţii, şi ne înviforăm de furtuna patimilor, cu credinţă să alergăm la cinstitul lemn ca la o corabie de mântuire, şi va alina valurile, şi vânturile, şi va înceta patimile, şi să alergăm cu bucurie la limanul mântuirii cel fără de valuri."
+      },
+      {
+        "text": "Mai mult decât soarele a strălucit preacinstita Cruce, revărsând minunile ca pe nişte raze, şi tămăduirile ca pe nişte fulgere, să ne apropiem oamenii cei ce suntem ţinuţi totdeauna întru întunericul celor cumplite, şi să primim Darul tămăduirilor cel dătător de lumină, pe Dumnezeu Cel ce S-a pironit cu trupul pe dânsa slăvindu-L."
+      },
+      {
+        "text": "Pe turnul legii cel înălţat pe şapte stâlpi, tirania nu l-a clintit; pentru că cei de preabun neam tineri, şi de un sânge, dându-şi trupul la tăietori, vitejeşte au suferit turbarea gonaciului cea dobitocească, ca nişte păzitori aşezământurilor lui Moise."
+      },
+      {
+        "text": "Cei prea binecredincioşi şi viteji tineri, împreună cu maica lor cea cugetătoare de Dumnezeu, cu adevărat înălţându-şi mintea mai presus decât cele văzute, li s-au tăiat mădularele trupului, fiind întăriţi de preamari nădejdi care acum au câştigat, odihnindu-se în sânurile lui Avraam strămoşul lor."
+      },
+      {
+        "text": "Eleazar cel preasfinţit şi tinerii cei preaînţelepţi împreună cu maica lor cea de Dumnezeu gânditoare, întrarmându-se tare pe sineşi cu vitejia sufletului, şi învingându-şi mânia, cu tărie alergau împotriva luptătorului, pentru buna-credinţă, şi pentru paza legii celei părinteşti."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "Sfinţii Macabei, tiranului au grăit : Nouă o Antiohe ! Împărat unul este Dumnezeu de la Care suntem şi la Care ne întoarcem, altă lume ne aşteaptă pe noi, mai înaltă decât aceasta ce se vede şi mai stătătoare, şi patria noastră este Ierusalimul cel tare şi nepieritor, şi prăznuirea noastră este vieţuirea cea cu îngerii. Doamne pentru rugăciunile lor, miluieşte-ne şi ne mântuieşte pe noi."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Pentru durerile sfinţilor care pentru Tine au pătimit, fii Milostiv Doamne; şi toate durerile noastre le vindecă, Iubitorule de oameni, rugămu-ne Ție."
+    }
+  }
+}

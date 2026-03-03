@@ -1,0 +1,43 @@
+{
+  "month": 6,
+  "day": 14,
+  "saint": "Sfântul Prooroc Elisei, şi cel dintru sfinţi Părintele nostru Metodie patriarhul Constantinopolului.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Mucenicii Tăi Doamne...",
+    "stihiri": [
+      {
+        "text": "Bucură-te Eliseie preaînţelepte, căci tu curăţindu-ţi cugetul de dezmierdările trupului, ai primit luminile Duhului mărite, şi le-ai împărtăşit şi celorlalţi tuturor, şi cu totul te-ai arătat în chip luminos. Pentru aceasta te-ai sălăşluit lângă Lumina cea neapusă, rugându-le totdeauna pentru noi cei ce le lăudăm pe tine."
+      },
+      {
+        "text": "Pe tine Eliseie fericite, lăsându-te râvnitorul Ilie, luminat cu Darul său îndoit, cu adevărat s-a arătat căruţaş în văzduh, căruia asemănându-te prin Dar ai încetat curgerile râului, şi ai trecut, cu bucurie fiind luminat şi slăvind pe Hristos."
+      },
+      {
+        "text": "Dăruit-ai odinioară Somanitencei celei credincioase fiu de făgăduinţă, pe care murind l-ai înviat, ca un Prooroc dumnezeiesc, cu sfinţenie minunându-te. Şi iarăşi arătat ai primenit cu sare, apele cele neroditoare spre rodire, şi cu Darul Duhului, celui ce lucrează toate, ai săvârşit foarte nenumărate minuni; pentru aceasta te lăudăm, Fericite."
+      },
+      {
+        "text": "Întărirea adevărului şi reazemul credinţei, şi părtinitor dogmelor te ştim pe tine. Ajutor bunei credinţe, şi locaş curăţiei şi vas ales de bună mireasmă a Duhului, şi comoară foarte mare a învăţăturilor, şi temelie Bisericii lui Hristos, descoperitorule de cele sfinte, Metodie."
+      },
+      {
+        "text": "Făcutu-te-ai organ de sineţi mişcat, răsunând cu suflările Preasfântului Duh, căci cu limba ta cea cu glas de foc, ai grăit ca un tunet cele dumnezeieşti, şi ai ars neghinele vrăjmaşilor celor cu credinţă rea, care nu se închină chipului Domnului şi Dumnezeului nostru, şi al Preacuratei Maicii Lui, celor închipuite din vopsele materialnice."
+      },
+      {
+        "text": "Alesu-te-ai a fi în cetele preoţilor, şi întru adunările sihaştrilor, şi în danţurile mucenicilor, stând cu tărie până la sânge pentru Hristos, înfruntând nebunia judecătorului celui fărădelege. Şi din porunca împăratului celui fărădelege fiind băgat în mormânt, te-ai păzit nevătămat, Părinte cugetătorule de Dumnezeu."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Proorocule propovăduitorule al lui Hristos, de scaunul slavei niciodată nu te desparţi, şi la fiecare bolnav stai de faţă pururea. Şi cu cei de sus slujind, lumea o binecuvintezi pretutindenea fiind mărit, cere curăţire sufletelor noastre."
+    },
+    "nascatoarea": {
+      "text": "Cele cereşti te laudă pe tine, Maică nenuntită ceea ce eşti plină de Dar, şi noi preaslăvim naşterea ta cea neurmată, de Dumnezeu Născătoare, roagă-te, să se mântuiască sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Junicea cea nespurcată, văzând viţelul său spânzurat pe lemn de bunăvoie, tânguindu-se cu jale, striga : Vai mie preaiubite Fiule ? Ce Ţi-a răsplătit Ție adunarea nemulţumitorilor iudei ? Vrând să mă lipsească pe mine de Tine Fiule întru-tot iubite."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Cel ce a fost înger în trup temeiul Proorocilor, al doilea mergător înainte al venirii lui Hristos, Ilie măritul, care a trimis de sus lui Elisei Dar, bolile goneşte, şi pe cei leproşi curăţeşte. Pentru aceasta şi celor ce-l cinstesc pe dânsul, le izvorăşte tămăduiri."
+    }
+  }
+}

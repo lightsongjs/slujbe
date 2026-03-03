@@ -1,0 +1,24 @@
+{
+  "month": 5,
+  "day": 18,
+  "saint": "Pomenirea sfinţilor Mucenici : Petru, Dionisie şi a celor împreună cu dânşii, şi a Sfântului Mucenic Teodot cel din Anghira, şi a sfintelor şapte fecioare.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Luminându-vă cu strălucirea Dumnezeirii Celei în trei Sori, ați trecut întunericul muncilor, şi v-ați arătat stele luminoase, care luminaţi pururea dumnezeiască întărirea Bisericii. Pentru aceasta săvârşim luminată prăznuirea voastră, închinându-ne moaştelor, şi țărânei trupului vostru sfinților Mucenici."
+      },
+      {
+        "text": "Pe Petru, pe Dionisie, pe Pavel, pe Andrei şi Venedim, diamantele cele viteze, pe Hristina, Iraclie şi Paulin, toți credincioşii să-i fericim acum cu veselie, ca pe unii ce tare sau nevoit pentru Treime, şi au călcat toate măiestriile balaurului, şi au pierdut întunericul idolilor, prin dar."
+      },
+      {
+        "text": "Cu sângele vostru, fericiților, aţi cumpărat împărăţia lui Dumnezeu cea nemişcată, şi aţi ajuns la limanurile cele foarte liniştite prin bărbăţia cugetului, suferind toate întreitele valuri ale răutăţilor, de Dumnezeu fericiţilor. Pentru aceea vă fericim acum, rugându-vă pururea pentru noi ca să aflăm milă în ziua judecăţii."
+      }
+    ],
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

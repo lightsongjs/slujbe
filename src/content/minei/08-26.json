@@ -1,0 +1,34 @@
+{
+  "month": 8,
+  "day": 26,
+  "saint": "Sfinţii Mucenici Adrian şi Natalia.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Văzând Mărite pătimirea cea preacinstită şi luptele cele vitejeşti ale mucenicilor, cu cuget bărbătesc ai năvălit însuți către locul cel de lupte, necruţându-ţi trupul pentru dragostea cea dumnezeiască. Pentru aceasta ai săvârşit luptele cele vitejeşti, smerind sprânceana potrivnicului, Adriane prea-răbdătorule."
+      },
+      {
+        "text": "În temniţă încuindu-te, cu vine de bou bătându-te, cu obezi îngreunându-te şi cu cătuşe zdruncinându-te pururea pomenite, împreună cu mulţi Mucenici, cu care împreună ai câştigat bunătăţile cele cereşti, având îndemnătoare pe soţia ta Natalia, cea preaiubită lui Dumnezeu, Adriane preaviteazule."
+      },
+      {
+        "text": "Prin sfătuirea şarpelui a izgonit din Rai pe Adam soţia lui, iar Natalia a băgat în Rai pe Adrian, prea cu înţelepte sfătuindu-l, şi învăţându-l cu sfinţitele grăiri cele mai dinainte, ca să sufere durerile pătimirii, cele ce pricinuiesc răsplătirile cele cereşti şi slava cea veşnică."
+      }
+    ],
+    "slava": {
+      "glas": 1,
+      "text": "Râvna bărbatului celui binecredincios, a tras pe femeia cea iubitoare de Dumnezeu către sfătuire luminoasă. Căci Adrian prea-alesul supunându-se graiurilor Nataliei a săvârşit călătoria pătimirii. O femeie iubitoare de Dumnezeu ! Că nu, ca Eva a adus stricăciune lui Adam; ci viață neîncetată a pricinuit soţului ei. Pe aceasta împreună cu bărbatul său lăudându-i, lui Hristos să strigăm : Dă-ne nouă ajutor, prin solirile sfinţilor Tăi."
+    },
+    "nascatoarea": {
+      "text": "Pe Cuvântul cel fără început cu Tatăl şi cu Duhul, prin glasul Arhanghelului de Dumnezeu Născătoare, în pântece zămislindu-L, decât Heruvimii şi Serafimii şi Scaunele, mai înaltă te-ai arătat."
+    },
+    "cruciiNascatoarea": {
+      "text": "Fecioara şi Maica Ta cea Curată, văzând pe poporul cel fărădelege, fără dreptate pironindu-Te pe Tine pe lemn, precum Simeon mai-nainte a zis, Mântuitorule, la rărunchi se rănea."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru, că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

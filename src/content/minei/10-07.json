@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 7,
+  "saint": "Sfinţii Mucenici, Serghie şi Vach.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "O preamărită minune...",
+    "stihiri": [
+      {
+        "text": "Vache şi Serghie, pe voi împodobindu-vă Domnul măririi cu darurile tămăduirilor, v-a arătat minunaţi în lume, cu bună laudă tămăduind prin voi pururea pe bolnavi; pentru aceasta rugaţi-vă, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Vache şi Serghie, nevoindu-vă voi. pe pământ, dănţuiţi în ceruri, dimpreună cu cei fără de trupuri, stând dea-pururea înaintea Treimii sfinţilor, şi desfătându-vă cu mărire vă veseliţi. Pentru aceea rugaţi-vă, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Vache şi Serghie, voi amândoi aţi surpat cu vitejie împotrivirea vrăjmaşului, şi cu bună credinţă aţi lepădat rătăcirea cea pierzătoare a idolilor, propovăduind pe Împăratul Hristos; pe care rugaţi-L să se dăruiască sufletelor noastre pace şi mare milă."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Serghie şi Vach, luminarea cea limpede şi veselitoare a mucenicilor, semeţia tiranului au surpat-o, rătăcirea idolilor au contenit-o, şi taina cea desăvârşită a cunoştinţei de Dumnezeu au propovăduit cu glas luminat grăind cele înalte. Cu ale căror rugăciuni, Hristoase, Dătătorule de lege al acestora, puitorule de nevoinţă, şi de cununi Dătătorule, învredniceşte-ne şi pe noi să ne îmbrăcăm cu tărie împotriva puterilor răutăţilor celor nevăzute."
+    },
+    "nascatoarea": {
+      "text": "Cum îţi voi lăuda Darul, şi multa purtare de grijă din toate zilele, care aievea arăţi spre mine nevrednicul robul tău ? Şi în ce chip voi spune bunătatea ta, şi îngrijirea cea de multe feluri cu adevărat ? Ajută-mi încă și acum, fiind vie şi după moarte; şi mă scapă, preacinstită, de toată răutatea."
+    },
+    "cruciiNascatoarea": {
+      "text": "O preamărită minune ! O Taină nouă ! O lucru înfricoşat ! Fecioara grăia, văzându-Te pe Cruce spânzurând între doi tâlhari; pe Tine care fără de durere înfricoşat Te-a născut, şi plângând, striga : Vai mie Fiul meu preaiubite ! Cum Te-a pironit pe Cruce poporul cel cumplit şi nemulţumitor !"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

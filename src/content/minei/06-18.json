@@ -1,0 +1,34 @@
+{
+  "month": 6,
+  "day": 18,
+  "saint": "Sfântul Mucenic Leontie.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Ce te vom numi pe tine, Mărite, prinos Eladei, ca unul ce te tragi de acolo; curăţire Feniciei, ca unul ce te-ai jertfit într-însa; luminător ca unul ce ai strălucit întru întuneric; viteaz, ca un nebiruit de cei ce te băteau. Lauda ta este de multe feluri, Leontie preafericite, roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom numi purtătorule de chinuri, ostaş al lui Hristos, ca unul ce eşti surpător vrăjmaşilor, împărat patimilor, ca unul ce te-ai nevoit pentru buna credinţă; hrănitor celor flămânzi, ca unul ce eşti iubitor de săraci; iubitor drepţilor, ca unul ce cugeţi cele cereşti. De multe feluri îţi sunt patimile, mai luminate îţi sunt luptele, roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Cine nu te va lăuda pe tine Leontie, căci luând întru sine izvorul adevărului, izvorăşti credincioşilor râuri de faceri de bine, şi tuturor celor însetoşaţi, dai darurile din-destul fără de argint, şi veseleşti pe cei ce se împărtăşesc cu apele bunătăţii tale. Roagă-te să se mântuiască sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "Răbdătorule de patimi, Leontie prealăudate, nici focul, nici rănile, nici sabia, n-a putut a te depărta pe tine de dragostea lui Hristos; ci bărbăteşte pătimind în mijlocul muncitorilor, ai surpat jertfele cele idoleşti, de Dumnezeu înţelepţite Mucenice, şi acum ca un purtător de cunună dănţuind în ceruri, roagă-te cu dinadinsul pentru sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Întru-tot nevinovată, ceea ce covârşeşti rânduielile îngerilor, dimpreună cu îngerii pururea roagă, pe Cel ce stăpâneşte pe îngeri şi toată făptura, ca să dăruiască nouă iertare de greşeli, şi să ne mântuim de patimi, și vrednici lăudători să ne facă pe noi atunci slavei Sale, şi moşteni învierii celei nestricăcioase."
+    },
+    "cruciiNascatoarea": {
+      "text": "Nu mă plânge Maică, văzându-mă spânzurat pe lemn pe mine Fiul şi Dumnezeul tău, Cela ce am spânzurat pământul neţinut peste ape, şi toată făptura am zidit. Pentru că voi învia, şi mă voi proslăvi, şi cu tărie voi sfărâma împărăţia iadului, şi voi pierde puterea lui, şi pe cei legaţi voi mântui din tirania lui, ca un Milostiv, şi-i voi duce la Tatăl meu, ca un Iubitor de oameni."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Leontie întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

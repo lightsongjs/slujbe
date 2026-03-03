@@ -1,0 +1,28 @@
+{
+  "month": 5,
+  "day": 21,
+  "saint": "Sfinţii marii împăraţi și întocmai cu Apostolii Constantin şi Elena.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Armă prea tare împăratului nostru ai dat cinstită Crucea Ta, prin care a împărăţit pe pământ cu dreptate, strălucind cu buna-credinţă, şi împărăţiei cerurilor s-a învrednicit prin milostivirea Ta. Cu care slăvim rânduiala Ta cea iubitoare de oameni, Iisuse Atotputernice, Mântuitorule al sufletelor noastre."
+      },
+      {
+        "text": "Dat-ai Iubitorule de oameni binecredincioasei slugii Tale înţelepciunea lui Solomon, blândețile lui David şi dreapta credinţă a Apostolilor, ca un Împărat al împăraţilor şi Domn al tuturor celor ce domnesc. Pentru aceasta slăvim rânduiala Ta cea iubitoare de oameni, Iisuse Atotputernice, Mântuitorule al sufletelor noastre."
+      },
+      {
+        "text": "Întâi tu ți-ai supus porfira de bunăvoie lui Hristos pururea pomenile împărate, pe Dânsul cunoscându-l Dumnezeu şi Împărat peste toate, tuturor Făcător de bine, de biruinţă dătător, și mai înalt decât toată stăpânia şi puterea. Pentru aceasta ție iubitorule de Hristos, împărăția ți-a îndreptat, Iisus Iubitorul de oameni şi Mântuitorul sufletelor noastre."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Darurile cele bogate şi mai bune primind de la Dumnezeu, împărate preaputernice, mare Constantine, bine întru dânsele ai sporit. Că luminându-te cu razele Preasfântului Duh, de la sfinţitul Silvestru, prin Botez, între împărați te-ai arătat nebiruit, lumea ca un dar o ai dăruit Făcătorului tău, şi împărăteasca cetatea cea de Dumnezeu cinstitoare. Pentru aceasta nu înceta rugându-te lui Hristos Dumnezeu, ca cel ce ai îndrăzneală, să dăruiască tuturor celor ce săvârşesc pomenirea ta, iertare de păcate şi mare milă."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Chipul Crucii Tale pe Cer văzându-l, şi ca Pavel chemarea nu de la oameni luând, cel între împărați Apostolul Tău Doamne, împărăteasca cetate în mâinile Tale o a pus. Pe care mântuiește-o totdeauna în pace pentru rugăciunile Născătoarei de Dumnezeu, unule Iubitorule de oameni."
+    }
+  }
+}

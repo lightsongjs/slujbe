@@ -1,0 +1,34 @@
+{
+  "month": 9,
+  "day": 27,
+  "saint": "Sfântul Mucenic Calistrat și cei împreună cu dânsul.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O preamărită minune...",
+    "stihiri": [
+      {
+        "text": "Mucenice pătimitorule Calistrate, luminându-ţi-se cugetul cu lumina bunei credinţe, neabătut ai umblat, pe calea ceea ce duce la fericirea cea veşnică, biruind toate meşteşugirile vrăşmaşului. Pentru aceea te lăudăm, cinstind sfinţită pomenirea ta preafericite."
+      },
+      {
+        "text": "Mucenice cugetătorule de Dumnezeu Calistrate, îmbogăţindu-te de Cuvântul vieții, ai îndreptat către viaţă, pe cei ce mai-nainte ticăloşeşte fiind morţi din necunoştinţă, au primit pe urmă moarte cu osârdie pentru Hristos; şi se cred cu adevărat a fi vii întru Hristos. Cu care împreună roagă-te pentru noi către Domnul cel preabun."
+      },
+      {
+        "text": "Mucenice Sfinţite Ghimnasie, tăindu-ţi-se capul cu sabia, în râurile sângelui tău, ai înecat cu adevărat pe faraon cel viclean. Şi acum izvorăşti tămăduiri tuturor celor ce aleargă cu credinţă la Biserica ta, şi cinstesc într-însa nevoinţele tale, şi prăznuiesc cinstită pomenirea ta, Fericite."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Mai înainte de cinstită răstignirea Ta, moartea era înfricoşată oamenilor, iar după mărita patimă s-a făcut omul înfricoşat morţii. Pentru aceasta, a biruit puterea vrăjmaşului purtătorul de chinuri. Cu ale căruia rugăciuni, mântuieşte Hristoase sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Stăpână primeşte rugăciunile robilor tăi, şi ne mântuieşte pe noi de toată nevoia şi necazul."
+    },
+    "cruciiNascatoarea": {
+      "text": "Ce privire este aceasta care de ochii mei se vede, o Stăpâne ! Cela ce ţii dimpreună toată zidirea, pe Cruce Te-ai pironit, şi ai murit Cel ce tuturor dai viaţă. Născătoarea de Dumnezeu plângând a zis, când a văzut spânzurând pe Cruce, pe Cela ce negrăit a răsărit dintr-însa, pe Dumnezeu şi omul."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "month": 8,
+  "day": 24,
+  "saint": "Sfântul sfinţitul Mucenic Eutihie, ucenicul Sfântului Ioan de Dumnezeu cuvântătorul.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Mucenice Eutihie fericite, cu sfinţenie făcându-te ucenic al cinstitului ucenic al Cuvântului, propovăduitorului celui cuvântător de Dumnezeu, de la dânsul te-ai învăţat învăţătura cea preasfinţită şi te-ai arătat lumină, luminând cu Darul tot cugetul, cu cele de Dumnezeu sfinţite cuvântările tale. Pentru aceasta cinstim sfântă pomenirea ta."
+      },
+      {
+        "text": "Cu împuternicirea răbdării tale celei tari, ai surpat zidul înşelăciunii, Preafericite, şi ai suferit legături şi moarte pururea pomenite. Pentru aceasta ai dobândit nemurirea, petrecând împreună cu cetele mucenicilor, şi cu ale îngerilor, şi prin împărtăşirea cea mai bună cu cuviinţă dumnezeiască, desăvârşit te-ai îndumnezeit."
+      },
+      {
+        "text": "În temniţă fiind închis, din Cer ai primit pâinea vieţii, pururea pomenite, şi fiind aruncat în văpaie, ai rămas nears, şi zgâriindu-te cumplit, ai suferit răni, năvălirile fiarelor prin rugăciune le-ai îmblânzit, şi tăindu-ţi-se capul tău cu sabia, te-ai înălţat către Cer prin sânge, ca pe o dumnezeiască căruţă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Vino suflete al meu suspinând şi pâraie de lacrimi din inimă izvorând, strigă Fecioarei şi Maicii Dumnezeului nostru : Pentru mulţimea îndurărilor tale Preacurată mântuieşte-mă pe mine de munca cea înfricoşată şi mă sălăşluieşte, unde este odihna şi desfătarea şi bucuria cea veşnică."
+    },
+    "cruciiNascatoarea": {
+      "text": "Soarele s-a întunecat şi luna întru întunecoasă haină cu întuneric şi-a schimbat lumina; pământul s-a cutremurat, catapeteasma Bisericii s-a despicat; şi eu cum nu mă voi rupe la cele dinlăuntru, o Fiule ! Ochii şi măruntaiele îmi voi rupe, văzându-Te pe Tine că mori fără dreptate, preadulce Mântuitorul meu."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţă răbdând până la sânge, Sfinţite Mucenice Eutihie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre."
+    }
+  }
+}

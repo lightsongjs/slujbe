@@ -1,0 +1,30 @@
+{
+  "month": 12,
+  "day": 3,
+  "saint": "Sfântul prooroc Sofonie.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Cel ce de sus eşti chemat...",
+    "stihiri": [
+      {
+        "text": "Pe Proorocul tău Sofonie l-ai arătat nemuritorule, trimiţându-l ca pe un nor însufleţit, izvorând din-destul apa vieţii veşnice cu adevărat, şi dăruind Duhul Sfânt, Cel de o Fiinţă cu Tine, Părinte cel Atotputernic, şi cu Fiul Tău, Cel ce a strălucit din Fiinţa Ta. Prin care a proorocit mântuitoare venirea lui Hristos Domnului nostru, şi tuturor neamurilor a propovăduit mântuirea."
+      },
+      {
+        "text": "Cela ce ai luat raza Luminii celei dumnezeieşte stăpânitoare, prin curăţia minţii, şi grăitor de dumnezeieştile cuvinte te-ai făcut, şi mai-nainte arătător, şi dumnezeiesc Prooroc; gură de Dumnezeu mişcată a Duhului te-ai arătat, vestind cele descoperite ţie de la Dânsul, şi arătând tuturor păgânilor mântuirea ceea ce s-a dat, şi Împărăţia lui Hristos, Preacinstite. Pe Care roagă-L să mântuiască, şi să lumineze sufletele noastre."
+      },
+      {
+        "text": "Cela ce te-ai luminat cu vrednică vedere de Dumnezeu, şi cu proorocească privire la cele de sus, şi cu Darul te-ai cinstit, de Dumnezeu insuflate, şi te-ai învrednicit dumnezeieştii fericiri; şi acum ai câştigat îndrăzneală şi milă către Cel Preabun; nu înceta a te ruga, pentru cei ce Te laudă pe Tine cu credinţă, şi te cinstesc ca pe un cinstit de Dumnezeu grăitor şi de Dumnezeu primit, ca să ne scăpăm din primejdii, şi să se izbăvească sufletele noastre."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ca să descoperi tuturor mulţimea milei şi noianul cel nehotărât al bunătăţii, Preacurată, şterge toate păcatele slugilor tale; căci ca o Maică a lui Dumnezeu, Preacurată, ai stăpânire peste lume, şi cu puterea ta ocârmuieşti toate precum voieşti. Pentru că locuind întru tine Darul Duhului Sfânt, îţi ajută întru toate neîncetat, Preafericită."
+    },
+    "cruciiNascatoarea": {
+      "text": "Nu te tângui Maică, văzându-Mă pe lemn spânzurat, pe Mine, Cel ce M-ai născut mai presus de fire, Care am spânzurat pe ape pământul fără ţinere, şi am întins lăţimea Cerului cu cuvântul; că Mă voi scula, şi Mă voi preamării, voi sfărâma cu putere împărăţiile iadului, voi pierde puterea lui şi pe cei legaţi îi voi slobozi de robia lui, ca un Milostiv, şi la Părintele meu îi voi aduce ca un Iubitor de oameni."
+    },
+    "tropar": {
+      "glas": 2,
+      "text": "Prăznuind pomenirea Proorocului Tău Sofonie, Doamne, printr-însul Te rugăm, mântuieşte sufletele noastre."
+    }
+  }
+}

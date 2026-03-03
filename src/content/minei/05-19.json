@@ -1,0 +1,33 @@
+{
+  "month": 5,
+  "day": 19,
+  "saint": "Sfântul sfinţitul Mucenic Patrichie episcopul Prusiei şi cei dimpreună cu dânsul.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Dumnezeiască pătrime a Ierarhilor, s-a arătat ca o mulțime de stâlpi nemişcaţi ai lui Hristos, pe a căror întărire îşi înalță înţelepciunea casa. Jertfele dogmelor le pune înaintea tuturor, vinul cel veselitor îl toarnă în pahar de cinste, dă desfătare şi Dar celor ce cu credinţă săvârşesc pomenirea Ierarhilor, şi a pătimitorilor lui Hristos."
+      },
+      {
+        "text": "Păziţi lumea ucenici şi slugi ale lui Hristos, şi sfințiți dumnezeieşti Mucenici, mare Patrichie, dimpreună cu Acachie, prea Sfinţite Menandre, fericite Poliene, ceata de potriva minţilor celor cu patru fețe. Ca unii ce împliniţi ceată dumnezeiască, şi staţi înaintea Scaunului lui Dumnezeu, păziţi pe cei ce vă cinstesc pe voi cu credinţă."
+      },
+      {
+        "text": "Dorind cu adevărat, o Patrichie, de Cel ce negrăit a întemeiat pământul pe mări, şi l-a gătit pe el cu râuri, înveţi prin dumnezeieştile tale graiuri, taina cea preaminunată a apelor celor fierbinţi. Dintru ale Căruia daruri dumnezeieşti, dă-ne şi nouă de sus acum apele cele mântuitoare, prin rugăciunile tale."
+      },
+      {
+        "text": "Necazurile şi asuprelile cele rele, şi feluri de patimi viforăsc pe smeritul meu suflet, Fecioară neispitită de nuntă, Maica lui Hristos Dumnezeu, arată-te mie ocârmuitoare în marea vieţii, şi încetează viforul ce-mi stă asupră-mi, la limanul cel lin al pocăinței şi al răsuflării, povățuindu-mă pe mine cel ce alerg la acoperământul tău."
+      },
+      {
+        "text": "Multe dureri suferind întru răstignirea Fiului şi Dumnezeului tău, Preacurată, suspinând, lăcrimai şi strigai : Vai mie preadulcele meu Fiu, cum pătimeşti fără dreptate, vrând să mântuieşti pe pământenii cei din Adam ? Pentru aceasta Preacurată Fecioară, ție cu credință ne rugăm : Fă nouă pe Acela, Milostiv."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Multe dureri suferind întru răstignirea Fiului şi Dumnezeului tău, Preacurată, suspinând, lăcrimai şi strigai : Vai mie preadulcele meu Fiu, cum pătimeşti fără dreptate, vrând să mântuieşti pe pământenii cei din Adam ? Pentru aceasta Preacurată Fecioară, ție cu credință ne rugăm : Fă nouă pe Acela, Milostiv."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "month": 12,
+  "day": 16,
+  "saint": "Sfântul Prooroc Agheu.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Mucenicii Tăi, Doamne...",
+    "stihiri": [
+      {
+        "text": "Făcându-te locaş Dumnezeului tău, Slăvite, şi Biserică însufleţită, cu strălucirea şi cu traiul vieţii ai ridicat Biserică neînsufleţită (care căzuse dedemult preacinstite) Celui ce împărăteşte lumea; pe Acela roagă-L, ca prin rugăciunile tale, să ne dăruiască tuturor mare milă."
+      },
+      {
+        "text": "Vas te-ai arătat Duhului, primitor de luminări, primind revărsările de lumină, care ţi s-au dat din Cer; pentru aceea prooroceşti izbăvirea cea de mântuire a tuturor oamenilor; cu rugăciunile tale, cere de la Dânsul să dea tuturor mare milă."
+      },
+      {
+        "text": "Fiind revărsată peste tine raza cea purtătoare de Dumnezeu, te-ai învrednicit științei, şi te-ai arătat plin de lumina cea preacurată şi neînserată, Fericite; păzeşte pe cei ce te laudă, rugând pe însuşi Domnul, să dea tuturor mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Fecioară fără prihană de Dumnezeu dăruită, singură Stăpână, luminează-mi acum inima, cea întunecată cu patimi cumplite, ca să văd lumina cea neînserată, şi dumnezeiască a Fiului tău Cel preadulce. Ca să te laud şi să te măresc pe tine, singură nădejdea noastră şi lauda."
+    },
+    "cruciiNascatoarea": {
+      "text": "Nu sufăr Fiule a Te vedea pe Tine, Cela ce ai dat priveghere tuturor să dormi pe Cruce, ca să dai celor ce odinioară au adormit somnul pierzării, din călcarea poruncii, priveghere dumnezeiască, şi mântuitoare; zicea Fecioara tânguindu-se; pe care o mărim."
+    },
+    "tropar": {
+      "glas": 2,
+      "text": "Prăznuind pomenirea proorocului Tău Agheu, Doamne, printr-însul Te rugăm, mântuieşte sufletele noastre."
+    }
+  }
+}

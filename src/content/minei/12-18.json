@@ -1,0 +1,30 @@
+{
+  "month": 12,
+  "day": 18,
+  "saint": "Sfântul Mucenic Sebastian, și cei împreună cu dânsul.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Cu vopselele cinstitelor tale sângiuri Mucenice, ţi-ai făcut porfiră de mult preţ, cu care împodobindu-te, locuieşti cu adevărat în împărăţiile cele de sus, stând înaintea lui Dumnezeu Împăratului tuturor; pe Care roagă-L să dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Dimpreună cu Sebastian pătimeşte Zoi, Marco şi Marcelin, şi de Dumnezeu înţelepţitul Tiburtie, răbdând întreite valuri de dureri; şi acum s-au sălăşluit la odihna cea fără durere şi dumnezeiască; întru care se roagă, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Nebiruiţilor Mucenici, lăsând cele de pe pământ pământului, ați alergat către ceruri, fiind împodobiţi cu rănile voastre, şi împestriţi luminat cu cinstitele patimi, fericiţilor; pentru aceea rugaţi-vă, să se dăruiască sufletelor noastre pace şi mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Fecioară prealăudată, Moise cu ochi prooroceşti a văzut mai-nainte taina ce s-a făcut cu tine, rugul aprinzându-se şi nearzându-se; că Focul Dumnezeirii, n-a ars pântecele tău Curată. Pentru aceasta cerem de la tine, ca de la o Maică a Dumnezeului nostru, să se dăruiască lumii pace şi mare milă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând Fecioara junghierea Ta cea fără dreptate Hristoase, tânguindu-se striga către Tine : Fiule preadulce ! Cum mori fără dreptate ? Cum stai spânzurat pe lemn, Cela ce ai spânzurat pământul pe ape ? Nu mă lăsa singură Făcătorule de bine, Multmilostive, pe mine Maica şi roaba Ta, rogu-mă !"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "month": 5,
+  "day": 7,
+  "saint": "Pomenirea semnului cinstitei Cruci ce s-a arătat pe Cer în cetatea Ierusalimului, în ceasul al treilea din zi, întinsă cu stele de la locul Căpăţânii, până la Sfântul munte al Eleonului în zilele lui Constantie împărat, fiul marelui Constantin, și pomenirea sfinţilor Mucenici Acachie și Codrat.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Cela ce de sus eşti chemat...",
+    "stihiri": [
+      {
+        "text": "Astăzi se bucură dumnezeiască mulţimea credincioşilor, căci se arată Cruce cerească pe la marginile pământului. Crucea luminează Cerul cu lumină neapropiată, văzduhul străluceşte şi fața pământului se înfrumuseţează. Biserica lui Hristos cântă cântări dumnezeieşti şi crede, cinstind Crucea cea dumnezeiască şi minunată, care o păzeşte pe ea de sus; de a căreia putere întărindu-ne, să ne apropiem către Stăpânul strigând, ca să împace lumea, şi să lumineze sufletele noastre."
+      },
+      {
+        "text": "Ca o scară preacinstită s-a văzut astăzi Crucea cea preacinstită şi mărită, care mută de la pământ către cele cereşti, pe cei ce o cinstesc pe dânsa cu credinţă neîndoită. Se bucură toate limbile şi alergând cu îndrăzneală la Botez se veselesc, şi chipul Bisericii cel dumnezeiesc se împodobeşte ca o mireasă. Căci Crucea pe care se nevoiau Iudeii să o ascundă, străluceşte de la înălţime deasupra, şi mântuieşte pe cei ce cu credinţă aleargă către dânsa."
+      },
+      {
+        "text": "Să se veselească zidirea şi să salte, căci astăzi a strălucit Crucea la marginile pământului, luminând din Cer pe cele de pe pământ, şi arătând împreunate cele neîmpreunate. Astăzi se bucură oamenii cu cetele îngereşti, căci zidul cel din mijloc care despărţea, ridicându-se prin Cruce, arătat a adunat toate întru una. Pentru aceea mai mult decât soarele, luminează toată zidirea cu Darul, şi înfrumuseţează şi mântuieşte pe cei ce cu credinţă o cinstesc pe dânsa."
+      }
+    ],
+    "slava": {
+      "glas": 5,
+      "text": "Vestit-au cerurile slava Ta, Doamne, şi tot pământul cu frică s-a închinat la înfricoşat semnul Crucii Tale, iar noi slavoslovind; şi lăudându-te strigăm : Fiind Dumnezeu nepătimitor, de bunăvoie ai primit a pătimi pentru noi cu trupul, pentru aceea mântuieşte poporul Tău cel ce l-ai câştigat cu scump sângele Tău."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Chipul Crucii Tale acum mai mult decât soarele a strălucit care de la Sfântul munte până la locul Căpățânii o ai întins, şi într-însa a ta putere Mântuitorule ai luminat, printr-însa întărind şi pe binecredincioşii împăraţi, pe care îi şi mântuieşte totdeauna în pace, pentru rugăciunile Născătoarei de Dumnezeu, Hristoase Mântuitorule, mântuieşte-ne şi pe noi."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "month": 12,
+  "day": 8,
+  "saint": "Preacuviosul Părintele nostru Patapie.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici..",
+    "stihiri": [
+      {
+        "text": "Părinte Patapie, aprinderea pornirilor trupului o ai veştejit cu înfrânările sihăstriei; în pustie te-ai sălăşluit ca odinioară Ilie, curăţindu-ţi gândul cu rugăciunile cele neîncetate către Dumnezeu. Şi acum roagă-te, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Părinte Patapie, în cetele sihaștrilor te-ai numărat, împodobindu-te cu nepătimire, şi te-ai sălăşluit în lăcaşurile Cuvioşilor unde este lumina cea neapusă, unde este lemnul vieţii. Şi acum te roagă, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Părinte Patapie, luminător din Egipt ai răsărit, luminând lumea cea de sub soare, cu luminile minunilor; gonind întunericul bolilor celor pierzătoare de suflet, şi risipind negura dracilor. Şi acum te roagă, să se dăruiască sufletelor noastre, pace şi mare milă,"
+      }
+    ],
+    "nascatoarea": {
+      "text": "Prealăudată Stăpână, nădejdea şi întărirea credincioşilor, scăparea şi ajutorul; pe tine te rugăm, păzeşte de toată nenorocirea pe robii tăi, care cu credinţă se închină naşterii tale; rugându-te Lui, să se dăruiască sufletelor noastre, pace şi mare milă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşeaua şi Stăpâna cea fără prihană, dacă a văzut pe Mielul său pe Cruce, neavând chip nici frumuseţe, tânguindu-se zicea : Vai mie ! Unde Ți-a apus frumuseţea preadulcele meu ? Unde este buna cuviinţă ? Unde este Darul chipului Tău cel ce strălucea, Fiul meu preaiubite."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Întru tine Părinte cu osârdie s-a mântuit cel după chip; că luând Crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioase Patapie, duhul tău."
+    }
+  }
+}

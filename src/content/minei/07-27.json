@@ -1,0 +1,34 @@
+{
+  "month": 7,
+  "day": 27,
+  "saint": "Sfântul marele Mucenic, şi tămăduitorul Pantelimon.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Cel ce după vrednicie ai fost numit Panteleimon, când iubirea de oameni tuturor o ai tins, purtarea de grijă pentru sufletele şi tămăduirea trupurilor arătând, atunci cu numirea de milostiv te-ai îmbogăţit, răsplătire pentru fapta bună şi plată pentru buna credinţă Mucenice aflând. Purtător de cunună, şi nebiruit ostaş al Dumnezeului nostru arătându-te; pe Care roagă-L, să mântuiască şi să lumineze sufletele noastre. De trei ori."
+      },
+      {
+        "text": "Cela ce ai luat Dar de tămăduiri, când buna credinţă mai mult decât toate ţi-ai ales, lipindu-te de dumnezeiască credinţa maicii tale, şi păgânătatea tatălui tău urând, atunci dumnezeiască rază ţie ţi-a dăruit, adâncul luminărilor, dătătorul de lumină, Cuvântul lui Dumnezeu, Cel ce dăruieşte lucruri mari, cu dumnezeiasca cunoştinţă mai-nainte cunoscând strălucirea ta, Pantelimoane înţelepte, care tuturor o ai arătat, creştineşte vieţuind. De trei ori."
+      },
+      {
+        "text": "Cela ce din izvoarele Mântuitorului cele fără materie scoţi pururea Dar de dumnezeieşti tămăduiri, şi din-destul le torni şi le dai celor ce vin la tine preafericite, pe toţi cei ce săvârşesc cu credinţă, mărită şi preasfinţită şi de lumină purtătoare pomenirea ta, cu Dumnezeiescul Dar luminează-i, cela ce eşti uns cu numirea lui Dumnezeu următoare arătat, şi cu bunătate, care roagă-te să se dăruiască tuturor, celor ce te laudă pe tine. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Strălucit-a astăzi cinstită pomenirea celui fără de argint, care cheamă pe cei credincioşi la ospăţ de taină, şi la adunare de prăznuire, aducând împreunările iubitorilor de praznic, că ne-a sosit nouă doctorul cel făcător de minuni, cel ce vindecă bolile tuturor, Pantelimon, tarele pătimitor, şi se roagă cu dinadinsul Domnului, ca să mântuiască sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Cele cereşti te laudă pe tine, ceea ce eşti cu Dar dăruită, Maică care nu ştii de mire; şi noi slăvim naşterea ta cea neurmată, de Dumnezeu Născătoare, roagă-te să se mântuiască sufletele noastre."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Purtătorule de chinuri sfinte, şi tămăduitorule Pantelimoane; roagă pe milostivul Dumnezeu, ca să dea iertare de greşale sufletelor noastre."
+    },
+    "troparNascatoarea": {
+      "text": "Pe tine, ceea ce ai mijlocit mântuirea neamului nostru, te lăudăm, Născătoare de Dumnezeu, Fecioară; căci, cu trupul cel luat din tine, Fiul tău şi Dumnezeul nostru, prin Cruce răbdând patimă, ne-a izbăvit pe noi din stricăciune, ca un Iubitor de oameni."
+    }
+  }
+}

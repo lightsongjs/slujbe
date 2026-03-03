@@ -1,0 +1,43 @@
+{
+  "month": 10,
+  "day": 12,
+  "saint": "Sfinţii Mucenici Prov, Tarah şi Andronic. Şi Preacuviosul Părintele nostru Cosma,",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Aceşti trei sfinţi Mucenici slujind pururea cu un cuget Dumnezeirii Celei întreit Sfinte, au răbdat îngrozirile tiranilor şi rănile muncilor, întărindu-se cu credinţa; Prov, şi Tarah şi Andronic cel împreună-pătimitor, şi au luat cununi de biruinţă."
+      },
+      {
+        "text": "Fiind îmbrăcaţi cu Hristos şi purtând Crucea ca o armă în mâinile voastre sfinţilor, cu tărie aţi surpat semeţia vrăjmaşilor, şi aţi luat de la Dumnezeu daruri pentru biruinţă măriţilor; Aceluia vă rugaţi, să dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Arzându-vă de dragostea lui Hristos, măriţilor purtători de chinuri, v-aţi arătat nebiruiţi; nici sabia, nici cuptorul, nici mânia tiranilor, nici durerile chinurilor, nici moartea nu v-au îngrozit pe voi; şi săvârşind lupta pătimirii după vrednicie, aţi luat cununi."
+      },
+      {
+        "text": "Cu razele Duhului strălucindu-se mintea, te-ai făcut purtător de lumină, vrednicule de minune, luminând pe toate cu frumuseţea cuvintelor tale, şi învăţând să laude minunile Mântuitorului, care cu dumnezeiască stăpânire le-a făcut, şi patimile care de voie a suferit pentru noi, ca un Iubitor de oameni."
+      },
+      {
+        "text": "Străluceşte-te Biserică ! Şi cu înaltă propovăduire cheamă pe fiii tăi să se bucure împreună; căci vioara Duhului, alăuta cea îndumnezeită, cheamă tainic pe toţi la ospăţ, punând înainte cuvântările şi cântările sale cele de miere curgătoare şi de Dumnezeu grăitoare, Cosma dumnezeiescul şi slăvitul."
+      },
+      {
+        "text": "Trâmbiţă te-ai făcut Cuvioase, cântând patimile şi minunile lui Hristos cele mântuitoare, şi Adormirea preacuratei Sale Maici; pe toţi veselind Cosma cu cuvintele tale cele bine întocmite şi îndulcitoare. Pentru aceasta toţi după datorie te cinstim, cântând pe lăudata, dumnezeiasca şi sfinţita ta mutare."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Ostaşi Iui Hristos făcându-vă, aţi lăsat frumuseţile cele de pe pământ, şi luând Crucea pe umeri, aţi mers după Dânsul prin chinuri de multe feluri; şi nu v-aţi lepădat de El înaintea împăraţilor şi a multor tirani. Îngerii au încununat capetele voastre cu darurile cele de biruinţă; căci fiind îndrăzneţi cu sufletul, luminat aţi venit împreună în cămara de mire cea mare. Prove, mărirea mucenicilor, Tarahe, pierzătorule al dracilor, şi Andronice biruinţa credincioşilor; având îndrăzneală, rugaţi-vă Mântuitorului tuturor pentru sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Dăruieşte-mi prefacere vieţii Fecioară, scoţându-mă din năravurile cele pătimaşe, către nepătimitoarea Dumnezeire; dându-mi neîncetat nespusă îngăduinţă şi apropiere; spre a-mi uda sufletul cu plângeri de bucurie."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă a văzut Fecioara cea fără prihană, pe Mieluşelul său spânzurat pe Cruce, tânguindu-se striga : Preadulcele meu Fiu ! Ce vedere nouă şi minunată este aceasta ? Cum Tu Cel ce Ții toate cu mâna, Te-ai pironit cu trupul pe lemn ?"
+    },
+    "tropar": {
+      "glas": 5,
+      "text": "De isprăvile sfinţilor Mucenici puterile îngereşti prea s-au minunat; că fiind în trup muritor, pe vrăjmaşul cel fără de trup cu puterea Crucii nevoindu-se tare, l-au biruit nevăzut. Şi acum se roagă Domnului să se miluiască sufletele noastre."
+    }
+  }
+}

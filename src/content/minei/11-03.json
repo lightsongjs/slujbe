@@ -1,0 +1,43 @@
+{
+  "month": 11,
+  "day": 3,
+  "saint": "Sfinţii Mucenici, Achepsimii Episcopul, Iosif Preotul şi Aitala diaconul. Şi înnoirea bisericii Sfântului marelui Mucenic Gheorghe, cea din Lida, unde este pus cinstitul lui trup.",
+  "vecernie": {
+    "glas": 6,
+    "podobia": "Ca pe un viteaz între...",
+    "stihiri": [
+      {
+        "text": "Bucură-te treime a Treimii, lăcaşurile cele curate ale bunătăţilor, paharele care revarsă vinul bunei credinţe, care veselesc inimile noastre, sânii, care izvorăsc laptele vindecărilor, stelele care luminează lumina adevărului, şi marginile lumii le strălucesc cu luminări; mucenicilor cei cu nume mare, cei ce aţi micşorat noaptea necunoştinţei, şi aţi luminat cugetele tuturor. Rugaţi-vă lui Hristos să dea sufletelor noastre mare milă."
+      },
+      {
+        "text": "Bucură-te sfinţite Achepsima, Aitala, şi Iosife, vrednicilor de laudă, cei ce prin cunoştinţă dumnezeiască cu dumnezeiescul foc aţi stins rătăcirea necredincioşilor, prin care cei ce slujesc soarelui şi stelelor, afară din lege, de tot s-au înecat, şi au încetat isteţimea vrăjitorilor. Mucenici cei pururea cinstiţi, cei ce aţi fost apărători Treimii, lumina celor dintru întunericul necunoştinţei, jertfe ale Arhipăstorului cel adevărat, a lui Hristos, Care S-a jertfit, şi a dat lumii mare milă."
+      },
+      {
+        "text": "Toată năvălirea relelor o aţi suferit cu gând preaviteaz, puindu-vă înţelepţilor pe cai, ca pe o povară vă ducea către multa ispită a muncilor. Pentru aceea tăindu-vă, şi cu toiege bătându-vă, şi cu chinurile topindu-vă cumplit, nu v-aţi supus, nu v-aţi lepădat de Dumnezeu. De aceea vi s-a adus cununa biruinţei, şi v-aţi numărat în cetele mucenicilor luminat. Cu care dimpreună cereţi, să dea sufletelor noastre mare milă."
+      },
+      {
+        "text": "Bucurându-te ai mers la lupte, cu mişcări de sineţi pornite; şi spăimântând tot cugetul cu răbdarea ta, şi semeţiile tiranilor călcându-le, te-ai mutat către petrecerea cea luminată a îngerilor, dănţuind împrejur împreună cu ei şi veselindu-te; şi cu folosirile tale preafericite Mucenice Gheorghe, mântuind totdeauna pe cei ce te cinstesc pe tine cu credinţă, şi din milostivire plecându-te spre tânguirile săracilor, te rogi lui Hristos, Celui ce dăruieşte lumii mare milă."
+      },
+      {
+        "text": "Vino către noi cei ce te lăudăm, şi suntem scârbiţi, ca să ne fii ajutător, uşurând ostenelile supărărilor celor cumplite şi ridicând greutatea; cârmuindu-ne şi păzindu-ne, şi mântuindu-ne Gheorghe, şi aducându-ne către Domnul prin credinţă, şi îndreptându-ne către poruncile Celui ce ne-a zidit; ca prin bunătatea Lui vieţuind, toţi să câştigăm dumnezeieştile răsplătiri în ceruri, lăudând pe Hristos, Care dă lumii mare milă."
+      },
+      {
+        "text": "Mare şi minunat cu adevărat, se propovăduiește lauda muceniciei tale celei nespuse, mărite Mucenice. Căci ca un biruitor luminat, alergi în toată lumea, vrednicule de laudă Gheorghe. Şi fiind împodobit cu dumnezeieştile faceri de minuni, şi vindecând bolile, şi pe cei ce pătimesc tămăduindu-i cu rugăciunile tale. Pentru aceea te cunoaştem ca pe un ajutor fierbinte şi făcător de bine preafericit, celor robiţi scăpare. Roagă-te lui Hristos, să dea sufletelor noastre mare milă."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "După vrednicia numelui ai vieţuit viteazule Gheorghe; că luând Crucea lui Hristos pe umeri, bine ai lucrat pământul cel înţelenit de înşelăciunea cea diavolească; și credinţa idolilor cea spinoasă dezrădăcinându-o, ai sădit viţa dreptei-credinţe. Pentru aceea izvorăşti vindecări credincioşilor celor din toată lumea, şi te-ai arătat drept-lucrător al Treimii, rugămu-ne ție : Roagă-te pentru pacea lumii şi pentru mântuirea sufletelor noastre."
+    },
+    "nascatoarea": {
+      "text": "Rugăciunile păcătoşilor primindu-le, nu trece cu vederea suspinurile celor scârbiți, rugând pe Cel din curate sângiurile tale, ca să ne mântuiască pe noi Preasfântă Fecioară."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    },
+    "troparNascatoarea": {
+      "text": "Taina cea din veac ascunsă şi de îngeri neştiută, prin tine, Născătoare de Dumnezeu, celor de pe pământ s-a arătat: Dumnezeu întrupându-Se, întru unire neamestecată, şi Crucea, de bunăvoie, pentru noi luând; prin care, înviind pe cel întâi zidit, a mântuit din moarte sufletele noastre."
+    }
+  }
+}

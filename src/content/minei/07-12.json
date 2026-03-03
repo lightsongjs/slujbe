@@ -1,0 +1,43 @@
+{
+  "month": 7,
+  "day": 12,
+  "saint": "Sfinţii Mucenici Proclu şi Ilarie şi Preacuviosul Părintele nostru Mihail Maleino. Tot în acestă zi facem Prăznuirea pomenirii sfintei Icoane a Maicii lui Hristos Dumnezeu, celei cu dumnezeiască minune zugrăvită, numită Prodromiţa.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Preacuvioase Părinte...",
+    "stihiri": [
+      {
+        "text": "Suferind chinuri de multe feluri amândoi, aţi luat cununi luminate Ilarie şi Procle; drept aceea cu credinţă săvârşim pomenirea voastră cea atot-prăznuită, rugându-ne neîncetat, să vă rugaţi pentru noi toţi."
+      },
+      {
+        "text": "Şuviţările trupului tău le-ai suferit Procle, văzând mai-nainte odihna cea veşnică, şi petrecerea cea din rai, şi lumina cea neînserată, întru care petrecând, roagă-te să ne luminăm şi noi cei ce te cinstim."
+      },
+      {
+        "text": "Ca şi cum ar fi doi luminători, luminaţi lumea cu strălucirea minunilor, izgonind întunericul patimilor, pătimitorilor ai Domnului, Ilarie şi Procle. Drept aceea cu bucurie vă lăudăm pe voi, prăznuind pomenirea voastră."
+      },
+      {
+        "text": "Preacuvioase Părinte, din tinereţe ai dorit viaţa cea întocmai cu îngerii, şi frumuseţile lumii întru nimic socotindu-le, de umbra măririi celei vremelnice, ca de ceea ce n-ar fi fost, ai fugit, şi ai cugetat la slava cea dumnezeiască, căreia acum împărtăşindu-te şi dezlegându-te de legăturile trupului cele de pe pământ, şi stând înaintea luminii lui Hristos, pe Acesta îmblânzeşte-L, rugându-te Lui pururea, ca să dăruiască Bisericii un cuget, pace şi mare milă."
+      },
+      {
+        "text": "Preacuvioase Părinte, strălucirea umilinţei, luminătorule al celor ce sunt întru întuneric, luceafărul cel neapus, cărbunele cel cinstit al pocăinţei, piatra cea dumnezeiască a bunătăţilor şi a milosteniei, marele luminător întru rugăciuni, ajutător săracilor şi văduvelor, canonul cel după lege al Bisericii; roagă-te pururea lui Hristos, să dăruiască Bisericii un cuget, pace şi mare milă."
+      },
+      {
+        "text": "Preacuvioase Părinte, mai-naintea naşterii, ca Ieremia cel preasfinţit, te-ai sfinţit, că Maica Domnului a proorocit, celeia ce te-a născut pe tine, ca să i se dea rod pe tine, care ai şi fost dat ei din scutece, şi îndată cu cuget drept te-a primit pe tine, cela ce ai fugit de gâlceava lumii, şi ai iubit viaţa sihăstrească, în care ai şi petrecut, şi pe adunările celor de un chip ca pe nisip le-ai sădit lângă izvoarele apelor Dumnezeiescului Duh."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Preacuvioase Părinte Mihaile, în tot pământul a ieşit vestea isprăvilor tale, pentru aceasta în ceruri ai aflat plata ostenelilor tale. Taberele drăceşti ai pierdut, cetele îngereşti ai ajuns, a cărora viaţă fără prihană ai urmat, îndrăzneală având către Dumnezeu, cere pace sufletelor noastre."
+    },
+    "nascatoarea": {
+      "text": "Cui te-ai asemănat suflete ticăloase, care spre pocăinţă nicicum nu te deştepţi, şi de foc nu te temi, de răutăţi nedepărtându-te; scoală-te, şi pe una cea grabnică ajutătoare spre folosinţă o cheamă, nu înceta rugând pe Fiul tău şi Dumnezeul nostru, să mă mântuiască de cursele celui viclean."
+    },
+    "cruciiNascatoarea": {
+      "text": "Stând înaintea Crucii Fiului şi Dumnezeului tău, şi uitându-te la îndelungă-răbdarea Lui, ziceai, tânguindu-te Maică Curată : Vai mie preadulcele meu Fiu ! Cum pătimeşti acestea fără dreptate, Cuvinte al lui Dumnezeu ? Ca să mântuieşti pe om."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

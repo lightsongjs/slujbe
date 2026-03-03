@@ -1,0 +1,30 @@
+{
+  "month": 8,
+  "day": 3,
+  "saint": "Preacuvioşii Părinţii noştri Isaachie, Dalmat şi Faust.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Mucenicii Tăi, Doamne...",
+    "stihiri": [
+      {
+        "text": "Cuvioşii Tăi Doamne, celor fără de trupuri asemănându-se prin rugăciune şi prin înfrânare, patimile trupului le-au împuţinat, şi strălucind cu nepătimirea, au luminat inimile tuturor, cu ale căror rugăciuni dăruieşte norodului Tău mare milă."
+      },
+      {
+        "text": "Dalmat şi Isaachie primind râvnă îmbunătăţită, arătat au surpat eresul lui Arie şi al lui Nestorie, şi ortodocşilor ajutându-le, laudă de la toţi au luat; prin rugăciunile lor Hristoase, dăruieşte norodului Tău mare milă."
+      },
+      {
+        "text": "Arătându-vă stele întru tăria pustniciei, aţi luminat sufletele călugărilor, cuvioşi părinţi, izgonind întunericul dracilor. Pentru aceasta şi după sfârşit vă fericiţi, rugându-vă ca să se mântuiască toţi cei ce săvârşesc dumnezeiască pomenirea voastră."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cugetele îmi sunt necurate, buzele viclene, şi lucrurile mele pângărite, şi ce voi face ? Cum voi întâmpina pe Judecătorul ? Stăpână Fecioară roagă pe Fiul şi Ziditorul tău şi Domnul, ca să primească duhul meu întru pocăinţă, ca un singur Milostiv."
+    },
+    "cruciiNascatoarea": {
+      "text": "Junicea cea nespurcată, văzând pe Viţelul pe lemn de voie pironit, tânguindu-se cu jale, vai mie a strigat; Iubitul meu Fiu, ce Ți-a răsplătit adunarea nemulţumitorilor evrei, vrând să mă lase pe mine fără de Fiu ? Fără de Tine întrutot iubite."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Dumnezeul părinţilor noştri, Care faci pururea cu noi după blândeţile Tale, nu depărta mila Ta de la noi, ci pentru rugăciunile lor, în pace îndreptează viața noastră."
+    }
+  }
+}

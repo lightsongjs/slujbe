@@ -1,0 +1,30 @@
+{
+  "month": 1,
+  "day": 26,
+  "saint": "Preacuviosul Părintele nostru Xenofont şi soţia lui, împreună cu doi fii ai lor.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Strălucind cu vrednicii sufleteşti, cu milostenii, şi cu credinţă, te-ai luminat pe tine însuţi. Că cu bucurie ai împărţit bogăţia ta săracilor, şi dreptatea ta rămâne în veci, răsărindu-ţi ţie Părinte lumină neînserată, unde vezi pe cuvioşii tăi fii, şi pe ceea ce i-a născut, locuind în cetatea cea cerească."
+      },
+      {
+        "text": "Nebăgând seamă mărirea cea stricăcioasă, v-aţi învrednicit slavei celei nestricăcioase şi dumnezeiești. Căci călcând toată veselia vieţii, foarte aţi dorit de Hristos cel cu adevărat veselitor, purtătorilor de Dumnezeu, Care v-a mântuit pe voi de întreitele valuri, şi de furtuna lumii, şi v-a aşezat la viaţa cea lină şi purtătoare de lumină, preafericiţilor."
+      },
+      {
+        "text": "Omorând patimile trupului, v-aţi îmbrăcat cu hainele nepătimirii, ţesându-le pe dânsele cu curăţia vieţii. Şi încă în trup fiind, aţi arătat vieţuire întocmai cu îngerii, ca nişte răbdători, şi toţi v-aţi învrednicit de slava cea îngerească întru înălţime, îndulcindu-vă de lumina cea dumnezeiască."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Numai tu ai purtat în pântece fără strâmtoare pe Cel neîncăput, făcându-Se Om pentru bunătatea Sa, Preasfântă Mireasă dumnezeiască. Drept aceea te rog, scapă-mă de patimile care mă necăjesc, ca şi călătorind pe cărarea cea strâmtă şi dreaptă, să apuc pe calea care duce la viaţă, Fecioară."
+    },
+    "cruciiNascatoarea": {
+      "text": "Când ai văzut Fecioară spânzurat pe Cruce pe Strugurul cel prea copt, pe Care L-ai purtat nelucrat în pântece, tânguindu-te te văitai, şi strigai : Fiul meu, picură întru noi vin, prin care să se ridice toată beţia patimilor, Făcătorule de bine; cu rugăciunile celeia ce Te-a născut pe Tine, Cuvinte, ca un Milostiv."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Dumnezeul părinţilor noştri, Care faci pururea cu noi după blândeţile Tale, nu depărta mila Ta de la noi; ci pentru rugăciunile lor, în pace îndreptează viaţa noastră."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "month": 1,
+  "day": 10,
+  "saint": "Cel dintru Sfinţi Părintele nostru Grigorie de Nisa, şi Cuviosul Părintele nostru Dometian episcopul Melitinei, şi Cuviosul Marchian preotul şi iconomul Bisericii celei mari.",
+  "vecernie": {
+    "glas": 5,
+    "podobia": "Casa Eufratului...",
+    "stihiri": [
+      {
+        "text": "Cuvioase Părinte, preasfinţite Grigorie, condeiul cel plin de glasul Mângâitorului şi limba cea prea-aleasă a bunei credinţe. Luminătorul cel cu multe lumini, din dumnezeiasca strălucire. Propovăduitorul adevărului, temeiul cuvântării de Dumnezeu. Izvorul dogmelor celor înalte, râul învăţăturilor celor curgătoare de miere. Alăută cu viers dumnezeiesc, a cântărilor celor de Dumnezeu scrise, care îndulceşte cugetele credincioşilor. Lui Hristos te roagă, pe Hristos pleacă, preaînţelepte, pe Cel ce în râurile Iordanului, din nou a zidit lumea, să mântuiască sufletele noastre."
+      },
+      {
+        "text": "Cuvioase Părinte, preacinstite Grigorie, securea care taie năpădirile ereticilor, sabia cea cu două ascuţişuri a Mângâietorului, cuţitul care taie seminţiile cele necurate, focul care arde eresurile cele uscăcioase, şi lopata cea cu adevărat plugărească, care bine osebeşte greutatea şi uşurimea dogmelor şi cumpănă a iscusinţei, care pe toţi îi îndreptează către căile mântuirii. Lui Hristos te roagă, pe Hristos îmblânzeşte, preaînţelepte, pe Cel ce în râurile Iordanului, a zidit lumea din nou, ca să mântuiască neamul nostru."
+      },
+      {
+        "text": "Cuvioase Părinte Grigorie preafericite ! Gura care izvorăşte glasurile cele fericite, scoţându-le din cele nesfârşite dumnezeieşti izvoare ale mântuirii, şi care spune tuturor cuvinte de rugăciune, dreptarul care îndreptează către bunătate, cel ce eşti prealuminat cu vedenii dumnezeieşti, luminându-te de strălucirea Treimii, Celei nezidite, Căreia şi nebiruit ajutor te-a făcut. Pe Hristos roagă-L, pe Hristos îmblânzeşte-L, Cuvioase, pe Cela ce în râurile Iordanului a zidit lumea din nou, ca să mântuiască neamul nostru."
+      },
+      {
+        "text": "Cela ce mai înainte a înfricoşat că va lăsa tot pământul sec, şi va pierde marea, lăudându-se împotriva credincioşilor, li s-a arătat astăzi ca o pasăre şi mai de râs decât un ţânţar, întru a căreia închipuire se prefăcea, intrând ca o îngrozire la sluga lui Hristos."
+      },
+      {
+        "text": "Astăzi Dometian ne cheamă pe noi credincioşii, la ospăţ plăcut lui Dumnezeu. Să ne adunăm la dânsul cu gând de veselie şi să prăznuim împreună cu el faptele lui, rugându-ne Mântuitorului sufletelor noastre, să dăruiască pace lumii."
+      },
+      {
+        "text": "Înmulţit-ai talantul lui Hristos, care ţi s-a dat, preacinstite, cu Dar îndoit ca o slugă dreaptă. Pentru aceasta auzi : Bine să fie ţie robule, căci eşti slugă bună. Deci dar intră întru bucuria Domnului tău, ca să-ţi iei darurile ostenelilor tale."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Cuvântul înţelepciunii tale, înfrumuseţându-l cu bunătate neapropiată, te-ai tăcut preafrumos spre amândouă părţile, Grigorie al Nisenilor prin glasul tău cel grăitor de Dumnezeu, împodobind şi veselind norodul cu înţelegere şi învăţând preaînţelepţeşte o Dumnezeire a Treimii. Drept aceea cu dogme drept credincioase biruind eresurile cele străine, ai ridicat biruinţa credinţei în toată lumea. Deci stând înaintea lui Hristos cu slujitorii cei fără de materie, cere sufletelor noastre pace şi mare milă."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Dumnezeul părinţilor noştri, Care faci pururea cu noi după blândeţile Tale, nu depărta mila Ta de la noi; ci pentru rugăciunile lor, în pace îndreptează viaţa noastră."
+    }
+  }
+}

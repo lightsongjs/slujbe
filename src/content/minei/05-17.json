@@ -1,0 +1,27 @@
+{
+  "month": 5,
+  "day": 17,
+  "saint": "Sfântul Apostol Andronic și Iunia, şi a celor împreună cu dânşii.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Stihirile Sfinţilor Apostoli, glasul al 8-lea :"
+      },
+      {
+        "text": "Ca un ascultător Cuvântului, şi slugă lăudată, și luminător prealuminat al lumii, cu cuvântul ai încetat stricăciunea cea necuvântătoare a nedumnezeirii. Pentru aceasta cu cuvinte dumnezeieşti, şi cu bucurie prăznuim sfântă pomenirea ta, de Dumnezeu fericite Apostole Andronice, aducând laudă Stăpânului tuturor."
+      },
+      {
+        "text": "Dumnezeiescul Pavel Apostolul, prealuminat lăudându-vă pe voi cu laude dumnezeieşti, credincioşilor, adeverează vitejia voastră, zicând : Că mai-nainte de dânsul v-aţi arătat voi, ucenici lui Dumnezeu, Cuvântului şi rudeniei Lui, preaînţelepţilor, Iunio preaînțeleaptă, şi fericite Andronice, cei cu adevărat slugi ale lui Dumnezeu."
+      },
+      {
+        "text": "Luminând tot pământul cu sfinţită propovăduire, ați gonit negura deşertăciunii, şi către lumina cunoştinţei de Dumnezeu, ați îndreptat pe cei ce mai-nainte au fost întru întunericul nedumnezeirii, dumnezeieştilor Apostoli, povățuitori spre mântuire, şi rugători pentru toți cei ce cu credinţă vă cinstesc totdeauna."
+      }
+    ],
+    "tropar": {
+      "glas": 3,
+      "text": "Sfinţilor Apostoli, rugaţi pe milostivul Dumnezeu ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

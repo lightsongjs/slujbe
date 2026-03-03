@@ -1,0 +1,34 @@
+{
+  "month": 9,
+  "day": 28,
+  "saint": "Preacuviosul Părintele nostru şi mărturisitorul Hariton",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Patimile trupului prin înfrânarea şi prin neîncetată rugăciune le-ai veştejit Părinte; iar pe şarpele cel amăgitor, cu ploile lacrimilor l-ai înecat. Şi foarte bine ai plăcut lui Dumnezeu, Haritone Cuvioase. Pentru aceasta te-a împodobit pe tine cu cereşti Daruri, Iisus Iubitorul de oameni, şi Mântuitorul sunetelor noastre. De două ori."
+      },
+      {
+        "text": "Cu sudorile sihăstriei ai stins jăratecul patimilor, vrednicule de minune; şi chinuindu-te de focul chinurilor şi al durerilor, ai mărturisit înaintea judecătorilor celor fărădelege, pe Cuvântul Cel ce S-a întrupat, şi te-ai făcut mărturisitor, împodobit cu rănile a multor feluri de munci; de Dumnezeu purtătorule preafericite. De două ori."
+      },
+      {
+        "text": "Prin pustietăţi şi prin munţi, fugind te-ai depărtat, păzindu-ţi sufletul neîntinat, preasfinţite Haritone, şi te-ai arătat casă Treimii; cu a Căreia putere ai zidit, Fericite, sfinţite case şi chilii, spre mântuitoare locuire a călugărilor celor ce cinstesc sfântă pomenirea ta, pururea mărite. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "De Dumnezeu purtătorule Haritone ! Tu şi după moarte în ceruri vieţuieşti întru Hristos, pentru care lumii te-ai răstignit pe tine. Că fără de trup şi de lume făcându-te, cu adevărat mai presus de cele văzute ai vieţuit; că nu ai vieţuit ţie însuţi, ci mai ales a vieţuit întru tine Hristos Dumnezeul nostru; pe care roagă-L să se mântuiască sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Fecioară nenuntită, care pe Dumnezeu negrăit L-ai zămislit cu trup, Maica Dumnezeului Celui Preaînalt, rugăciunile robilor tăi primeşte-le, ceea ce eşti cu totul fără prihană, care dăruiești tuturor curăţire de greşale; acum rugăciunile noastre primindu-le, roagă-te să ne mântuim noi toţi."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor şi cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; şi te-ai făcut luminător lumii, strălucind cu minunile, Hariton, Părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    },
+    "troparNascatoarea": {
+      "text": "Cela ce pentru noi Te-ai născut din Fecioară şi răstignire ai răbdat, Bunule, Care, cu moartea pe moarte ai prădat şi învierea ai arătat, ca un Dumnezeu, nu trece cu vederea pe cei ce i-ai zidit cu mâna Ta. Arată iubirea Ta de oameni, Milostive, primeşte pe Născătoarea de Dumnezeu, care Te-a născut şi se roagă pentru noi, şi mântuieşte, Mântuitorule, pe poporul cel deznădăjduit."
+    }
+  }
+}

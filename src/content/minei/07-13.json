@@ -1,0 +1,46 @@
+{
+  "month": 7,
+  "day": 13,
+  "saint": "Soborul Sfântului Arhanghel Gavriil. Şi Preacuviosul Părintele nostru Ştefan savaitul. Şi sfânta Muceniță Golinduh.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Dat-ai semn celor ce...",
+    "stihiri": [
+      {
+        "text": "Gavriil cel mai mare, mintea cea cu chip dumnezeiesc, cea luminoasă şi cerească, priveşte la Lumina cea în trei Sori, şi cântă cu cetele cele de sus, dumnezeiasca şi înfricoşata cântare; rugându-se să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Taina cea mare, cea neştiută mai-nainte de îngeri, şi mai-nainte de veci ascunsă, ţie unuia s-a încredinţat Gavriile, şi aceasta uneia celei Curate o ai spus, în Nazaret venind. Cu care roagă-te să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Cela ce pururea eşti plin de lumină, şi faci voia, şi plineşti poruncile Atotţiitorului, mai-marele îngerilor Gavriile prea-alesule, mântuieşte pe cei ce te cinstesc pe tine cu dragoste, pururea cerşind, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Părinte purtătorule de Dumnezeu Ştefane, întărindu-ţi cugetul cu înţelegere dumnezeiască, foarte luminat; şi îndreptând mânia cu bărbăţia, şi pofta cu întregimea minţii, şi toată puterea sufletului cu dreptatea, prea-înțelepțește ai alcătuit căruţă de bunătăţi prea-veselitoare; pe care suindu-te, cu bucurie te-ai înălţat către înălţime."
+      },
+      {
+        "text": "Părinte grăitorule de Dumnezeu Ştefane Cuvioase, luminatu-ţi-ai cugetul cu teologia, punând fericite mânia înainte ca pe un purtător de suliţă împotriva eresurilor celor hulitoare, pentru dorirea desfătării celei de sus. Căreia te-ai învrednicit a te împărtăşi fericite dumnezeiescule, ca unul ce stai înaintea scaunului Împăratului tuturor, şi Atotţiitorului."
+      },
+      {
+        "text": "Părinte grăitorule de Dumnezeu Ştefane, trudindu-ţi gândul despre toate părţile prin înfrânare, l-ai plecat să alerge în sus către pricina cea dintâi, şi liniştind tulburarea lumii, şi lepădându-te de grijile ei, pururea ai fost amestecat prin curăţia cugetului, cu dorirea cea cu adevărat desăvârşită, cugetătorule de Dumnezeu, Cuvioase."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Bucuraţi-vă împreună cu noi toate căpeteniile cetelor îngereşti, că cel mai-nainte stătător al vostru, şi al nostru folositor, marele Arhistrateg, în ziua de astăzi întru cinstită Biserica lui, cu mărire arătându-se, o sfinţeşte. Pentru aceasta după datorie cântându-i lui, să strigăm : Acoperă-ne pe noi cu acoperământul aripilor tale, mai-mare Gavriile Arhanghele."
+    },
+    "nascatoarea": {
+      "text": "Nimenea din cei ce aleargă la tine, nu iese ruşinat de la tine, Fecioară Preacurată Născătoare de Dumnezeu, ci cere dar, şi primeşte dăruirea spre folosul cererii."
+    },
+    "cruciiNascatoarea": {
+      "text": "Preacurata dacă Te-a văzut pe Cruce spânzurând, plângând a strigat ca o Maică : Fiul meu şi Dumnezeu, preadulcele meu Fiu, cum suferi patimi de ocară."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mai-mare Voievodule al oştilor cereşti, rugămu-te pe tine noi nevrednicii, ca prin rugăciunile tale să ne acoperi pe noi cu acoperământul aripilor slavei tale celei netrupeşti, păzindu-ne pe noi cei ce cădem cu dinadinsul şi strigăm : Mântuieşte-ne din nevoi Gavriile, ca un mai mare peste cetele puterilor celor de sus."
+    },
+    "troparNascatoarea": {
+      "text": "Cu bucurie stând mărită Muceniţă înaintea Stăpânului în Cer, şi luminându-te cu dumnezeieştile străluciri, luminează-ne pe noi cu rugăciunile tale cele bine-primite."
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "month": 5,
+  "day": 14,
+  "saint": "Sfântul Mucenic Isidor cel ce a pătimit în ostrovul Hiului.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Aprinzându-te de râvna bunei credinţe, Isidore, cu fierbințeală ai intrat în priveliştea chinuirii, şi ai primit darul biruinţei, împotriva înşelăciunii, Mucenice, înfrumuseţându-te cu învăţăturile cele iubitoare de Dumnezeu. Şi îngrădindu-te cu toată întrarmarea Crucii, ai surpat pe vrăjmaşul tiran, arătându-te purtător de biruinţă."
+      },
+      {
+        "text": "Șuviţându-te cu bicele, te-ai dezbrăcat de hainele cele de piele ale omorârii, şi îmbrăcându-te cu podoaba nestricăciunii, şi cu haină luminoasă, degrab ai ajuns la lemnul vieții, culegând viața cea cu adevărat nestricăcioasă şi fără de sfârşit. De care acum îndestulându-te, veseleşte pe cei ce te laudă pe tine, Mărite."
+      },
+      {
+        "text": "Luptele mucenicilor cu adevărat, au întrecut alcătuirea laudelor şi înţelegerea cuvintelor, căci ca nişte turnuri tari ale dumnezeieştii credinţe, fiind aceştia îmbrăcaţi cu trup muritor şi pătimitor, întocmai ca noi, au îndrăznit, şi focul şi rănile nu le-au băgat în seamă, ca şi cum ar pătimi cu trup străin, măriţii."
+      }
+    ],
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Isidor, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

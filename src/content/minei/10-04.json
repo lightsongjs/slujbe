@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 4,
+  "saint": "Sfântul sfinţitul Mucenic Ierotei, Episcopul Atenei.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ce pe un viteaz între Mucenici...",
+    "stihiri": [
+      {
+        "text": "Dragostea lui Hristos, cea prea în chip de lumină şi prea-dumnezeiască, ţi-a luminat sufletul, şi prin strălucire prea-dulce, ţi-a strălucit gândirea cu bună credinţă, şi toată patima dulceţii celei simţitoare, o a ars ca focul, făcându-te lăcaş preacinstit cereştilor străluciri."
+      },
+      {
+        "text": "Mare cuviinţa cuvintelor tale Ieroteie şi învăţătura şi meşteşugul cel bine alcătuit, al dovedirilor tale celor înţelepte, se cunoaşte a fi roadă gândului Celui cu ştiinţa desăvârşit, şi luminează pe cei ce aleargă către Dânsul, şi înţelepţeşte pe cei ce citesc."
+      },
+      {
+        "text": "Cartea ta cea prea-vestită pentru dumnezeieştile vedenii Cuvioase, şi dogmele tale cele mai presus de fire, Dionisie cel mare le-a arătat credincioşilor. Cu care roagă-te, să dăruiască sufletelor noastre pace şi mare milă."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Stătut-ai înaintea adormirii Maicii lui Dumnezeu, propovăduitorule de cele dumnezeieşti, şi cu graiurile cele dumnezeieşti ai veselit inimile credincioşilor, Fericite; şi îndulcind cuvântul cel sfinţit al bine-vestitorilor Apostoli, ai cântat tainele lui Dumnezeu; şi pentru aceea luând îndrăzneală către Hristos, Ierarhe Ieroteie, roagă-te pentru sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Toată nădejdea mea spre tine o pun, Maica lui Dumnezeu, păzeşte-mă sub Acoperământul tău."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-te pe Tine Iisuse, cea neispitită de nuntă, spânzurat pe lemnul Crucii, plângea şi zicea : Fiule preadulce ! Pentru ce m-ai lăsat singură pe mine ceea ce Te-am născut, Lumină neapropiată a Părintelui Celui mai înainte de veci ? Grăbeşte şi Te preamăreşte, ca să câştige dumnezeiasca mărire, cei ce slăvesc dumnezeieştile Tale patimi."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Bunătate învăţându-te şi trezvindu-te întru toate, cu bună cunoştinţă ca un sfinţitor cuvios îmbrăcându-te, ai scos din vasul alegerii cele negrăite; şi credinţa păzind, drumul întocmai ai săvârşit, sfinţite Mucenice Ieroteie, roagă-te lui Hristos Dumnezeu, să mântuiască sufletele noastre."
+    }
+  }
+}

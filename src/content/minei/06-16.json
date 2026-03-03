@@ -1,0 +1,30 @@
+{
+  "month": 6,
+  "day": 16,
+  "saint": "Cel dintru Sfinţi Părintele nostru Tihon făcătorul de minuni, episcopul Amatundei, cetăţii ostrovului Ciprului.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ce vă vom numi...",
+    "stihiri": [
+      {
+        "text": "Având prin depărtarea dezmierdărilor, vieţuire întocmai cu îngerii, te-ai arătat vas al lui Dumnezeu. Pentru aceasta cu cuviinţă te-a ales pe tine, Înţelepte, Arhiereu dumnezeiescului norod, şi te-ai arătat pe tine stâlp şi întărire credinţei, Tihone de Dumnezeu insuflate, cel ce păstoreşti turma ta la apele ortodoxiei, Preasfinţite."
+      },
+      {
+        "text": "Fiind plin de înţelegere dumnezeiască, te-ai arătat păstor turmei celei cuvântătoare, cu adevărat hrănindu-o pe dânsa întru verdeaţa dogmelor celor cuvântătoare, Preaînţelepte. Pentru aceasta cinstim acum sfântă prăznuirea ta, slăvind cu glas mare pe Domnul, Cel ce te-a mărit pe tine Tihone, cugetătorule de Dumnezeu preafericite; roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Cu minuni te-a slăvit pe tine Dumnezeu, Cel ce măreşte pe cei ce-l slăvesc pe El cu credinţă; căci pe vremea cinstitei şi Dumnezeieştii tale pomeniri, Înţelepte, se vede strugurul copt, celor ce laudă preamărirea minunii, de care împărtăşindu-ne noi credincioşii, pe tine te punem solitor; roagă-te, să se izbăvească sufletele noastre."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cine este acela, care va năzui la acoperământul tău Născătoare de Dumnezeu pururea Fecioară Preacurată nenuntită, şi nu-şi ia degrab tămăduire despre draci ? Şi te află pe tine ajutătoare neruşinată, părtinitoare şi turn nestrămutat. De Dumnezeu Născătoare Preacurată, sprijinitoarea creştinilor, roagă-te, să se izbăvească sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşeaua, dacă şi-a văzut Mielul, pe Fiul ei pironit pe Cruce, s-a rănit de întristare, şi cu sabie rănindu-şi sufletul şi rărunchii, împletind tânguiri şi fiindu-i inima plină de întristare, striga : Vai mie Fiul meu preadulce ! Cum pătimeşti îndelung-răbdătorule aceasta ? Îţi slăvesc îndelungă-răbdarea Iubitorule de oameni."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, Părintele nostru Tihon; şi cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; slavă Celui ce lucrează prin tine tuturor tămăduiri."
+    }
+  }
+}

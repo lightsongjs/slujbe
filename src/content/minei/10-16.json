@@ -1,0 +1,43 @@
+{
+  "month": 10,
+  "day": 16,
+  "saint": "Sfântul Mucenic Longhin sutaşul cel de lângă Crucea Domnului.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Pe Cel ce S-a făcut Om şi a suferit Cruce, şi lumina soarelui o a întunecat, şi din coastă a izvorât mântuitoarea iertare, văzându-L cu tâlharul cel mulţumitor, Mărite, L-ai mărturisit Dumnezeu şi Stăpân; Care a răbdat pătimire de bunăvoie, pentru nemăsurată milostivirea Sa."
+      },
+      {
+        "text": "Văzând, Mărite, Viţa cea roditoare răstignită pe lemn, şi izvorând vin de viaţă şi de iertare, ai supus buzele inimii, şi bând te-ai umplut de veselie, lepădând necredinţa cea amară; ca cel ce ai avut minte şi ca unul ce luminat ai ales ce este mai bun, decât ce este mai rău."
+      },
+      {
+        "text": "Omorând pe tiranul cu îndrăzneala cuvintelor tale, ai mers de a ta bunăvoie către junghiere, ne-îngrozindu-te prealăudate Longhine, de moartea care pricinuieşte ție viaţa cea nemuritoare, prin Har. Pentru aceasta cu credinţă săvârşim pomenirea ta cea pururea cântată; rugându-ne, să fii mijlocitor pentru noi către Domnul."
+      },
+      {
+        "text": "Mucenice Longhine prealăudate, tu văzând cutremurul şi soarele întunecându-se, şi toată făptura în vremea răstignirii tânguindu-se, ai cunoscut că este Dumnezeu, Cel ce pe lemnul Crucii S-a răstignit pe Care L-ai propovăduit iudeilor, că este Fiul lui Dumnezeu; pentru Care şi sângele tău cu bucurie ţi-ai vărsat."
+      },
+      {
+        "text": "Mucenice Longhine prealăudate, văzând pe Fiul lui Dumnezeu pe Cruce pătimind de voie şi gustând moarte, când ai văzut încă soarele întunecându-se şi munţii tremurând, atunci strigai poporului evreiesc : Cu adevărat Acesta este Fiul lui Dumnezeu, Domn şi Împărat a toate."
+      },
+      {
+        "text": "Cu sabia tăindu-ţi capul poporul evreiesc, adunarea cea fărădelege, mulţimea cea nemulţumitoare, în gunoi l-a aruncat. Dar alergând femeia cea lipsită de vedere şi ridicându-l, primeşte vedere. O preafericite Longhine prealăudate, roagă-te pentru noi Domnului, ca să ne mântuim."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "La patima ta Hristoase, Longhin cel mai mare peste sută, văzând Biserica stricată Te propovăduia iudeilor pe Tine Fiul lui Dumnezeu. Iar aceia, cumpliţii, tăindu-i dumnezeiescul cap cu sabia, l-a aruncat în gunoi; o femeie însă aflându-l, şi-a deschis pleoapele ochilor săi, care erau închise. Cu care împreună şi noi strigăm Ție, Celui ce L-ai încununat pentru că a pătimit pentru Tine : Luminează pentru rugăciunile lui şi ochii inimii noastre, ca să Te mărim pe Tine Dumnezeu, Cel ce Te-ai pironit cu trupul pe Cruce, ca să ne mântuieşti."
+    },
+    "nascatoarea": {
+      "text": "Toată nădejdea mea spre tine o pun Fecioară, nu mă trece cu vederea; ci sârguieşte ceea ce eşti bună şi mă scapă degrab de patimile cele ce mă supără şi bat război cu mine în toate zilele."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând Născătoarea de Dumnezeu cea fără prihană, Viaţa noastră spânzurată pe lemn, ca o Maică se văita, strigând : Fiul meu şi Dumnezeul meu, mântuieşte pe cei ce cu dragoste Te laudă pe Tine."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Longhin întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "month": 1,
+  "day": 4,
+  "saint": "Înainte prăznuirea Botezului Domnului şi Soborul Sfinţilor celor şaptezeci de Apostoli. Şi Cuviosul Părintele nostru Teoctist egumenul, cel din Cucumia Siciliei.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Mucenicii Tăi Doamne...",
+    "stihiri": [
+      {
+        "text": "Pe Cleopa şi pe Andronic, pe Siluan şi pe Agav, pe Anania şi pe Filip, pe Prohor şi pe Nicanor, pe Ruf şi pe Sosten, pe Lin şi pe Stahie, pe Ştefan, pe Timon şi pe Erman, pe Flegonta şi pe Marco, pe Luca, pe Sosipatru, pe Fason şi pe Cae, pe Tihic şi pe Filimon, cu cântări sfinţite, să-i fericim noi credincioşii."
+      },
+      {
+        "text": "Narcis şi Trofim, Kesar, Zina şi Aristarh, Marco, Sila şi Cae, Ermi şi Asincrit, Apolos şi Chifa, Clement şi Iust, Quart, Erast şi Luca, Onisifor, Carp şi Evod, Matia şi Iacov, Urvano şi Aristobul, Tihic şi Aristarh, după vrednicie să se cinstească."
+      },
+      {
+        "text": "Pud şi Irodion, pe Arteman şi pe Filolog, Olimpan şi Rodion, Apelli şi pe Amplia, Patrovan şi Tit, Tertie şi Tadeu, pe Epeneton cel minunat, pe Ahaic, pe Aquila, pe Luchie şi pe Varnava, pe Furtunat, şi pe Apolo pururea pomenitul, pe Crisc şi pe Marco, să-i cinstim, pe propovăduitorii lui Dumnezeu."
+      },
+      {
+        "text": "Când ţi s-a rănit sufletul de dumnezeiasca dragoste, Preafericite, cu bucurie ai luat asupră-ţi Crucea ta, şi ai urmat lui Hristos, şi omorându-ţi cugetul trupului, cu înfrânarea, ai primit lucrarea Duhului cea vie, ca să risipeşti viforul bolilor, cu căldura rugăciunilor celor bineprimite. Pentru care cu un glas te fericim."
+      },
+      {
+        "text": "Când ţi-ai curăţit Părinte ochiul sufletului, cu rugăciuni neîncetate, lăcaş te-ai făcut Dumnezeirii, Celei în Trei străluciri. Şi primind ungerea preoţiei cea dumnezeiască şi sfântă, ai intrat înlăuntru celor neumblate, jertfind pe Cel ce S-a jertfit pentru tine, prin pogorârea Sa cea negrăită."
+      },
+      {
+        "text": "Arătându-te cu nerăutatea minţii, blând şi răbdător de cele rele, Părinte Teoctiste, ai moştenit deplin cu adevărat pământul celor blânzi. Şi prin împărtăşire îndumnezeindu-te, te îndestulezi de desfătare şi de veselie, şi de bucurie adevărată. Unde nu înceta a pomeni pe cei ce te cinstesc curat, şi săvârşesc a ta dumnezeiască adormire."
+      }
+    ],
+    "slava": {
+      "glas": 3,
+      "text": "Strălucit a fost praznicul cel ce a trecut, slăvită este şi ziua de acum. Întru acela magii s-au închinat Mântuitorului, iar întru aceasta pe Stăpânul sluga cea mărită L-a botezat. Acolo păstorii fluierând L-au văzut şi s-au minunat; iar aici glasul Părintelui, pe Fiul Unul-Născut l-a propovăduit."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Sfinţilor Apostoli, rugaţi pe milostivul Dumnezeu, ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

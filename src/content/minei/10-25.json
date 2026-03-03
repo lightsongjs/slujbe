@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 25,
+  "saint": "Sfinţii Mucenici Marchian şi Martirie, notarii.",
+  "vecernie": {
+    "glas": 0,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Cei ce au săvârşit călătoria, şi au păzit credinţa, s-au încununat cu cununile muceniciei, Marchian şi Martirie, stâlpii cei nemişcaţi ai Bisericii, care izvorăsc laptele cel curat; mărgăritarii cei luminoşi, luminătorii care luminează făptura cu razele bunei-credinţe."
+      },
+      {
+        "text": "Însoţirea cea dumnezeiască, purtând tot un gând, şi având tot un cuget, a risipit eresul lui Arie, învăţând să ne închinăm Fiului Celui pururea vecuitor şi împreună fără de început cu Tatăl şi cu Duhul, Treimii întru o Unime, şi Treimea întru Unimea firii, în trei feţe nedespărţite."
+      },
+      {
+        "text": "Următori şi asemenea la năravuri, râvnitori şi întocmai la obiceiuri v-aţi arătat lui Pavel propovăduitorul de cele sfinte; şi în vărsarea sângelui aţi înecat pe vrăjmaşi, şi aţi uscat pârâul eresurilor celor cumplite, şi v-aţi arătat râuri ale bunei-credinţe, adăpând Biserica lui Hristos, Marchiane şi Martirie."
+      }
+    ],
+    "slava": {
+      "glas": 1,
+      "text": "Ucenici şi următori v-aţi făcut Mărturisitorului, şi propovăduitorului Treimii Celei de o Fiinţă, şi împreună cu dânsul pentru Ea fiind goniţi fericiţilor, aţi ales mai bună moartea cea prin sabie, decât hula cea ereticească. Pentru aceea fiind împodobiţi de la Dumnezeu, cu cununi muceniceşti, şi având îndrăzneală, rugaţi-vă, să se izbăvească de primejdii, cei ce cinstesc pomenirea voastră."
+    },
+    "nascatoarea": {
+      "text": "Ceea ce eşti între femei sfântă; de Dumnezeu Născătoare Maică nenuntită, roagă pe Împăratul şi Dumnezeu, pe care L-ai născut, să ne mântuiască, ca un Iubitor de oameni."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând pe Cel ce S-a născut din tine, Preacurată, spânzurat pe lemn, te văitai strigând : Preadoritul meu Fiu ! Unde Ți-a apus frumuseţea cea purtătoare de lumină ? Care a înfrumuseţat firea omenească."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

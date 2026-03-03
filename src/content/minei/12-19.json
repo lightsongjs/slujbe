@@ -1,0 +1,30 @@
+{
+  "month": 12,
+  "day": 19,
+  "saint": "Pomenirea Sfântului Mucenic Bonifaciu.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn celor ce...",
+    "stihiri": [
+      {
+        "text": "Poftit-ai buna numire mai-nainte gătită Mucenicilor, purtătorule de chinuri, mult pătimitorule, şi dureri ai răbdat cu gând îndrăzneţ, nădăjduind a te muta către odihna cea fără durere, căutând a lua darurile cele cereşti, şi odihna raiului, lumina cea neînserată, şi viaţa cea veşnică, cu totul fericite."
+      },
+      {
+        "text": "Dezrădăcinarea unghiilor, cumplite îmboldiri şi înfierbântarea plumbului, tăierea capului, şi durerile cele iuţi ai suferit, şi te-ai adaos la ceata răbdătorilor de chinuri, bucurându-te, mult pătimitorule. Pentru aceasta săvârşim pomenirea ta cea de peste an, Mucenice Bonifaciu, împreună vorbitorule cu îngerii."
+      },
+      {
+        "text": "Slugă trimiţându-te întâi, te-a primit dumnezeiesc stăpân Aglaea, Bonifaciu; că ai domnit peste patimi, şi împărăţind peste tiranul, ai surpat pe vrăjmaşi, încununându-te cu cununa biruinţei. Pentru aceasta zidindu-ţi ţie Biserică Sfântă şi frumoasă, te-a pus într-însa, lăudându-te pe tine sfinţite."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Stăpână ceea ce ai născut pe Judecătorul cel prea-drept, roagă-L Fecioară, să nu mă osândească la înfricoşata judecată cea viitoare, pe mine cel ticălos, care am vieţuit desfrânat, ci să mă pună dimpreună cu cei aleşi, care vor să stea dea-dreapta Lui, pentru mila şi bunătatea Sa cea prea-multă."
+    },
+    "cruciiNascatoarea": {
+      "text": "Preacurata Stăpână, văzând pe Hristos omorându-Se şi omorând pe vicleanul, plângându-L ca pe un Domn lăudat, pe Cel ce a ieşit din pântecele ei, şi mirându-se de îndelungă răbdarea Lui striga : Fiul meu preadulce ! Nu uita pe roaba Ta şi nu zăbovi, Iubitorule de oameni, Cela ce eşti iubit sufletului meu."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Bonifaciu întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "month": 6,
+  "day": 22,
+  "saint": "Sfântul sfinţitul Mucenic Evsevie, Episcopul Samosatelor.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ce vă vom numi...",
+    "stihiri": [
+      {
+        "text": "Ce te vom numi pe tine, Mărite, Ierarh adevărat şi sfinţit puitor de dogme, întărire binecredincioşilor, şi ochiul Bisericii, luminător care străluceşti lumină înţelegătoare, şi eşti împodobit întru buna soartă a mucenicilor, părtinitorul adevărului, şi mare defăimător minciunii; roagă-te, să se izbăvească sufletele noastre."
+      },
+      {
+        "text": "Ce te vom chema pe tine, Ierarhe, râu care iese din adâncul cel înţelegător al Edenului, şi adapă pământul cu curgeri duhovniceşti, pahar plin de apă dumnezeiască, care îneacă pe cei de un gând cu Arie, stâlp de foc mergător înaintea poporului celui nou, cu Darul cel dumnezeiesc, roagă-te să se izbăvească sufletele noastre."
+      },
+      {
+        "text": "Ce te vom numi pe tine Evsevie, adăugător de bună credinţă şi micşorâtor de necredinţă, podoabă purtătorilor de chinuri, şi bucurie ierarhilor; seceră care tai neghinele şi strângi grâul cel ceresc, izvor pururea curgător de minuni, care ridică de la mijloc zăduful bolilor; roagă-te să se izbăvească sufletele noastre."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cui te-ai asemănat ticăloase suflete, care spre pocăinţă nicicum nu te deştepţi şi de foc nu te temi, de răutăţi nedepărtându-te, scoală-te şi pe una cea grabnică ajutătoare spre folosinţă o cheamă şi strigă : Nu înceta rugând pe Fiul tău şi Dumnezeul nostru, să mă mântuiască de cursele celui viclean."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă a văzut Mieluşeaua pe Mielul întins de bunăvoie pe lemnul Crucii, tânguindu-se cu plângeri, striga ca o Maică : Fiul meu ce priveală minunată este aceasta, Cela ce dai tuturor viaţă ca un Dumnezeu, cum mori îndelung răbdătorule, care dăruieşti oamenilor învierea; îţi slăvesc Dumnezeul meu smerenia cea multă."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţă răbdând până la sânge, Sfinţite Mucenice Evsevie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre."
+    }
+  }
+}

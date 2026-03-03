@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 2,
+  "saint": "Sfântul Sfinţitul Mucenic Ciprian, şi sfânta Muceniţă Iustina.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Cu ungerea preoţiei şi cu sângele muceniciei te-ai apropiat de Dumnezeu prea-desăvârşit Cipriane pururea pomenite, floarea credinţei, frumuseţea cuvintelor, cetatea cea aleasă a înţelepciunii, cumpăna dreptăţii dogmelor, îndreptarea cea cu totul potrivită a canoanelor, şi bună podoaba Bisericii. (De două ori)."
+      },
+      {
+        "text": "Scriind bună-lauda nevoitorilor, şi cununa mucenicilor, ai plecat pe gânditorii de Dumnezeu, să îndrăznească vitejeşte la chinurile cele de multe feluri, şi la legături şi la închisori, şi la despuierea trupurilor, şi la zdrobiri, şi la ger foarte iute şi la bătăi, şi în cea de pe urmă la moarte, Cipriane preacinstite. (De două ori)."
+      },
+      {
+        "text": "La descântecele dracilor punând împotrivă cântările Duhului şi biruinţa Crucii, ţi-ai păzit fecioria şi te-ai adus lui Hristos Muceniţă nebiruită, şi junghiere preasfinţită; pentru aceea ai dobândit cununile biruinţei Iustino, fiind împodobită cu strălucirea fecioriei, şi cu a muceniciei. (De două ori)."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Cu adevărat te-ai dezbrăcat de învăţătura rătăcirii, şi de cunoştinţa idolilor, şi te-ai îmbrăcat cu Crucea, arma cea de mântuire, Cipriane preafericite. Ai lepădat cărţile cele de vrăjitorie, te-ai dezbrăcat de omul cel vechi, şi a locuit întru tine Treimea Cea de o Fiinţă prin cunoştinţa de Dumnezeu; pe Aceasta roagă-o Ierarhe, dimpreună cu îngerii să ne mântuim noi."
+    },
+    "nascatoarea": {
+      "text": "Altă scăpare tare, turn de tărie, şi zid nebiruit cu adevărat nu avem, fără numai pe tine Preacurată; şi către tine năzuim şi ţie strigăm : Stăpână ajută-ne să nu pierim; arată către noi Darul tău şi slava puterii, şi mărirea milostivirii tale."
+    },
+    "cruciiNascatoarea": {
+      "text": "Când a văzut mieluşeaua cea neîntinată pe Mieluşelul său tras la junghiere, ca un om de bunăvoia Sa, tânguindu-se zicea : Acum Te nevoieşti să mă faci fără de Fiu Hristoase, pe mine care Te-am născut. Pentru ce ai făcut aceasta, Mântuitorule a toată lumea ? Dar laud şi măresc bunătatea Ta cea desăvârşită, mai presus de gând şi de cuvânt, Iubitorule de oameni."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţă răbdând până la sânge, Sfinţite Mucenice Ciprian, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre."
+    }
+  }
+}

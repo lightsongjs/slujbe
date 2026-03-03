@@ -1,0 +1,30 @@
+{
+  "month": 5,
+  "day": 22,
+  "saint": "Sfântul Mucenic Vasilisc",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Împărățind peste patimi Vasilische mărite, ai luat împărăţie nemişcată, şi stai înaintea Împăratului puterilor, bucurându-te împreună cu toate oştile îngerilor, şi veselindu-te cânţi cântarea cea neîncetată şi fericită, luminându-te preamărit cu împărtăşirea luminărilor celor dumnezeieşti."
+      },
+      {
+        "text": "Încălțat-au picioarele tale pironindu-le cu încălţăminte, când umblai totdeauna în căile muceniciei, pururea pomenite. Cu care ai călcat capul vrăjmaşului, şi de tot l-ai sfărâmat, Mărite, şi ai umblat cu bună călătorie pe căile cele cereşti, arătându-te Stăpânului purtător de biruinţă."
+      },
+      {
+        "text": "Lemnul cel mai-nainte fără umezeală, prin rugăciunea ta a odrăslit, şi a izvorât izvor de apă vie şi s-a sfințit pământul prin curgerea sângelui tău, şi văzduhul cu suirea sufletului tău, Preafericite. Pentru aceasta cu credinţă cinstim sfântă şi de toţi prăznuită ziua ta, în care după lege ai făcut vitejie Vasilische."
+      },
+      {
+        "text": "Și sufletul împreună cu trupul şi inima şi cugetul ție Maica lui Dumnezeu le-am închinat; ci sufletului cere-i cele ce îi sunt de folos, iar trupului omoară-i săltările, şi inima luminează-i, Stăpână, iar cugetului îmblânzeşte-i mişcările cele fără orânduială nevăzut, şi încetează-i tulburările greşelilor."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut pe Cruce răstignit Preacurata, pe Tine Doamne, pe Care Te-a născut neispitită de bărbat, udându-și obrazul cu lacrimi amestecate cu sânge, a strigat cu jale : Ce taină străină este aceasta, Cel ce ai împodobit mai-nainte Cerul cu luminători, cum eşti acum pironit pe lemn fără chip şi fără suflare, îndelung-răbdătorule ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Vasilisc întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "month": 7,
+  "day": 10,
+  "saint": "Sfinţii patruzeci şi cinci de Mucenici, cei din Nicopolia Armeniei.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Prealăudaţilor Mucenici, voi zdruncinându-vă cu pietre, nu v-aţi lepădat de Hristos, piatra cea nesfărâmată; ci făcându-vă prin Dar purtători de biruinţă, vă veseliţi dimpreună cu cetele îngerilor. Cu care rugaţi-vă, să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Buni biruitori Mucenici închizându-vă dimpreună în temniţă, ca nişte păzitori dumnezeieştilor porunci, şi topindu-vă de sete, aţi câştigat rouă din Cer, care vă răcorea pe voi duhovniceşte. Pentru aceea rugaţi-vă, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Nebiruiţilor Mucenici, dorind de viaţa cea adevărată şi veşnică, aţi răbdat cu bucurie moarte nedreaptă, prin hotărâre fărădelege, și acum vă veseliţi dimpreună cu mucenicii; cu care rugaţi-vă să se dăruiască sufletelor noastre pace şi mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Despre toate părţile sunt cuprins de răutăţi, şi unde voi scăpa Stăpână eu ticălosul, şi cu totul părăsit ? Fără numai către tine singură scap Preacurată, care îmi eşti mie ajutătoare, nădejdea deznădăjduiţilor, Mireasă a lui Dumnezeu. Ci nu mă trece pe mine robul tău cel netrebnic, ceea ce eşti gata ajutătoare scârbiţilor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Sabie a trecut prin inima mea o Fiule, zicea Fecioara, dacă a văzut pe Hristos spânzurat pe lemn, şi o sfărâmă Stăpâne, precum mi-a zis mai-nainte Simeon. Ci scoală-Te, şi mă slăveşte dimpreună cu Tine nemuritorule, pe mine Maica şi roaba Ta, rogu-mă."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "month": 6,
+  "day": 15,
+  "saint": "Sfântul Prooroc Amos.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Lumina Duhului a aflat curăţirea sufletului tău, strălucindu-se ca o oglindă limpede, şi a luminat lumea, strălucindu-ţi lumina cunoştinţei de Dumnezeu, şi însemnând mai-nainte chipurile dumnezeieştilor taine, şi Darul care era să se dea tuturor oamenilor, dumnezeiescule Proorocule."
+      },
+      {
+        "text": "Făcându-le tu ca o gură a lui Dumnezeu, arătat ai înfruntat pe lucrătorii necredinţei, şi fiind împodobit cu dumnezeieştile dogme, le-ai săvârşit osânda cea fără de fugă şi nescăpată, Preafericite. Pentru aceasta văzând noi săvârşirea graiurilor tale celor înţelepte, cu cântări vrednice te lăudăm pe tine, Fericite."
+      },
+      {
+        "text": "Făcutu-te-ai de Dumnezeu fericite Proorocule, descoperitor tăinuitor judecăţilor lui Dumnezeu celor negrăite, căci ai strălucit, şi ai luminat limbile, şi ai propovăduit Treimea, Amose, grăitorule de cele dumnezeieşti. Pentru aceasta cinstind mărită pomenirea ta, mântuieşte de toată nevoia pe toţi, cei ce Te laudă pe Tine cu credinţă, şi te prăznuiesc, Mărite."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ca una ce ai născut apa vieţii, băutura nemuririi, pe Hristos Domnul, adapă-mă pe mine Preacurată cu apa iertării, şi bucură cugetul meu cu înţelegeri dumnezeieşti, ca să fac poruncile cele de mântuire prin lucrarea lor, şi să te slăvesc pe tine Preacurată."
+    },
+    "cruciiNascatoarea": {
+      "text": "Multe dureri răbdând la răstignirea Fiului tău, Preacurată, suspinând lăcrimai şi strigai : Vai mie dulcele meu Fiu ! Cum pătimeşti fără dreptate, vrând să mântuieşti pe pământenii cei din Adam. Pentru aceea Preacurată Fecioară, ţie ne rugăm cu credinţă, fă pe Acela nouă Milostiv."
+    },
+    "tropar": {
+      "glas": 0,
+      "text": "A Proorocului Tău Amos pomenire, Doamne prăznuind, printr-însul te rugăm, mântuieşte sufletele noastre."
+    },
+    "troparNascatoarea": {
+      "text": "Iar de este în postul sfinţilor Apostoli, Duminică seara, Marţi seara sau Joi seara, cântăm : Născătoare de Dumnezeu Fecioară... Şi celelalte după obiceiul postului cu metanii ca şi în postul Naşterii lui Hristos."
+    }
+  }
+}

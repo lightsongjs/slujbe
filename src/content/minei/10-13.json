@@ -1,0 +1,43 @@
+{
+  "month": 10,
+  "day": 13,
+  "saint": "Sfinţii Mucenici Carp şi Papil.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Roduri ai adus Iui Dumnezeu cu învăţătura ta, pe cei mântuiţi, pururea pomenite; iar pe sine-ţi te-ai adus jertfă sfinţită, fiind roşit cu sângele muceniciei, preafericite, preasfinţite. Pentru aceea roagă-te, să dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Întărindu-vă gândul spre Hristos, v-aţi arătat neabătuţi de năpădirile muncilor, înecând de tot în sângiurile voastre pe părtinitorii rătăcirii, şi sălăşluindu-vă înlăuntrul raiului preasfinţiţilor; ca nişte jertfe fără de prihană, ca nişte odrasle ale dumnezeieştii vițe, rugaţi pe Stăpânul, să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Aprinzându-vă gândul de dragostea Ziditorului, mai tare decât de foc Carpe şi Papile, ca nişte lumini înţelegătoare, aţi stins prin Dar jertfele idolilor cu roua credinţei; şi cu vărsările sângiurilor aţi moştenit pârâul desfătării. Rugaţi-vă lui Hristos să dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Ca cei mari luminători ai tăriei, răsărind prin credinţa Bisericii, toată făptura o luminaţi, cu strălucirile luptelor, şi cu luminile minunilor, gonind prealăudaţilor întunericul dracilor şi al patimilor."
+      },
+      {
+        "text": "Unindu-vă în credinţă, şi una cugetând, multe feluri de munci în adevăr aţi suferit, Papile şi Carpe, tarilor nevoitori, apărătorilor ai bunei-credințe. Pentru aceasta cu cinste prăznuim credincioşii sfinţita voastră pomenire."
+      },
+      {
+        "text": "Frumuseţea mucenicilor, doimea Treimii, Papil şi Carp, neclintiţii stâlpi, liniştitele limanuri, temeliile Bisericii cele neclintite, vasele cele cu mir ale Duhului, cu sfinţite cântări bine să se laude."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Ca un vrednic între văzătorii de Dumnezeu Cuvioase, ai văzut cerurile deschise, pe Domnul şezând pe scaun, şi heruvimii şi serafimii împrejurul Lui. Iar de la tine luminându-ne şi noi sfinţită turma ta, strigăm către tine Carpe : Cere lumii pace, şi sufletelor noastre mare milă."
+    },
+    "nascatoarea": {
+      "text": "Toată nădejdea mea spre tine o pun Fecioară; nu mă trece cu vederea ceea ce eşti bună, ci grăbeşte de mă scapă degrab, de patimile ce mă supără şi-mi dau război în toate zilele."
+    },
+    "cruciiNascatoarea": {
+      "text": "Sta lângă lemn odinioară, pe vremea răstignirii Fecioara, dimpreună cu ucenicul cel curat, şi plângând striga : Vai mie cum pătimeşti Hristoase ! Cel ce eşti nepătimirea tuturor."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

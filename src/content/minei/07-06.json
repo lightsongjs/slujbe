@@ -1,0 +1,30 @@
+{
+  "month": 7,
+  "day": 6,
+  "saint": "Preacuviosul Părintele nostru Sisoe cel mare",
+  "vecernie": {
+    "glas": 3,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Luminat a răsărit ca soarele pomenirea ta cea de toţi prăznuită, strălucind cu razele faptelor tale celei îmbunătăţite, preafericite, şi luminând cugetele credincioşilor, cu lumina minunilor tale, pe care prăznuindu-o cu bucurie te lăudăm, şi cu credinţă te fericim pe tine Cuvioase Părinte Sisoe, cela ce eşti lauda călugărilor."
+      },
+      {
+        "text": "Ca un înger pământesc ai vieţuit veştejindu-ţi trupul tău, preafericite Părinte, şi cu privegheri prin înfrânare pururea cugetând pomenirea morţii, şi adăugându-te întru cele dumnezeieşti prin suişuri foarte mari, către dorirea cea desăvârşită. Drept aceea te-ai apropiat către însuşi vârful ei."
+      },
+      {
+        "text": "Minune mai presus de cuget s-a făcut la adormirea ta dumnezeiescule, cel cu cuget cuvios, când a sosit fără veste adunarea sfinţilor, că faţa ta Părinte înţelepte a strălucit ca soarele, arătând curăţia sufletului tău cea cu chipul de fulger, şi încredinţând pe toţi, ce fel de sfârşit ai dobândit."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Pe tine palatul cel preacurat al Împăratului te rog, pe ceea ce eşti mult-lăudată, curăţeşte cugetul meu cel spurcat de tot păcatul, şi mă fă lăcaş de veselie Treimii Celei Preaînalte, ca să slăvesc puterea ta, şi mila cea nemăsurată, fiind mântuit eu netrebnicul robul tău."
+    },
+    "cruciiNascatoarea": {
+      "text": "Suferit-ai în inima ta Preacurată sabie cu două ascuţituri, precum ţi-a zis ţie Simeon, şi ţi-ai rănit cu dânsa cele dinlăuntru ale tale, dacă ai văzut pe Fiul tău spânzurat pe lemn, Preacurată. Pentru aceea strigai : Fiul meu ! Nu mă trece cu vederea, ci grăbeşte de te scoală, precum ai zis mai-nainte, îndelung-răbdătorule."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, Părintele nostru Sisoe; şi cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; slavă Celui ce lucrează prin tine tuturor tămăduiri."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "month": 11,
+  "day": 7,
+  "saint": "Sfinţii 33 de Mucenici, cei din Meletin. Şi Preacuviosul Părintele nostru şi făcătorul de minuni Lazăr, cel ce s-a nevoit în muntele Galisiului.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Ceata cea de Dumnezeu adunată, sfinţita oştire, adunare dumnezeiască, popor sfinţit. Ceata Mucenicilor cea de Dumnezeu încununată, adunare frumoasă, ajutorinţă nedespărţită, v-aţi arătat cu adevărat vrednicilor de laudă, şi vieţuitori Mitropoliei celei de sus după vrednicie, pentru aceea după datorie vă fericim."
+      },
+      {
+        "text": "Dimpreună cu Nicandru, pe Isihie, pe Atanasie, pe Mamant, pe dumnezeiescul Varahie, şi pe Calinic, şi pe Teaghen, şi pe Nicon, pe Longhin, pe Teodor, pe Valerie împreună şi pe Xantia pe Teodot şi pe Calimah, şi pe Evghenie, dimpreună cu dumnezeiescul Teodul, şi cu Ostrihie, adunându-ne cu toţii să-i cinstim."
+      },
+      {
+        "text": "Pe viteazul Ieron, pe slăvitul Epifanie, pe Maximian, dimpreună cu Dulchitie, Claudian şi Teofil, pe dumnezeiescul Ghigantie şi pe Doroteu cu credinţă, pe Diodot, pe Castrichie şi pe Anichit, împreună cu Temelie şi Evtihie, cu un glas să-i lăudăm, ca pe mărturisitorii adevărului."
+      },
+      {
+        "text": "Lepădând toată necuvântarea patimilor şi trupul supunându-l Duhului, te-ai făcut canon faptelor bune, întărire sihaştrilor, chip pustnicilor, podoaba cuvioşilor. Şi acum privind frumuseţea cea negrăită a Ziditorului tău, te desfătezi pururea cu duhul întru frumuseţile cele cereşti. Pentru aceasta adunându-ne cu cântările cântărilor celor dulci, lăudăm pomenirea ta cea cinstită şi prăznuită."
+      },
+      {
+        "text": "Lepădând toată greutatea cea grea a materiei, şi valurile cele mult înviforate ale trupului, ai umblat pe cărarea vieţuirii celei înalte, suindu-te cu bună-podoabă, şi înălţându-te la vârful a toată bunătatea, şi biruind pe potrivnicul vrăjmaş cel fără de materie, cu materia trupului. Pentru aceea te-ai sălăşluit împreună cu cetele îngerilor celor fără materie, Părinte Lazăre ! Rugându-te pentru sufletele noastre."
+      },
+      {
+        "text": "Lepădându-te de lume şi de trup, şi urând patimile împreună cu supărările lor, Cuvioase, te-ai făcut bun păzitor, Lazăre, poruncilor Domnului şi următor prea-ales. Pentru aceea a făcut lăcaş întru tine dimpreună cu Tatăl şi cu Duhul şi din-destul dă ţie, darurile cele mai presus de fire, făcându-te însuţi lucrător de minuni prea-ales, şi izbăvitor prea-fierbinte celor din nevoi."
+      }
+    ],
+    "slava": {
+      "glas": 5,
+      "text": "Cuvioase Părinte, nu ai dat somn ochilor tăi nici genelor tale dormitare, până ce ţi-ai slobozit sufletul şi trupul de patimi, şi pe tine însuți te-ai gătit lăcaş Duhului; că venind Hristos cu Tatăl, ! Sălăşluire întru tine a făcut. Şi Treimii Celei de o Fiinţă rob făcându-te, vestitorule de lucruri mari Lazăre Părintele nostru, roagă-te pentru sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Ochiul inimii mele întind către tine, Stăpână, nu trece puţina mea suspinare, în ceasul când va judeca Fiul tău lumea, fie-mi mie acoperământ şi ajutătoare."
+    },
+    "cruciiNascatoarea": {
+      "text": "Pironitu-M-am ca un om pe lemn, şi M-am omorât, şi în mormânt M-am pus ca un muritor; iar ca Dumnezeu, o Maică ! voi învia pe cei morţi şi cu scularea Mea, te voi slăvi pe tine."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

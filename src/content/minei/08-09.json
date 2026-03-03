@@ -1,0 +1,37 @@
+{
+  "month": 8,
+  "day": 9,
+  "saint": "Sfântul Apostol Matia.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Îngereştile puteri...",
+    "stihiri": [
+      {
+        "text": "Astăzi făcând prăznuire, a preasfintei slăvitei Schimbării la faţă, pe Hristos slavoslovim, Cel ce a schimbat cu Focul Dumnezeirii firea noastră, şi ca mai-nainte o a strălucit cu nestricăciune."
+      },
+      {
+        "text": "Veniţi să ne suim în Sfântul munte, şi cu credinţă să vedem Schimbarea la faţă a Domnului, strigându-i cu credinţă şi grăindu-i : Tu singur eşti Dumnezeul nostru, Care Te-ai întrupat şi ai îndumnezeit omenirea."
+      },
+      {
+        "text": "Aceasta este ziua cea preacinstită, întru care Se schimbă la faţă Hristos, împreună fiind de faţă Moise şi Ilie şi ucenicii Lui în muntele Taborului, şi glas dumnezeiesc a venit : Acesta este cu adevărat Fiul Meu cel ales."
+      },
+      {
+        "text": "Matia fericite, ieşit-ai ca un rău din Edenul cel înţelegător, revărsându-te cu dumnezeieştile ape, şi ai adăpat pământul cu adăpările cele tăinuite, şi l-ai arătat pe dânsul aducător de roadă. Pentru aceasta roagă-te să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Matia Apostole, tu ai plinit ceata cea dumnezeiască, din care a căzut Iuda, şi cu fulgerele cele dumnezeieşti, ale înţeleptelor tale cuvinte, prin Duhul ai gonit întunericul nebuniei idolilor; şi acum roagă-te, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Matia de Dumnezeu insuflate, arătatu-s-au lumii fulgerele dogmelor tale, luminând pe toţi, şi povăţuindu-i către cunoştinţa cea dumnezeiască, făcând vase luminii, pe cei ce mai-nainte dormeau în noaptea deşertăciunii, şi întru întunericul a toată nedumnezeirea."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Vărsatu-s-a Darul în buzele tale, mărite Apostole Matia, şi ai fost luminător Bisericii lui Hristos, învăţând oile cele cuvântătoare, să creadă în Treimea Cea de o Fiinţă, întru o Dumnezeire."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole sfinte Matia, roagă pe Milostivul Dumnezeu, ca să dea iertare de greşale, sufletelor noastre."
+    }
+  }
+}

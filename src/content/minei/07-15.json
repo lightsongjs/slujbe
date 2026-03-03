@@ -1,0 +1,34 @@
+{
+  "month": 7,
+  "day": 15,
+  "saint": "Sfinţii Mucenici Chiric şi Iulita Maica lui.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Mucenicii Tăi Doamne...",
+    "stihiri": [
+      {
+        "text": "Tu Mucenice Chiric cu minte desăvârşit, iar în trup nesăvârşit, vitejeşte ai ruşinat pe tiranul cel cu minte de prunc. Pentru aceasta înaintea divanurilor celor de judecată cu cruzime te-a supus la moarte, pe tine cel ce erai logodit cu viaţa cea nesfârşită, la care te-ai suit, fiind rourat cu sângele ce încă îi ieşea abur."
+      },
+      {
+        "text": "Ca o vie prea-roditoare din adăpările Duhului, aduci pe Chiric, care a odrăslit din pântecele tău, mărită Iulita, jertfindu-se şi storcându-se cu adevărat în linurile cele muceniceşti, cu care dimpreună izvorând vin de umilinţă, veseleşti inimile celor ce cu credinţă săvârşesc pomenirea voastră."
+      },
+      {
+        "text": "Dându-te la munci şi la multe feluri de chinuri, ai răbdat bărbăteşte vrednică de laudă. Dar văzând cu ochii tăi sfârşitul fiului tău Iulito, ai săvârşit îndoită mucenicie; pentru aceasta ţi-a dat ţie şi cununile îndoite puitorul de nevoinţă, Cel ce dăruieşte biruinţă, celor ce se chinuiesc cu toată puterea."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Veniţi toţi de vedeţi priveală străină şi minunată ! Cine a văzut prunc de trei ani, ruşinând pe tiran ? O minune ! Mama aplecă, şi cel ce sugea strigă celei ce-i da sân : Nu te spăimânta Maica mea de îngrozirile cumplitului stăpânitor al lumii, căci Hristos este nădejdea celor ce cred într-însul."
+    },
+    "nascatoarea": {
+      "text": "Stăpână primește rugăciunile robilor tăi, și ne mântuieşte pe noi, din toată nevoia şi scârba."
+    },
+    "cruciiNascatoarea": {
+      "text": "Junicea cea nespurcată, văzându-şi Viţelul spânzurat pe lemn, tânguindu-se cu jale striga : Vai mie preaiubite Fiule ! Ce răsplătire dă Ție norodul evreilor cel nemulţumitor ? Vrând să mă facă fără de Tine Fiule preaiubite."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

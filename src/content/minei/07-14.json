@@ -1,0 +1,30 @@
+{
+  "month": 7,
+  "day": 14,
+  "saint": "Sfântul Apostol Achila, unul din cei şaptezeci.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Pavel cugetătorul de Dumnezeu, soarele cel mare al lumii, pe tine fericite te-a trimis ca pe o rază luminoasă la toată zidirea, ca cu luminile cuvintelor tale cele strălucitoare, să luminezi pe cei ce se primejduiau odinioară în noaptea necunoştinţei."
+      },
+      {
+        "text": "Inima ta cea curată luminându-se din-destul cu razele cele luminoase ale Dumnezeiescului Duh, Achila de Dumnezeu grăitorule, cu adevărat te-ai făcut cu chip luminos şi întunericul cel cumplit al elinilor l-ai risipit cu Darul cel dumnezeiesc."
+      },
+      {
+        "text": "Cei ce cu credinţă aleargă la dumnezeiescul tău lăcaş, şi într-însul ţi se roagă, fericite, se mântuiesc de tot felul de boli şi de primejdii şi de scârbe, prin sfinţitele tale rugăciuni, şi cu mijlocirile tale cele către Dumnezeu, preasfinţite Achila."
+      }
+    ],
+    "nascatoarea": {
+      "text": "De Dumnezeu fericită Pruncă, aducând Ziditorului rugăciunile, noastre, ca o părtinitoare blândă credincioşilor, Născătoare de Dumnezeu, dă răsplătire robilor tăi iertare, ca una ce eşti mântuirea, şi iertare desăvârşită sufletelor noastre, ceea ce eşti cu totul fără prihană."
+    },
+    "cruciiNascatoarea": {
+      "text": "Stând lângă Crucea Fiului şi Dumnezeului tău, şi uitându-te la îndelungă răbdarea Lui, ziceai tânguindu-te Maică curată : Vai mie dulcele meu Fiu ! De ce pătimeşti acestea fără dreptate ? Fiule al lui Dumnezeu, ca să mântuieşti neamul omenesc."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole sfinte Achila roagă pe Milostivul Dumnezeu ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

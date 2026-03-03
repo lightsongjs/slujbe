@@ -1,0 +1,34 @@
+{
+  "month": 9,
+  "day": 25,
+  "saint": "Preacuvioasa Maica noastră Eufrosina.",
+  "vecernie": {
+    "glas": 5,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Maică Cuvioasă Eufrosina, vrednică de minune, dorind veselia cea adevărată, ai umblat pe acea cărare care o pricinuieşte. Că ai primit sărăcia în loc de bogăţie, şi pe Mirele cel veşnic, în locul logodnicului celui trupesc, şi înfrânarea în locul dezmierdării celei trecătoare, şi ostenelile sihăstriei, în locul odihnei, şi în locul petrecerii celei din lume, viaţa cea mai presus de lume, care o ai şi dobândit, păzindu-ţi făclia nestinsă; şi învrednicindu-te cămării de mire, împreună cu fecioarele cele înţelepte, ca o fecioară şi mireasă a lui Hristos prealăudată."
+      },
+      {
+        "text": "Cu râurile lacrimilor adăpându-ţi cugetul, ți-ai înmulţit întru sihăstrie rodurile cele îmbunătăţite, şi ca o vie prea-roditoare, ai rodit struguri preafrumoşi cinstită, cu al cărora dumnezeiesc must adăpându-te, arătat ne îndulcim simţirile sufletului, şi după urmarea ta veselindu-ne, cu dumnezeiască bucurie, lepădând beţia cea din păcate, strigăm ţie preacinstită : Roagă-te pururea lui Hristos, să se dăruiască lumii unire, pace şi mare milă."
+      },
+      {
+        "text": "Vedere străină şi cu anevoie primită firii ! Cum nu te-ai înşelat de cumplitele măiestrii ale vechiului amăgitor al Evei ? Că locuind în mijlocul bărbaţilor cu minte întreagă, prin mijlocul focului ai trecut nearzându-te, şi ai ascuns neputinţa femeiască, fiind întărită cu dumnezeiasca putere a Celui ce a purtat neputinţa noastră, strălucind din Fecioară neispitită de bărbat, Pe care roagă-L, dănţuind împreună cu îngerii, să se dăruiască lumii unire, pace şi mare milă."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Curăţia fecioriei tale păzindu-o nespurcată de bărbat, mireasă lui Hristos te-ai făcut Eufrosina preafericită. Şi frumuseţea trupului veştejindu-o prin ostenelile sihăstriei, fericitul suflet ţi l-ai împodobit cu frumuseţea Darului. Căci în chipul cel bărbătesc, ascunzând firea cea femeiască, ai scăpat de pândirile lui Veliar, vieţuind pe pământ îngereşte. Aşadar, cere pace celor ce cu dragoste te laudă pe tine, ca una ce eşti cu numele bucuriei, veselitoarea lumii."
+    },
+    "nascatoarea": {
+      "text": "Ochiul inimii mele îmi ridic către tine Stăpână, nu trece puţina mea suspinare. În ceasul când va judeca Fiul tău lumea, fii mie acoperământ, şi ajutătoare."
+    },
+    "cruciiNascatoarea": {
+      "text": "Stând Fecioara lângă Cruce oarecând în vremea răstignirii, împreună cu ucenicul cel iubitor de feciorie, şi plângând striga : Vai mie ! Cum pătimeşti Hristoase ? Cela ce eşti viaţa tuturor."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Întru tine Maică cu osârdie s-a mântuit cel după chip; că luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioasă Eufrosina, duhul tău."
+    }
+  }
+}

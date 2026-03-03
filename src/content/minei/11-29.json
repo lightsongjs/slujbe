@@ -1,0 +1,30 @@
+{
+  "month": 11,
+  "day": 29,
+  "saint": "Sfântul Mucenic Paramon.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Cela ce de sus eşti chemat...",
+    "stihiri": [
+      {
+        "text": "Fiind strălucit cu arătarea luminii Dumnezeiescului Duh arătat, preafericite Paramoane, de tot te-ai scârbit de întunericul cel preaadânc al multor dumnezei, şi aflând vreme bună, Fericite, din voia ta ai mers către nevoinţele cele ce erau de faţă cu cuget viteaz, şi arătându-te purtător de biruinţă, ai surpat pe trufaşul şi vrăjmaşul tuturor oamenilor, slăvind pe Hristos; pe carele roagă-L să mântuiască, şi să lumineze sufletele noastre."
+      },
+      {
+        "text": "Văzând mulţimea cea cu mult număr, care se junghia Paramoane pentru Dumnezeu, şi Împăratul tuturor, te-ai aprins cu râvnă dumnezeiască, şi ai strigat : Slugă dreaptă sunt lui Hristos totdeauna, cunoaşteţi tiranilor fărădelege, şi iată că am venit acum de nimenea chemat, să mă jertfesc ca un miel fără de răutate. Ci dar nu zăboviţi; că mă nevoiesc a mă face jertfă primită Celui ce S-a jertfit cu trupul pentru mine de a Sa bunăvoie."
+      },
+      {
+        "text": "Cinstită ceata purtătorilor de chinuri, fiind cinstită cu înşeptită zecime, şi cu întreită sutime, a surpat prin credinţă rătăcirea cea cu mulţi dumnezei a celor fărădelege, cu care dimpreună nevoindu-te cu cuget viteaz, Paramoane, te-ai încununat şi te-ai numărat cu cetele celor fără de trupuri bucurându-te; cu care împreună roagă-te să ne mântuim de toată scârba şi de supărări, noi cei ce te lăudăm pe tine, şi cu curăţie te fericim."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Nu ascund eu ticălosul răutăţile mele, că toate cele ce urăşte Dumnezeu le am eu, spurcându-mi trupul şi duhul şi gândul meu, cu cugete şi cu fapte şi cu cuvinte de ocară şi fărădelege, şi hulind cu limba pe cei ce păcătuiesc, eu sunt carele fac cele mai rele, Născătoare de Dumnezeu, dă-mi îndreptare de acestea de toate; ca trezvindu-mă de obişnuirea mea cea rea, să cad şi să plâng în rămăşiţa vieţii mele pentru relele ce am făcut."
+    },
+    "cruciiNascatoarea": {
+      "text": "Nu te tângui Maica Mea pentru Mine Fiul tău şi Dumnezeu, văzându-Mă spânzurat pe lemn, carele am spânzurat tot pământul pe ape fără ţinere, şi am zidit toată lumea. Că Mă voi scula şi Mă voi preamări şi voi sfărâma cu putere împărăţia iadului, şi voi pierde puterea lui şi voi scoate pe cei legaţi de răutatea lui, ca un Milostiv, şi le voi dărui lor Împărăţia cea veşnică."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Paramon întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

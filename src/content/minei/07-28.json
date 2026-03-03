@@ -1,0 +1,30 @@
+{
+  "month": 7,
+  "day": 28,
+  "saint": "Sfinţii Apostoli Prohor, Nicanor, Timon şi Parmeni. Şi Cuviosul Părintele nostru Pavel Xiropotamiteanul",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Ca unii ce eraţi plini de înţelepciune dumnezeiască, şi de lumină şi de Dar slăviţilor, cu alegerea cea aleasă de Dumnezeu, v-aţi ales mai de cinste a sluji la trebuinţele sfinţilor, și acum locuiţi în ceruri veselindu-vă, neîncetat împreună cu îngerii."
+      },
+      {
+        "text": "Arătându-vă ca nişte făclii luminoase cu Darul Duhului, din-destul aţi strălucit lumii lumina cunoştinţei, şi negura răutăţii o aţi încetat, şi mutându-vă de aici, v-aţi sălăşluit către lumina cea neapusă, Apostolilor."
+      },
+      {
+        "text": "Să se laude Nicanor cel preasfinţit, şi Parmena, şi Timon, şi dimpreună cu dânşii să se cinstească dumnezeiescul Prohor, împlinitorii poruncilor Cuvântului, şi îmbogăţitorii lipsiţilor, şi rugătorii cei preafierbinţi pentru noi către Dumnezeu."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Pruncă preafericită ca o părtinitoare milostivă credincioşilor, Născătoare de Dumnezeu, aducând rugăciunile noastre Ziditorului, dă răsplătire robilor tăi, milostivire desăvârşită, ca o mântuitoare, şi curăţire sufletelor noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Stând lângă Crucea Fiului şi Dumnezeului tău, şi uitându-te la îndelungă-răbdarea Lui, Maică Preacurată, tânguindu-te ziceai : Vai mie preadulcele meu Fiu ! Pentru ce pătimeşti acestea fără dreptate ? Cuvinte al lui Dumnezeu, ca să mântuieşti firea omenească."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Sfinţilor Apostoli rugaţi pe milostivul Dumnezeu, ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

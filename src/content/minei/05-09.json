@@ -1,0 +1,37 @@
+{
+  "month": 5,
+  "day": 9,
+  "saint": "Sfântul Prooroc Isaia și Sfântul Mucenic Hristofor, și aducerea moaştelor celui dintru sfinţi Părintelui nostru Nicolae făcătorul de minuni din Mira în cetatea Bari.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Isaia cel mare şi slăvit, curățindu-se prin jăratecul Dumnezeirii cel întrupat, i s-a încredinţat proorocia, şi vedea slava cea dumnezeiască, pentru multa prisosire a bunătății, şi pentru curăţie; şi s-a ales a fi propovăduitor, şi vesteşte mai-nainte mântuirea ce va să fie limbilor, şi arătarea cea dumnezeiască."
+      },
+      {
+        "text": "Curățindu-ţi-se cugetul şi mintea minunate Isaie, te-ai făcut organ bine tocmit al Duhului, lovindu-te pururea de lucrările Lui, şi potrivindu-te de insuflările Lui prin cuget dumnezeiesc, pururea pomenite, ai văzut pe Cel ce şedea pe Scaun Înalt, şi te-ai învățat cele dumnezeieşti."
+      },
+      {
+        "text": "Văzând, Fericite, pe dumnezeieștii Serafimi, că slăvesc cu gând neîncetat, o domnie a Dumnezeirii în trei Ipostasuri întreit Sfinte, şi învățându-te prin taină, ți s-a încredinţat Darul cel proorocesc minunate; pentru aceasta săvârşind pomenirea ta cea preasfântă, te aducem pe tine rugător prea-tare către Hristos."
+      },
+      {
+        "text": "Veniți să cinstim chinuirile lui Hristos, prin care ne izvorăşte nouă Darul cel pururea curgător al lui Hristos dătătorului de viață, că biruind pe vrăjmaşi foarte tare, a primit putere asupra patimilor şi a dracilor şi a durerilor."
+      },
+      {
+        "text": "Țărâna moaştelor tale, izvorăşte izvoare de minuni, izbăvire de trăsnet, şi dăruieşte mântuire de boli grele de moarte; pentru aceeaşi acum Hristofore mult pătimitorule, se roagă poporul tău ca să se mântuiască pururea prin rugăciunile tale de stricăciunea acelora."
+      },
+      {
+        "text": "Pomenirea ta Mucenice şi patimile cele mult pătimitoare ale luptelor tale pătimitorule, arătat mirosesc ca nişte trandafiri de primăvară, prin care cei neputincioşi, şi cei cu patimi, şi cei bolnavi, luându-şi sănătate prin rugăciunile tale, laudă pe Hristos dătătorul."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Cu roşala sângelui muceniciei tale, împodobindu-se Biserica lui Dumnezeu, trimite raze de soare, Hristofore mult pătimitorule. Căci întrarmându-te pe sineți cu Crucea, şi alegând mai cu voie a muri pentru Hristos, vitejeşte ai stătut împotriva celui străin întru război, şi ruşinând toate cugetele celor fărădelege, te-ai arătat ostaş biruitor al lui Hristos. Pentru aceea te rugăm ca pe unul ce ai îndrăzneală : Podoaba mucenicilor, roagă-te să se mântuiască sufletele noastre."
+    },
+    "tropar": {
+      "glas": 2,
+      "text": "Proorocului Tău Isaia, pomenirea Doamne prăznuind, printr-însul Te rugăm, mântuieşte sufletele noastre."
+    }
+  }
+}

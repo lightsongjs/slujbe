@@ -1,0 +1,30 @@
+{
+  "month": 7,
+  "day": 18,
+  "saint": "Sfântul Mucenic Iachint cel din Amastrida. Şi Sfântul Mucenic Emilian.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Cu nebiruită putere de sus ai îmbrăcat Doamne pe pătimitorul Tău, şi l-ai întărit pe el să rabde munci pentru Tine, ca un nevoitor, de la vrăjmaşii cei fărădelege, şi să primească cununa muceniciei. Prin care trimite-ne nouă iertare păcatelor, Iisuse preaputernice, Mântuitorul sufletelor noastre."
+      },
+      {
+        "text": "Pătimitorul Tău Doamne întrarmându-se cu Crucea, şi înfierbântându-se de râvna Ta, a ars toate capiştile idolilor, şi surpând taberele începătorului de rele, măritul Emilian, a primit darurile biruinţei de la Tine Stăpâne, împărăţia cea cerească, şi se roagă, să ne mântuim noi."
+      },
+      {
+        "text": "Stea luminoasă ai arătat Bisericii pe Mucenicul Emilian, şi ostaş prea-ales, care luminează acum toată lumea cu lucrări de minuni tainice, şi goneşte întunericul nedumnezeirii; de la care luminându-ne, cu dumnezeiască cuviinţă te lăudăm pe Tine Iisuse Atotputernice, Mântuitorule al sufletelor noastre."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Şterge întinăciunea inimii mele celei ticăloase, Născătoare de Dumnezeu prealăudată, şi toate rănile şi bubele ei cele din păcate curăţeşte-le Preacurată, şi întăreşte nestatornicia cugetului meu, ca să slăvesc puterea ta şi ajutorul cel mare, eu ticălosul şi netrebnicul robul tău."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând Preacurata Stăpână pe Hristos omorându-Se, şi omorând pe cel viclean, plângându-L ca pe un Stăpân, laudă pe Cel ce a ieşit din pântecele ei, şi mirându-se de îndelungă-răbdarea Lui, strigă : Fiul meu preadorite ! Nu uita pe roaba ta, nu zăbovi Iubitorule de oameni, Cela ce eşti dragostea mea."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Emilian întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "month": 1,
+  "day": 14,
+  "saint": "Cuvioşii părinţii noştri, Sfinţii cei ucişi în Sinai şi în Rait. În această zi, se odovăieşte praznicul Sfintei şi Dumnezeieştii Arătări.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": null,
+    "stihiri": [
+      {
+        "text": "Pe Luminătorul nostru, Carele luminează pe tot omul, văzându-L Mergătorul înainte, venind să Se boteze, se bucură cu sufletul, şi se cutremură cu mâna. Îl arată pe El şi zice noroadelor : Iată Cela ce mântuieşte pe Israel, Cel ce ne scapă pe noi din stricăciune. O, Cela ce eşti fără de păcat, Hristoase Dumnezeul nostru slavă Ție !"
+      },
+      {
+        "text": "Mântuitorul nostru, de la slugă botezându-Se, şi prin venirea Duhului mărturisindu-Se, s-au spăimântat văzându-L oştile îngereşti. Şi glas din Cer a venit de la Tatăl : Acesta pe Carele Mergătorul înainte mâna îşi pune, Fiul Meu Cel Iubit este, întru Carele bine am voit; Hristoase Dumnezeul nostru slavă Ție."
+      },
+      {
+        "text": "Curgerile Iordanului, pe Tine Izvorul Te-au primit, şi Mângâietorul în chip de porumb S-a pogorât. Plecatu-şi-a creştetul, Cel ce a plecat cerurile. Strigat-a şi a zis lutul către Ziditorul : Ce-mi porunceşti cele ce sunt mai presus de mine ? Mie îmi trebuieşte Botezul Tău. O, Cela ce eşti fără de păcat; Hristoase Dumnezeul nostru slavă Ție !"
+      },
+      {
+        "text": "Vrând să mântuieşti pe omul cel rătăcit, nu ai socotit nevrednicie în chip de rob a Te îmbrăca. Că s-a căzut Ție, Stăpânului şi Dumnezeu, ca să primeşti ale noastre, pentru noi. Că Tu botezându-Te cu trupul Mântuitorule iertării ne-ai învrednicit pe noi. Pentru aceasta strigăm către Tine : Făcătorule de bine Hristoase Dumnezeul nostru slavă Ție."
+      }
+    ],
+    "slava": {
+      "glas": 0,
+      "text": "Plecatu-Ți-ai capul Mergătorului înainte, sfărâmat-ai capetele balaurilor, venit-ai la râuri, luminat-ai toate, ca să Te slăvească Mântuitorule, pe Tine, Luminătorul sufletelor noastre."
+    },
+    "tropar": {
+      "glas": 5,
+      "text": "Arătatu-Te-ai în lume, Cel ce ai făcut lumea, ca să luminezi pe cei ce şedeau întru întuneric, Iubitorule de oameni slavă Ție."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "month": 12,
+  "day": 2,
+  "saint": "Sfântul Prooroc Avvacum.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Avvacum cel minunat, primind raza Duhului, s-a făcut cu totul dumnezeiesc. Şi văzând păgânătatea judecătorilor, şi judecata cea fără dreptate, se necăjea, arătându-şi dreptatea gândului către Hristos şi Stăpânul; şi cu cuget fierbinte şi de Dumnezeu iubitor se aprindea ca un râvnitor."
+      },
+      {
+        "text": "Stând la dumnezeiasca strajă cinstitul Avvacum, a auzit taina cea nespusă a venirii Tale către noi, Hristoase, şi arătat prooroceşte propovăduirea Ta, mai-nainte văzând pe înţelepţii Apostoli, ca pe nişte cai, tulburând marea limbilor celor de multe neamuri."
+      },
+      {
+        "text": "Bucurându-te întru Domnul Dumnezeu, Mântuitorul tău te veseleşti mărite grăitorule de Dumnezeu, şi primind raza strălucirii celei de acolo, te-ai luminat cu gândul de lumina cea de Dumnezeu dată; ci cu rugăciunile tale, izbăveşte din supărări şi din primejdii, pe cei ce săvârşesc cu credinţă preasfinţită pomenirea ta."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Ceea ce ai încăput în pântecele tău pe Dumnezeu cel neîncăput, Care S-a făcut Om pentru iubirea de oameni, şi a luat din tine frământătura noastră, şi arătat o a îndumnezeit nu mă trece pe mine acum, Preacurată, fiind scârbit; ci milostiveşte-te degrabă, şi mă mântuieşte de toată mânia şi răutatea viclenilor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut Fecioara şi Maica Ta, Doamne spânzurat pe Cruce, se mira şi cu tânguire zicea Ție : O ce minune de răbdarea cea nemărginită, Ziditorul meu ! Cum de bunăvoie ca un osândit cu judecată nedreaptă Te osândeşti la moarte, de poporul cel vrednic de osândă, şi suferi patimi înfricoşate ?"
+    },
+    "tropar": {
+      "glas": 2,
+      "text": "Prăznuind pomenirea Proorocului Tău Avvacum, Doamne, printr-însul Te rugăm, mântuieşte sufletele noastre."
+    }
+  }
+}

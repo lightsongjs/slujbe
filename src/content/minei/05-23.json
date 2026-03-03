@@ -1,0 +1,33 @@
+{
+  "month": 5,
+  "day": 23,
+  "saint": "Preacuviosul Părintele nostru Mihail mărturisitorul, episcopul Sinadiei.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Părinte Mihaile de Dumnezeu insuflate, păzit-ai fără prihană sufletul cel după chipul lui Dumnezeu, şi icoana cea preacurată a lui Hristos o ai cinstit, şi cu învăţăturile tale ai stins toată limba cea hulitoare, cu întărirea sufletului. O cât este de tare împotrivirea luptelor tale, prin care bine ai plăcut lui Hristos, Atotțiitorului, Fericite !"
+      },
+      {
+        "text": "Părinte Mihaile de Dumnezeu insuflate, îmbrăcându-te cu podoaba preoţiei, ai alergat către lupta mucenicilor, şi te-ai adus prinos lui Hristos împodobit cu cununi îndoite ca să vezi cetele arhiereilor, Fericite. O cât este de negrăită bucuria ta, Mărite; de care te-ai învrednicit a te împărtăşi cu adevărat, de Dumnezeu fericite !"
+      },
+      {
+        "text": "Părinte Mihaile prea dumnezeiescule, înfrumusețându-te arătat cu veşmântul cel lung ca un al doilea Aaron, intrând înlăuntrul altarului şi a catapetesmei celei de a doua, acum priveşti Sfintele Sfintelor. O o cât este de curată strălucirea ta cea mai presus de cuget, de care te-ai şi împărtăşit, cela ce eşti dumnezeiască podoabă a Ierarhilor !"
+      },
+      {
+        "text": "Mântuieşte-mă din nevoi, şi mă scoate din săgeţile cele stricătoare de suflet, ale celui nevăzut şi preaviclean vrăjmaş, ca cu glasuri de bucurie să te slăvesc pe tine Preacurată, şi să laud adâncul iubirii tale de oameni; căci pe tine Mireasă a lui Dumnezeu, te pun armă tare şi nebiruită asupra lui, Maica lui Hristos Dumnezeu."
+      },
+      {
+        "text": "Stăpâne Iisuse, văzându-Te pe Tine Fecioara şi Maica Ta pironit pe Cruce, şi primind patimi de bunăvoie, a strigat : Vai mie preadulce Fiule, cum rabzi bătăi fără dreptate, Doctorul, Cel ce ai vindecat neputinţa omenească, şi prin îndurarea Ta pe toţi ai scăpat din stricăciune."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Stăpâne Iisuse, văzându-Te pe Tine Fecioara şi Maica Ta pironit pe Cruce, şi primind patimi de bunăvoie, a strigat : Vai mie preadulce Fiule, cum rabzi bătăi fără dreptate, Doctorul, Cel ce ai vindecat neputinţa omenească, şi prin îndurarea Ta pe toţi ai scăpat din stricăciune."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării, te-a arătat pe tine, turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Mihaile , roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

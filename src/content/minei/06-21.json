@@ -1,0 +1,34 @@
+{
+  "month": 6,
+  "day": 21,
+  "saint": "Sfântul Mucenic Iulian Tarsineanul.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Cunoscându-te pe tine Mucenice Iuliane, ca pe un soare luminător, care luminezi plinirile lumii, cu străluciri înţelegătoare, şi ridicând de la mijloc noaptea nedumnezeirii, prăznuim pomenirea ta cea aducătoare de lumină şi dumnezeiască, şi închinându-ne ţărânii moaştelor tale, luăm sănătate sufletelor."
+      },
+      {
+        "text": "Şi cu bice bătându-te şi cumplit călcându-te, şi în temniţă închizându-te, Fericite şi necăjindu-te cu schimbarea locurilor, cu fiare închizându-te, şi întru adânc petrecând şi în mare înecându-te şi primind sfârşitul cel fericit, nu te-ai lepădat de Stăpânul tuturor, lauda Mucenicilor, Preafericite."
+      },
+      {
+        "text": "Dacă te-a văzut pe tine preacinstita femeie, că ai ieşit la uscat din sânurile mării, prin ocârmuirea Duhului, cu credinţă te-a primit Mucenice Iuliane, şi îngropării a dat trupul tău cel curat şi mult chinuit, care a biruit tirania diavolului, cu ajutorul Darului."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Scoţând băutura cea nedeşertată a credinţei celei curate, Fericite, ai stins slujba cea idolească, şi ai trecut podvigul cel cu biruinţă, luminându-te ca o stea de Soarele cel pururea luminos, şi revărsând spre fiecare cetate razele muceniciei, ai luat în mare fericit sfârşit, şi ca un purtător de cunună te-ai întâmpinat înaintea feţei lui Hristos; pe Care roagă-L, Iuliane prealăudate, ca să mântuiască pe cei ce cu credinţă săvârşesc pomenirea ta."
+    },
+    "nascatoarea": {
+      "text": "Pe Cuvântul Cel fără de început cu Tatăl şi cu Duhul, prin glasul Arhanghelului, de Dumnezeu Născătoare, în pântece zămislindu-L, decât Heruvimii şi Serafimii şi Scaunele, mai înaltă te-ai arătat."
+    },
+    "cruciiNascatoarea": {
+      "text": "Stând înainte dedemult oarecând pe vremea răstignirii Fecioara împreună cu ucenicul cel iubitor de feciorie, şi plângând, striga : Vai mie ! Cum pătimeşti acestea Hristoase pentru toţi, Cela ce eşti fără patimă."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Iulian întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase"
+    }
+  }
+}

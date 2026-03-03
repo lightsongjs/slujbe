@@ -1,0 +1,24 @@
+{
+  "month": 5,
+  "day": 13,
+  "saint": "Sfânta Muceniță Glicheria.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Prin ostenelile chinurilor tale te-ai logodit cu Stăpânul strălucind cu frumuseţile fecioriei; și ca o zestre ai adus lui tăierea mădularelor şi moartea cea silnică, pururea pomenită. Pentru aceea ai câştigat cămările de Mire cele cereşti Glicheria, rugându-te să se mântuiască cei ce cu credinţă te fericesc pe tine."
+      },
+      {
+        "text": "Cugetarea şi împotrivirea sufletului tău mărită, s-a arătat foarte bărbătească şi vitează; căci întru slăbiciunea trupului, cu duh osârduitor ai călcat pe vrăjmaşul începătorul de rele, strigând : Tu Doamne ești puterea şi lauda robilor Tăi, Cela ce cu puterea nebiruită ai biruit pe cel puternic."
+      },
+      {
+        "text": "Nici foamea, nici nevoia, nici lungimea durerilor, nici închisoarea cea silnică, nici cuptorul focului, nici aşternutul pietrelor, nu au putut să te despartă de dragostea lui Hristos, pururea pomenită. Pentru aceasta ai primit de la Dumnezeu dumnezeiasca rouă, şi te-ai mutat de pe pământ şi din cele pământeşti, către viață, lăudată Glicheria."
+      }
+    ],
+    "tropar": {
+      "glas": 4,
+      "text": "Mieluşeaua Ta, Iisuse, Glicheria, strigă cu mare glas : Pe Tine, Mirele meu, Te iubesc şi pe Tine căutându-Te, mă chinuiesc şi împreună mă răstignesc, şi împreună mă îngrop cu Botezul Tău; şi pătimesc pentru Tine, ca să împărăţesc întru Tine; şi mor pentru Tine, ca să viez pentru Tine; ci, ca o jertfă fără prihană, primeşte-mă pe mine, ceea ce cu dragoste mă jertfesc Ţie. Pentru rugăciunile ei, ca un milostiv, mântuieşte sufletele noastre."
+    }
+  }
+}

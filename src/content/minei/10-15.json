@@ -1,0 +1,30 @@
+{
+  "month": 10,
+  "day": 15,
+  "saint": "Sfântul Cuviosul Mucenic Luchian, preotul Antiohiei celei mari.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn celor ce...",
+    "stihiri": [
+      {
+        "text": "Fiind bogat de cunoştinţa Dumnezeiescului Cuvânt prin credinţă ai întărit pe credincioşi să sufere cu îndrăzneală muceniciile cele de multe feluri şi mânia tiranului, pentru viaţa cea viitoare şi pentru veselia cea fără stricăciune. Pentru aceasta te fericim Luchiane vrednicule de laudă, şi săvârşim astăzi dumnezeiescul tău praznic."
+      },
+      {
+        "text": "Închisoare de multă vreme şi moarte silnică ai răbdat Cuvioase, legându-te cu curele şi zgâriindu-te cu hârburi ascuţite, Fericite, şi mult chinuindu-te cu nemâncare şi cu sete îndelungată. Pentru aceea te-a primit desfătarea cea cerească, ca pe un Mucenic nebiruit, răbdătorule de chinuri preaviteazule."
+      },
+      {
+        "text": "Sânul mării primindu-te pe tine slăvite, după treizeci de zile te-a dat la uscat, ca pe Iona odinioară prin slujba fiarei, pentru îngroparea cea cinstită de Dumnezeu, şi spre dumnezeiască izvorâre de tămăduiri; pârga mucenicilor, întărirea Bisericii. Pentru aceea te cinstim, rugătorule pentru sufletele noastre."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Şterge spurcăciunea ticăloasei inimii mele, Născătoare de Dumnezeu Preacurată şi toate rănile, şi curăţeşte rănile ei cele din păcate şi statornicia gândului meu întăreşte-o; ca mântuindu-mă eu netrebnicul robul tău, să măresc puterea ta şi ajutorul tău cel mare."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând Preacurata Maică pe Hristos omorându-Se şi omorând pe cel viclean, plângându-L ca pe un Stăpân, lăuda pe Cel ce a ieşit din pântecele ei, şi mirându-se de îndelungă-răbdarea Lui, striga : Fiul meu preadorite nu uita pe roaba Ta, nu zăbovi Iubitorule de oameni, Cel ce eşti dragostea mea."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţă răbdând până la sânge, Sfinţite Mucenice Luchian, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre."
+    }
+  }
+}

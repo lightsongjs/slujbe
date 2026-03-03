@@ -1,0 +1,43 @@
+{
+  "month": 1,
+  "day": 20,
+  "saint": "Preacuviosul Părintele nostru Eftimie cel mare.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Bucură-te cămara...",
+    "stihiri": [
+      {
+        "text": "Părinte Eftimie, naşterea ta mai înainte o a vestit îngerul ceresc cel trimis, ca şi a lui Ioan, celui ce a odrăslit din pântece sterp, că aceluia râvnitor te-ai arătat şi asemenea cu obiceiul, neagonisitor, fără de casă ca Botezătorul şi în munţi hrănindu-te, ai strălucit cu nemăsurate minuni. De două ori."
+      },
+      {
+        "text": "Părinte Eftimie, rod din cea stearpă ai odrăslit, dar te-ai arătat cu adevărat mult roditor. Că din sămânţa cea duhovnicească, de monahi s-au umplut pustiul, care mai înainte era neumblat. Şi acum te roagă, să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Părinte Eftimie, viaţa ta este prea-aleasă şi credinţa cu adevărat ortodoxă. Că din cele lucrătoare la privirea cea preaînaltă ai ajuns, făcându-te lăcaş înţelepciunii, pe Unul din Treime, Hristos, în două firi cinstind, pe Care roagă-L pentru sufletele noastre."
+      },
+      {
+        "text": "Cela ce din pântecele maicii tale ai fost sfinţit, când ochiul Cel ce vede toate, mai înainte a văzut bun gândul şi voinţa ta, Care te-a dus fără de întoarcere la cele mai bune, atuncea Preafericite, pe tine Dar de Dumnezeu dat cu numele mângâierii numit mai înainte vestindu-te, a dezlegat întristarea părinţilor. Pentru aceasta din pruncie făgăduindu-te, lui Dumnezeu făcătorului de bine, ai plăcut, pe Care roagă-L să mântuiască şi să lumineze sufletele noastre."
+      },
+      {
+        "text": "Cela ce ai fost plin de daruri dumnezeieşti, pe tine ca pe o oglindă neîntinată a dumnezeieştilor arătări, Părinte aflându-te Hristos, razele luminii Sale cele strălucitoare ţie ţi-au luminat, de unde izvor îndestulat de tămăduiri te-au arătat, hrănitor flămânzilor şi setoşilor prin ploaie adăpându-le pofta. Şi sufleteştile voinţe văzând, cu cuvântul înţelepţeşte mai bune le-ai făcut lui Dumnezeu. Pe Care roagă-L, să mântuiască şi să lumineze sufletele noastre."
+      },
+      {
+        "text": "Cela ce cu privirea la cele de sus şi cu lucrarea ai strălucit, viaţa asemenea cu a îngerilor ţi-a fost, îndreptătoare de faptă bună şi pildă prea adevărată, celor ce vor să slujească lui Dumnezeu întru săvârşire. Iar cuvântul tău de Dumnezeu înţelepţite Eftimie, Treimea a o cinsti a învăţat şi pe Hristos unul a fi cunoscut în două firi, şi soboarele cele întocmai numărate cu patru Evanghelii ale lui Hristos. Pe Care roagă-L, să mântuiască şi să lumineze sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 3,
+      "text": "Sfinţit fiind lui Dumnezeu din pântecele maicii tale, ca alt Samuil Părinte Eftimie, după numirea ta te-ai făcut mângâiere credincioşilor, călugărilor toiag şi întărire, al Duhului Sfânt curat lăcaş, cere nouă, celor ce te cinstim, mare milă."
+    },
+    "nascatoarea": {
+      "text": "Fericimu-te Născătoare de Dumnezeu Fecioară, şi te mărim credincioşii după datorie, pe tine cetatea cea nemişcată, şi zidul cel nesurpat, şi folositoarea cea tare, şi scăparea sufletelor noastre."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Veseleşte-te pustie ceea ce nu năşteai, bucură-te ceea ce nu aveai durere, că ţi-a înmulţit ţie fii, bărbatul doririlor celor duhovniceşti, cu bună credinţă sădindu-i, cu înfrânarea hrănindu-i, spre săvârşirea bunătăţilor. Cu ale căruia rugăciuni Hristoase Dumnezeule, mântuieşte sufletele noastre."
+    },
+    "troparNascatoarea": {
+      "text": "Taina cea din veac ascunsă şi de îngeri neştiută, prin tine, Născătoare de Dumnezeu, celor de pe pământ s-a arătat, Dumnezeu întrupându-Se întru unire neamestecată şi crucea de bunăvoie pentru noi primind; prin care, înviind pe cel dintâi zidit, a mântuit din moarte sufletele noastre."
+    }
+  }
+}

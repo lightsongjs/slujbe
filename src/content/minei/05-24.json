@@ -1,0 +1,31 @@
+{
+  "month": 5,
+  "day": 24,
+  "saint": "Preacuviosul Părintele nostru Simeon cel din muntele minunat.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Biruind săltările trupului, şi îmbrăcându-te cu omorâre aducătoare de viaţă, ți-ai săvârşit sufletul, stâlp scris având bunătăţile cele cuprinzătoare, prin fapte, făcându-te ca un luminător pururea luminos, Preafericite, strălucind cu Darul peste toate marginile pământului, Cuvioase Simeoane."
+      },
+      {
+        "text": "Zburând prin dragostea cea dumnezeiască, şi depărtându-te de cele de pe pământ, şi înălțându-te către ceruri, încă purtând trup îmbrăcat cu ţărână; pentru aceasta arătat te-ai făcut întocmai vieţuitor cu îngerii, întinzându-te pururea cu dumnezeieştile suiri, te-ai suit unde este lumina cea neapusă Părinte Simeoane."
+      },
+      {
+        "text": "Subţiindu-ţi trupul cu sihăstriile, Simeoane, ţi-ai arătat sufletul înălţat şi apropiat de Dumnezeu, şi primitor Duhului, şi cu puterea Lui te-ai învrednicit a săvârşi minunile cele mai presus de fire, căci unde este lucrarea Lui cea prea făcătoare, se isprăvesc toate cele mai presus de gând şi de cuget."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "După ce te-ai suit după închipuire în muntele cel minunat şi înalt, şi după ce ai intrat întru cinstitul chivotul stâlpului ca într-un altar, ai arătat faptă prea-aleasă, şi suire privirilor; însă prin faptă ţi-ai luminat viaţa, împodobindu-te cu legături de fier, ca cu nişte podoabe de aur, iar prin suire vedeai pe Dumnezeu, şi te vedeai de el, grăind însuţi cu Dânsul, pe Care roagă-L cinstite Simeoane, pentru sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând Preacurată Născătoare de Dumnezeu, Viața noastră spânzurând pe lemn, ca o Maică tânguindu-te ai strigat : Fiul meu, şi Dumnezeul meu, mântuieşte pe cei ce cu dragoste Te laudă pe Tine."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Al răbdării stâlp ai fost râvnind părinţilor celor mai dinainte Cuvioase, lui Iov întru patimi, lui Iosif întru ispite, şi vieţii celor fără de trup fiind în trup. Simeoane Părintele nostru, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "month": 6,
+  "day": 1,
+  "saint": "Sfântul Mucenic Iustin filosoful şi alt sfânt Mucenic Iustin, şi cei împreună cu dânşii",
+  "vecernie": {
+    "glas": 0,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Când gerul necunoştinţei, prin supărările vrăjmaşului, stăpânea toată făptura, şi se cinstea mulţimea idolilor; atunci voi măriţilor Mucenici, cu inimă sârguitoare, şi cu căldura Dumnezeieştii credinţe, l-aţi încetat pe dânsul, vărsându-vă sângele, pentru dragostea Celui ce Și-a vărsat arătat sângele Său pe Cruce."
+      },
+      {
+        "text": "Peon pătimitorul cel viteaz, Valerian şi Hariton şi Harita, împreună cu dânsul şi dumnezeiescul Iustin şi Evelpist şi Ierax măritul, vopsindu-şi veșmânt dumnezeiesc din sângiurile lor, şi împodobindu-se, stau în ceruri împreună cu îngerii, înaintea Stăpânului Hristos, Împăratului tuturor."
+      },
+      {
+        "text": "Când cu dumnezeiasca insuflare, aţi alergat către nevoinţele cele mai presus de fire, lepădându-vă de trupul cel stricăcios; atunci întărindu-vă cu puterea Celui Atotputernic, nu v-aţi spăimântat de foc nici de săbii tăietoare. Pentru aceasta plecându-vă grumazii la Dumnezeu, cu veselie aţi primit fericitul sfârşit."
+      },
+      {
+        "text": "Tu eşti bucuria îngerilor, tu eşti lauda oamenilor, tu eşti nădejdea credincioşilor şi folositoarea noastră, Stăpână Preacurată, şi către tine scăpând, cu credinţă strigăm : ca prin rugăciunile tale să ne mântuim de săgeţile vrăjmaşului, de întristarea cea stricătoare de suflet, şi de toată scârba, toţi cei ce te lăudăm pe tine, Mireasă a lui Dumnezeu."
+      },
+      {
+        "text": "Multe dureri suferind, întru răstignirea Fiului şi Dumnezeului tău Preacurată, suspinând lăcrimai, şi strigai : Vai mie preadulcele meu Fiu ! Cum pătimeşti fără dreptate ? Vrând să mântuieşti pe pământenii cei din Adam. Pentru aceea Preacurată Fecioară ţie ne rugăm cu credinţă : Fă-L nouă pe Acela Milostiv."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Multe dureri suferind, întru răstignirea Fiului şi Dumnezeului tău Preacurată, suspinând lăcrimai, şi strigai : Vai mie preadulcele meu Fiu ! Cum pătimeşti fără dreptate ? Vrând să mântuieşti pe pământenii cei din Adam. Pentru aceea Preacurată Fecioară ţie ne rugăm cu credinţă : Fă-L nouă pe Acela Milostiv."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

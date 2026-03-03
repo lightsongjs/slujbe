@@ -1,0 +1,43 @@
+{
+  "month": 12,
+  "day": 7,
+  "saint": "Cel dintre Sfinţi Părintele nostru Ambrozie Episcopul Mediolanului. Tot întru această zi se face prăznuirea Sfintei Filofteea fecioara : Slujba Sfintei Filofteea",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Preacuvioase Părinte...",
+    "stihiri": [
+      {
+        "text": "Cu bunătăţile împodobind scaunul Stăpânirii, cu cuviinţă ai luat ierarhia, din insuflarea dumnezeiască; pentru aceasta iconom credincios al Darului întru amândouă făcându-te Ambrozie, îndoită cunună ai moştenit."
+      },
+      {
+        "text": "Cu postirea, cu ostenelile şi cu multe privegheri, şi cu rugăciuni neîncetate, ţi-ai curăţit sufletul şi trupul, de Dumnezeu înţelepţite; vas ales arătându-te lui Hristos, primind daruri întocmai ca Apostolii."
+      },
+      {
+        "text": "Pe împăratul cel binecredincios, ce greşise odinioară, certându-l cu îndrăzneală, ca Natan pe David, Ambrozie preafericite, arătat l-ai supus despărţirii; şi învăţându-l cu cuviinţă dumnezeiască, prin pocăinţă l-ai adus la rânduiala turmei tale."
+      },
+      {
+        "text": "Cuvioase Părinte preasfinţite Ambrozie, alăută care ne glăsuieşte nouă tuturor cântare mântuitoare, de dogme ortodoxe; vioara cea cu bun glas a Dumnezeiescului Mângâietor, Care îndulceşte sufletele credincioşilor, organul cel mare a lui Dumnezeu, trâmbiţa cea vrednică de laudă a Bisericii, fântâna cea prea limpede a darurilor, care spală întinăciunea patimilor, lui Hristos te roagă, pe Hristos îmblânzeşte-L, Preacuvioase, să dăruiască Bisericii o unire, pace şi mare milă."
+      },
+      {
+        "text": "Cuvioase Părinte preafericite Ambrozie, arătându-te în mijlocul soborului purtătorilor de Dumnezeu părinţi, luminat ai propovăduit pe un Fiu, că S-a făcut trup, arătându-Se nouă în două firi, din cea neispitită de nuntă; pe Cel de o Fiinţă cu Tatăl, şi întocmai vecuitor şi de o fire cu El. Pentru aceasta cu puterea Duhului, ai stricat limba cea hulitoare a lui Arie. Pe Hristos roagă-L, pe Hristos îmblânzeşte-L Preacuvioase, să dăruiască Bisericii o unire, pace şi mare milă."
+      },
+      {
+        "text": "Cuvioase Părinte, vrednicule de laudă, Ambrozie, aflând preacuratul tău suflet după cum pofteşte, Darul Sfântului Duh întru tine S-a sălăşluit, ca o lumină neapusă; cu a Căruia lucrare, totdeauna goneşti duhurile înşelăciunii şi tămăduieşti bolile şi neputinţele celor ce vin către tine cu curăţia inimii, şi săvârşesc pomenirea ta, cea purtătoare de lumină. Lui Hristos te roagă, de la Hristos cere gânditorule de Dumnezeu, să dăruiască Bisericii un cuget, pace şi mare milă."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Cu râvna credinţei înfierbântându-te Ierarhe Ambrozie, şi întrarmându-te cu păstorească îndrăzneală, precum Natan oarecând lui David, te-ai împotrivit binecinstitorului împărat ce greşise; pentru aceasta şi oprindu-i intrarea în dumnezeieştile lăcaşuri, l-ai înduplecat să ceară dumnezeiască milă, prin lacrimile pocăinţei; iar credincioşilor ai dat semn de adevărată pocăinţă, vădindu-le arătat iubirea de oameni a lui Dumnezeu, prin această înţeleaptă chibzuire. Şi acum stând de faţă înaintea lui Hristos Dumnezeu, cere curăţire de păcate celor ce cu credinţă săvârşesc, sfinţită pomenirea ta."
+    },
+    "nascatoarea": {
+      "text": "Mântuieşte-ne pe noi de nevoile noastre, Maica lui Hristos Dumnezeu, ceea ce ai născut pe Făcătorul tuturor; ca toţi să-ţi strigăm ţie : Bucură-te ceea ce eşti una folositoarea sufletelor noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut pe Tine, Doamne, spânzurat pe Cruce Fecioara şi Maica Ta, se minuna și privind, zicea : Ce ţi-au răsplătit Ție, Stăpâne, cei ce s-au îndulcit de darurile Tale cele multe ! Însă mă rog, nu mă lăsa pe mine singură în lume, şi grăbeşte de înviază, ca să scoli dimpreună pe strămoşi."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării, te-a arătat pe tine, turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Ambrozie, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

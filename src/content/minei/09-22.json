@@ -1,0 +1,43 @@
+{
+  "month": 9,
+  "day": 22,
+  "saint": "Sfântul Sfinţitul Mucenic Foca",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Fiind luminat cu strălucirile darurilor celor cereşti, te-ai arătat luminător în lume Codrate ivind tuturor razele cele luminoase ale dumnezeieştii propovăduiri. Pentru aceea credincioşii te cinstim cu bucurie, ca pe un Apostol şi Mucenic."
+      },
+      {
+        "text": "Umblând tu, Mărite, pe căile cele drepte, ai scăpat din căile cele aspre, pe oamenii care au fost rătăciţi de la buna-credinţă. Pentru aceea credincioşii te mărim pe tine, ca pe un nerătăcit şi îndreptător şi mijlocitor unirii noastre către Dumnezeu, Apostole."
+      },
+      {
+        "text": "Domnul Cel ce este minunat întru Sfinţii Lui, pe tine te-a preamărit în lume cu mărirea cea bogată a darurilor Sale, şi te-a dat pe tine Codrate, tămăduitor sufletelor şi trupurilor, celor ce cu credinţă te laudă pe tine Apostole."
+      },
+      {
+        "text": "Surpând deşertăciunea idolilor, cu sfinţitul tău cuvânt, ai întărit întru credinţă inimile cele neîntărite, şi le-ai îndreptat către viață, Ierarhe Foca; şi nevoindu-te după lege, te-ai făcut Mucenic Domnului."
+      },
+      {
+        "text": "Vopsindu-ţi sfinţitul veșmânt, în sângele cinstitului tău trup, preasfinţite Părinte, ai primit de la Hristos îndoite cununi preafericite, şi împreună cu îngerii dănţuieşti în ceruri, rugându-te să ne mântuim noi."
+      },
+      {
+        "text": "Cu razele minunilor luminezi tot pământul; celor de pe mare le ajuţi totdeauna Părinte, bolile goneşti, neputinţele sufletului şi ale trupului le încetezi, având Dar de la Domnul, Mucenice Foca, de Dumnezeu fericite."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Din pruncie ai iubit pe Domnul, Foca preafericite, Sfinţite Mucenice al lui Hristos. Căci luând arma Crucii pe umeri, neabătut ai umblat pe calea muceniciei, prin care te-ai făcut părtaş lăcaşului îngeresc, arătându-te demonilor îngrozitor, şi lumii rugător fierbinte."
+    },
+    "nascatoarea": {
+      "text": "Întunericul cel groaznic al morţii tulbură sufletul meu, mireasă, a lui Dumnezeu ! Și iscodirea dracilor, totdeauna mă face a mă uimi, şi a mă cutremura; de la care izbăveşte-mă cu puterea ta, ceea ce eşti una bună Fecioară neispitită; şi mă aşează la limanul mântuirii, şi la lumina neînserată a Sfinţilor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Preacurata Stăpână văzând pe Hristos omorându-se, şi omorând pe vicleanul se văita cu amar, strigând Celui ce a ieşit din pântecele ei, şi mirându-se de îndelungă răbdarea Lui, se ruga : Fiul meu preadorite, nu uita pe roaba Ta. Nu întârzia Iubitorule de oameni, Cela ce eşti dorirea sufletului meu."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole Sfinte Codrate, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşale sufletelor noastre."
+    }
+  }
+}

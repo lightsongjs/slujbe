@@ -1,0 +1,34 @@
+{
+  "month": 1,
+  "day": 28,
+  "saint": "Preacuviosul Părintele nostru Efrem Sirul.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Văzând frumuseţile raiului, din-destul desfătându-te în livezi nestricăcioase, ai înflorit în lume cunoştinţa lui Dumnezeu, de care împărtăşindu-te Cuvioase, prin duhovnicească stare a sufletelor ne înălţăm cu duhul. De două ori."
+      },
+      {
+        "text": "Arătând în scris venirea Judecătorului, cu râurile lacrimilor, înveţi să ne aprindem făcliile sufletelor, strigând tuturor venirea Mirelui. Să ne îmbrăcăm toţi cu haine luminoase, a întâmpina pe Mirele Hristos. De două ori."
+      },
+      {
+        "text": "Îngrădindu-ţi trupul cu înfrânarea, ţi-ai omorât mişcările patimilor, Părinte, prin rugăciuni şi privegheri. Drept aceea umbrindu-te pe tine puterea Duhului, te-a arătat pe tine luminător a toată lumea. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Cu înţelepciunea depărtându-te de supărările vieţii, Efreme pururea pomenite, ai ajuns în pustiii pentru iubirea de linişte. Şi printr-însa suindu-te către Dumnezeu cu fapta, ai strălucit în lume luminător, şi cuvinte de viaţă ai izvorât oamenilor. Pentru aceasta nu înceta întărindu-ne pe noi cu rugăciunile tale, să se mântuiască sufletele noastre din stricăciunea celui străin, Cuvioase Părinte."
+    },
+    "nascatoarea": {
+      "text": "Mântuieşte-mă de osândă, Preasfântă Mireasă a lui Dumnezeu, şi mântuieşte cu rugăciunile tale smeritul meu suflet, din cumplitele greşeli şi de moarte, şi-mi dăruieşte a afla în ziua cercetării îndreptarea, care a dobândit cetele sfinţilor, curăţindu-mă mai înainte de sfârşit cu pocăinţa, şi cu vărsarea lacrimilor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşeaua, care Te-a născut pe Tine, Mielule şi Păstorule, dacă Te-a văzut pe Cruce, se tânguia, şi ca o Maică grăia către Tine : Fiule preadorite ! Cum te-ai înălţat pe lemnul Crucii, îndelung-Răbdătorule ? Cum Ți s-au pironit mâinile şi picioarele Tale, Cuvinte, de cei fărădelege, şi cum Ți-ai vărsat sângele Tău, Stăpâne ?"
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Cu curgerile lacrimilor tale, nerodirea pustiului o ai lucrat, şi cu suspinurile cele dintru adânc, spre însutite osteneli o ai făcut roditoare. Şi te-ai făcut luminător lumii, strălucind cu minunile, Efreme, Părintele nostru; roagă-te lui Hristos Dumnezeu, să mântuiască sufletele noastre."
+    }
+  }
+}

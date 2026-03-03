@@ -1,0 +1,30 @@
+{
+  "month": 12,
+  "day": 1,
+  "saint": "Sfântul Prooroc Naum.",
+  "vecernie": {
+    "glas": 3,
+    "podobia": "Mare este puterea Crucii Tale Doamne...",
+    "stihiri": [
+      {
+        "text": "Darul Sfântului Duh, S-a sălăşluit întru tine Proorocule al lui Dumnezeu, şi cu strălucirea Sa te-a făcut făclie prealuminată, şi prin tine mai-nainte propovăduiește cele ce vor să fie, Ninivei celei mari."
+      },
+      {
+        "text": "Nor luminos te-ai arătat, Naume, Proorocule al lui Dumnezeu, picând ploaia cunoştinţei de Dumnezeu, şi ai adăpat cu apa judecăţii lui Dumnezeu, cetatea Ninevitenilor, care iarăşi a fost îngreuiată cu păgânătatea."
+      },
+      {
+        "text": "Făcându-te părtaş slavei celei nesfârşite, Naume, Proorocule al lui Dumnezeu, şi nespusei bucurii şi îndulcirii dumnezeieşti; roagă-te pentru noi Stăpânului tuturor, de Dumnezeu insuflate."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Mare facere de bine dobândind prin tine, Preacurată, împreună cu Proorocii cinstim pe Fiul tău, Care a primit a se naşte din pântecele tău, pentru milostivirea cea desăvârşită, şi a zidit din nou neamul omenesc."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând pe Cel născut dintru tine spânzurat pe lemn fără suflare, ceea ce eşti fără prihană, strigai cu amar : Fiul meu preadorite, cum a apus frumuseţea Chipului Tău, ascunzându-Se de voia Sa sub umbra morţii ?"
+    },
+    "tropar": {
+      "glas": 2,
+      "text": "Prăznuind pomenirea Proorocului Tău, Naum, Doamne, printr-însul Te rugăm, mântuieşte sufletele noastre."
+    }
+  }
+}

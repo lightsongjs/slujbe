@@ -1,0 +1,24 @@
+{
+  "month": 5,
+  "day": 1,
+  "saint": "Pomenirea Sfântului Prooroc Ieremia.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Doamne, deşi ai stat...",
+    "stihiri": [
+      {
+        "text": "Doamne, Tu mai întâi ai cunoscut pe Ieremia cel mărit până a nu se zidi, şi mai-nainte până de a se naşte din pântece, l-ai sfinţit a fi Prooroc, ca unul ce ai ştiut adevărat a fi cu minte slobodă. Cu ale căruia rugăciuni, mântuiește-ne pe noi, ca un Bun şi Iubitor de oameni."
+      },
+      {
+        "text": "Doamne, de s-a şi aruncat în noroi măritul Ieremia, dar de mirosul cel veselitor se împărtășea după înţelegere, ca şi cum ar fi fost petrecând în corturile raiului. Cu ale căruia rugăciuni mântuieşte-ne pe noi ca un Bun şi Iubitor de oameni."
+      },
+      {
+        "text": "Doamne, deşi grăia tânguiri Ieremia robul Tău, dar veselia ce avea către Tine, ca un Prooroc, nu o a împuţinat; căci sufletul şi-a alcătuit cu dragostea Ta, Hristoase, şi pururea se umplea de veselia cea negrăită."
+      }
+    ],
+    "tropar": {
+      "glas": 2,
+      "text": "A Proorocului Tău, Doamne, Ieremia pomenire prăznuind, printr-însul Te rugăm, mântuieşte sufletele noastre."
+    }
+  }
+}

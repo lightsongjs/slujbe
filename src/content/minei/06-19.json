@@ -1,0 +1,34 @@
+{
+  "month": 6,
+  "day": 19,
+  "saint": "Sfântul Apostol Iuda fratele Domnului şi Cuviosul Părintele nostru Paisie cel mare.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Dat-ai semn celor ce...",
+    "stihiri": [
+      {
+        "text": "Iuda fericite, Ucenic făcându-te lui Hristos Dumnezeului nostru, Celui ce S-a întrupat, de care ca o oaie în mijlocul lupilor cu adevărat te-ai trimis, cu cuvântul tău întorcând păgânătatea lor la buna-credință, şi la dumnezeiască cunoştinţa Treimii; pentru aceasta pe tine te lăudăm. De două ori."
+      },
+      {
+        "text": "Iuda minunate, săgeată te-a trimis, lovind şi de tot pierzând taberele dracilor, şi pe cei răniţi de dânşii vindecându-i, cu Darul unuia Dumnezeului nostru, pe Care roagă-L, să dăruiască sufletelor noastre pace şi mare milă. De două ori."
+      },
+      {
+        "text": "Iuda de Dumnezeu insuflate, raza Soarelui Celui ce a strălucit din Fecioară ai fost, şi ai luminat inimile celor binecredincioşi, şi întunericul cel ce se pusese asupra făpturii l-ai gonit. Şi acum te roagă, să dăruiască sufletelor noastre pace şi mare milă. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Iuda, fraţii tăi te laudă pe tine, cel ce te-ai arătat frate Cuvântului Celui mai-nainte de veci, Care a strălucit din Tatăl Cel pururea veşnic, şi S-a întrupat negrăit în anii cei mai de pe urmă, din Sfânta Fecioară, şi S-a făcut Om; pe Care, Apostole cu osârdie roagă-L să dăruiască pace lumii, şi nouă celor ce te cinstim pe tine curăţire de greşeli şi mare milă."
+    },
+    "nascatoarea": {
+      "text": "O minune mai nouă decât toate minunile cele dedemult ! Că cine a cunoscut să fi născut Maică fără bărbat, şi să poarte în braţe pe Cel ce cuprinde toată zidirea ? A lui Dumnezeu este voia Cel ce S-a născut. Pe Care ca pe un prunc Preacurată în braţele tale purtându-L, şi îndrăzneală de Maică către Dânsul câştigând, să nu încetezi a-L ruga pentru cei ce te cinstesc, ca să miluiască şi să mântuiască sufletele noastre."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Al lui Hristos frate o Iuda ştiindu-te, şi Mucenic tare, cu sfinţenie te lăudăm pe tine, cela ce ai călcat înşelăciunea şi credinţa ai păzit. Pentru aceasta astăzi preasfântă pomenirea ta prăznuind, dezlegare de păcate cu rugăciunile tale luăm."
+    },
+    "troparNascatoarea": {
+      "text": "Gavriil zicând ţie : Fecioară, bucură-te ! Împreună cu glasul S-a întrupat Stăpânul tuturor întru tine, chivotul cel sfânt, precum a zis dreptul David. Arătatu-te-ai mai cuprinzătoare decât cerurile, ceea ce ai purtat pe Făcătorul tău. Slavă Celui ce S-a sălăşluit întru tine, slavă Celui ce a ieşit din tine; slavă Celui ce ne-a izbăvit pe noi, prin naşterea ta."
+    }
+  }
+}

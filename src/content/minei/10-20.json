@@ -1,0 +1,43 @@
+{
+  "month": 10,
+  "day": 20,
+  "saint": "Sfântul marele Mucenic Artemie.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Luminându-ţi cugetul cu strălucirile cele cereşti, ai fugit de întunericul rătăcirii, Slăvite, şi te-ai apropiat de lumina lui Hristos Dumnezeului nostru; şi cu darurile Lui luminezi marginile lumii. Pentru aceea roagă-te, să se ferească de stricăciune şi de primejdii, cei ce săvârşesc pomenirea ta, cea pururea cinstită."
+      },
+      {
+        "text": "Prin suflarea Duhului învăţându-te cunoştinţa cea dumnezeiască, ai cunoscut pe Ziditorul tuturor, Artemie; şi pe cei ce slujeau făpturii, foarte cu înţelepciune i-ai înfruntat, şi ai povăţuit popoare spre cunoştinţa lui Dumnezeu; pentru care te-ai nevoit, şi ai primit cununa ostenelilor; roagă-te să se mântuiască din stricăciune, cei ce te laudă pe tine."
+      },
+      {
+        "text": "Dându-ţi mult minunatul şi viteazul tău trup, să se chinuiască cu munci de multe feluri, şi cu bătăi cumplite, gânditorule de Dumnezeu, Artemie, nu te-ai lepădat de Hristos, nici ai jertfit celor ciopliţi; ci ai răbdat, ca şi cum ar pătimi altul, aşteptând răsplătirile cele viitoare, şi mărirea cea nemuritoare."
+      },
+      {
+        "text": "Măritul Artemie încingându-se cu adevărul, şi întrarmându-se arătat cu puterea Crucii, toate cetele cele potrivnice ale dracilor cu dumnezeiescul Dar le-a biruit; prin ale căruia rugăciuni Stăpâne, dă tuturor mare milă."
+      },
+      {
+        "text": "Roşitu-ţi-ai haina ta cu vopselele sângelui tău, Preafericite, şi împodobindu-te cu ea după cuviinţă împărăţeşti împreună cu Hristos, îmbrăcându-te cu cununa nestricăciunii, şi celor fără de trup asemănându-te; cu care împreună roagă-te neîncetat pentru lume, Mucenice Artemie."
+      },
+      {
+        "text": "Racla moaştelor tale izvorând râuri de minuni, cufundă dracii, şi îneacă patimile omeneşti cele nevindecate; pe aceasta înconjurându-o, o sărutăm, îndumnezeind biruinţele tale. Pentru aceasta cu rugăciunile tale sfinte, dă tuturor mare milă."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Să cinstim pe luminătorul credinţei, pe Artemie cel înţelept; că a înfruntat pe vrăjmaşul împărat, şi cu sângele muceniciei lui a roşit Dumnezeu Biserica. Drept aceea a şi luat Darul cel bogat al tămăduirilor, a vindeca bolile, celor ce cu credinţă aleargă la sicriul moaştelor lui."
+    },
+    "nascatoarea": {
+      "text": "Născătoare de Dumnezeu, tu eşti vița cea adevărată, care ai odrăslit Rodul vieţii; ţie ne rugăm : Roagă-te Stăpână cu sfinţii Apostoli, să miluiască sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "După ce Te-a văzut pe Tine Hristoase spânzurat pe Cruce, ceea ce Te-a născut, striga cu plângere : Fiul meu şi Dumnezeul meu, cum mori acum pe Cruce ? Cum şi în mormânt Te pun."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Artemie, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

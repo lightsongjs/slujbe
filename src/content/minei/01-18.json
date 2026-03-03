@@ -1,0 +1,43 @@
+{
+  "month": 1,
+  "day": 18,
+  "saint": "Cei întru Sfinţi Părinţii noştri, şi marii arhiepiscopi ai Alexandriei, Atanasie şi Chiril.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Bucură-te cămara...",
+    "stihiri": [
+      {
+        "text": "Goniri ai răbdat şi nevoi ai suferit, de Dumnezeu grăitoru-le Cuvioase Atanasie, până ce ai gonit înşelăciunea lui Arie cel fără de Dumnezeu, şi turma ta de păgânătatea lui o ai mântuit, de o Fiinţă a fi cu Tatăl, Fiul şi Duhul, învăţând cu dreaptă credinţă, lucrătorule de sfinţenie, Preafericite."
+      },
+      {
+        "text": "Cu strălucirile propovăduirii pe cei dintru întuneric i-ai luminat, şi toată înşelăciunea ai gonit, nevoi pătimind tare pentru credinţă Atanasie, ca un păstor adevărat, ca un temei neclintit al Bisericii lui Hristos, Prealăudate. Pentru aceasta adunându-ne, pe tine te cinstim cu cântări, bucurându-ne."
+      },
+      {
+        "text": "Toată fapta bună ai deprins cu răbdare de Dumnezeu insuflate, şi ungându-te cu sfântă ungerea Duhului, sfinţitor preasfinţit arătat ai fost, şi păstor adevărat şi credinţei apărător. Pentru aceasta toată Biserica măreşte pomenirea ta, cu sfinţenie săvârşindu-o şi pe Mântuitorul slăvind."
+      },
+      {
+        "text": "Cu dogmele tale cele de foc, toată materia eresurilor ca vreascurile se arde, Preaînţelepte. Şi adunarea înţelegerilor necredincioşilor celor neplecaţi, intru adâncuri se cufundă Chirile, şi cu dogmele înţelepciunii tale se împodobeşte, Fericite, în toate zilele Biserica credincioşilor, care cu mare glas te cinsteşte pe tine."
+      },
+      {
+        "text": "Cu bună rostirea cuvintelor tale, preasfinţite Chirile, toată Biserica se împodobeşte şi cu bună credinţă se înfrumuseţează cu frumoase podoabe, şi cinsteşte cu sfinţenie sfântă şi vestită pomenirea ta, Slăvite, cela ce eşti lauda ortodocşilor şi maimarele părinţilor, al preasfântului sobor apărătorule."
+      },
+      {
+        "text": "De la Biserica lui Hristos ai gonit pe lupii cei înţelegători Chirile, cu toiagul învăţăturilor tale, şi pe aceasta împrejur o ai îngrădit cu gardul cuvintelor tale, şi o ai pus înaintea lui Hristos nesmintită şi nemişcată. Pe Care roagă-L să se mântuiască de stricăciune şi de nevoi, cei ce cu credinţă săvârşesc pururea cinstită pomenirea ta."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Pe începătorii ierarhilor, vârfurile patriarhilor şi prealuminaţii luceferi ai lumii, pe arătătorii voinţelor lui Hristos, adunându-ne o iubitorilor de praznic ! Cu duhovniceşti laude să-i lăudăm, zicând; Bucură-te Părinte Atanasie, cel cu numele nemuririi, care pe bârfitorul Arie, ca pe un lup l-ai izgonit din turma lui Hristos, cu izgonitoare praştia dogmelor tale celor de Dumnezeu înţelepţite. Bucură-te stea prealuminoasă, preafericite Chirile apărătorule al pururea Fecioarei, care cu glas mare în Sfântul Sinod cel din Efes, strălucit o ai propovăduit pe ea Născătoare de Dumnezeu, pierzătorule al bârfelilor lui Nestorie. Bucuraţi-vă izvoarele teologiei, râurile cele pururea curgătoare ale înţelepciunii de Dumnezeu, şi fântânile dumnezeieştii cunoştinţe. Ci o preaînţelepţilor părinţi de trei ori fericiţi, nu încetaţi a vă ruga lui Hristos Dumnezeu, pentru cei ce cu credinţă şi cu dragoste săvârşesc pururea sfinţita şi cinstită prăznuirea voastră."
+    },
+    "nascatoarea": {
+      "text": "Fără de sămânţă de la Dumnezeiescul Duh şi cu sfatul Tatălui, ai zămislit pe Fiul lui Dumnezeu, Cel ce este din Tatăl fără mamă mai înainte de veci, şi pentru noi din tine fără de Tată fiind, cu trup L-ai născut, şi Prunc cu lapte L-ai hrănit. Pentru aceasta nu înceta a-L ruga, să se mântuiască din nevoi sufletele noastre."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Cu faptele dreptei credinţe strălucind şi toată credinţa cea rea stingând, biruitori purtători de biruinţă aţi fost, cu bună credinţă pe toţi îmbogăţind, Biserica foarte împodobind, după vrednicie aţi aflat pe Hristos Dumnezeu, Cel ce dăruiește nouă mare milă."
+    },
+    "troparNascatoarea": {
+      "text": "Pe tine, ceea ce ai mijlocit mântuirea neamului nostru, te lăudăm, Născătoare de Dumnezeu, Fecioară. Căci, cu trupul cel luat din tine, Fiul tău şi Dumnezeul nostru, prin Cruce primind patimă, ne-a mântuit pe noi din stricăciune, ca un Iubitor de oameni."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "month": 5,
+  "day": 29,
+  "saint": "Sfânta Muceniță Teodosia fecioara",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O, preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Strălucind cu raza fecioriei cinstită Teodosia preaînțeleaptă, şi fiind îmbrăcată cu haină mohorâtă, vopsită foarte luminat cu sângele muceniciei, şi sălășluindu-te în cămara lui Hristos, cea mai presus de lume, dănţuieşti împreună cu cetele îngereşti, dănțuire cu adevărat netrecătoare, mărită fecioară curată."
+      },
+      {
+        "text": "Muceniță fecioară prealăudată Teodosia, dorind tu cu totul de Hristos, ai suferit rănile muncilor foarte cu tărie chinuindu-te pentru cel dorit al tău, şi şuvițându-ți-se şi coastele de bătăi. O cât este de tare împotrivirea ta la nevoințe ! Prin care cu adevărat ai surpat la pământ pe cel trufaş."
+      },
+      {
+        "text": "Fiind împodobită luminat cu frumuseţea sufletului şi a trupului, te-ai adus lui Hristos, ca să te încoronezi de Dânsul cu cununa slavei, Teodosia Muceniță preamărită, şi după vrednicie arătat ai primit diadema împărăţiei pe capul tău, cea cu adevărat de mult preț, arătându-te Mireasă curată şi preaînţeleaptă."
+      },
+      {
+        "text": "Curată mântuieşte-mă pe mine de ispite şi de nevoi, şi de amestecările patimilor, şi de dosădirile dracilor, Născătoare de Dumnezeu, ca ceea ce ai adâncul milostivirii, şi te-ai arătat, Stăpână, solitoare de mântuire, născând pe Milostivul Dumnezeu, Unul întru-tot îndurat şi Multmilostiv."
+      },
+      {
+        "text": "Stăpâne Iisuse, văzându-te pe tine Fecioara şi Maica Ta pironit pe Cruce, şi patimi de bunăvoie primind, a strigat : Vai mie preadulce Fiule, cum rabzi bătăi fără dreptate, Doctorul, Cel ce ai vindecat neputinţa omenească, şi pe toți i-ai mântuit din stricăciune prin milostivirea Ta."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Stăpâne Iisuse, văzându-te pe tine Fecioara şi Maica Ta pironit pe Cruce, şi patimi de bunăvoie primind, a strigat : Vai mie preadulce Fiule, cum rabzi bătăi fără dreptate, Doctorul, Cel ce ai vindecat neputinţa omenească, şi pe toți i-ai mântuit din stricăciune prin milostivirea Ta."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "La fapta bună Muceniță, cu osârdie deprinzându-te, te-ai făcut vas iubit al lui Hristos, şi locaş iubit al Preasfântului Duh. Pentru aceasta ai ruşinat pe vrăjmaşul, cel ce se luptă cu neamul omenesc bine pătimind, şi arătat cu sabia credinţei ai ucis pe cel cu nume de fiară, Teodosia; şi bucurându-te te-ai mutat la Cer, cerând pururea, celor ce cu credinţă te cinstesc pe tine, mare milă."
+    }
+  }
+}

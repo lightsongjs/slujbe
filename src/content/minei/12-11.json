@@ -1,0 +1,34 @@
+{
+  "month": 12,
+  "day": 11,
+  "saint": "Preacuviosul Părintele nostru Daniil stâlpnicul.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Bucură-te cămara...",
+    "stihiri": [
+      {
+        "text": "Ce te vom numi Daniile ? Sihastru, că ai supus patimile gândului ? Mucenic, că ai suferit tot necazul ? Stâlp ridicat de la pământ la înălţime, întărit pe piatra adevărului ? Nevoitor osârdnic, şi doctor iscusit ? Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom chemă Daniile ? Dezrădăcinător patimilor, şi săditor bunătăţilor ? Făcător de minuni adevărat, şi rugător pentru păcătoşi ? Gonitor preaviteaz duhurilor, luminător strălucit al bunei credinţe, locaş Duhului, Bisericii folositor ? Roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom numi acum Daniile ? Pildă călugărilor şi postirii ? Podoabă credincioşilor, şi însuți făcător de vindecări ? Sfeşnic, care luminezi lumină celor dintru întuneric, împreună-cetăţean, şi întocmai la cinste cu îngerii ? Locuitor raiului şi om ceresc ? Roagă-te, să se mântuiască sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 5,
+      "text": "Bine lucrând talantul, care ţi s-a încredinţat de la Hristos, Cuvioase Părinte, te-ai arătat şi după moarte înfricoşat dracilor, şi doctor a multe feluri de boli; stâlp şi întărire şi munte sfânt al Bisericii lui Hristos. Pentru aceasta te rugăm, Daniile făcătorule de minuni, cere sufletelor noastre pace şi mare milă."
+    },
+    "nascatoarea": {
+      "text": "Ceea ce eşti plină de Dar, mijloceşte cu rugăciunile tale, şi cere sufletelor noastre mulţime de îndurări, şi curăţire greşelilor celor multe, rugămu-ne."
+    },
+    "cruciiNascatoarea": {
+      "text": "Patima ta cea cinstită, văzându-o cinstita şi Preacurată Maica Ta, îndelung-răbdătorule, Împărate al tuturor, vărsând lacrimi cu amar şi bătându-şi pieptul, striga : Preadulcele meu Iisuse, bucuria mea cea mântuitoare, lumina a toată lumea, dumnezeiescule Soare neapus, cum voi răbda, şi cum voi trăi ? Văzându-Te acum spânzurat pe lemnul Crucii ca un făcător de rele, şi cu suliţa rănit la preacurată coasta Ta ! Vai mie Fiule, şi Dumnezeul meu ! De nu-mi va străluci lumina Învierii Tale."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Al răbdării stâlp ai fost, râvnind părinţilor celor mai dinainte Cuvioase; lui Iov întru patimi, lui Iosif întru ispite, şi vieţii celor fără de trup, fiind în trup, Daniile Părintele nostru; roagă-te lui Hristos Dumnezeu, să mântuiască sufletele noastre."
+    }
+  }
+}

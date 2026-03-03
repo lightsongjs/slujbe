@@ -1,0 +1,33 @@
+{
+  "month": 6,
+  "day": 7,
+  "saint": "Sfântul sfinţitul Mucenic Teodot al Anghirei.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Cu inimă veselă, şi cu gând întărit, cu adevărat de voia ta ai mers Mucenice către chinuri, neîngrozindu-te de durerile muncilor nici de moartea cea silnică. Pentru aceasta chinuindu-te după lege, luminat te-ai încununat Teodote."
+      },
+      {
+        "text": "Cu sfâşierile trupului tău, Fericite, desăvârşit ai rănit pe vrăjmaşi, şi ai pătruns inimile lor cu înfruntări; iar cu pâraiele sângiurilor tale celor vărsate, de tot ai uscat revărsările nedumnezeirii, Preafericite."
+      },
+      {
+        "text": "Arzându-te cu făclii, şi sfărâmându-ţi-se spinarea de bătăi, Mucenice, tare ai răbdat, strigând : Nicicum nimica nu mă va despărţii de dragostea lui Hristos, nici moartea, nici viaţa nici tot felul de altă muncă."
+      },
+      {
+        "text": "Ceea ce eşti bucuria cetelor cereşti, şi pe pământ oamenilor tare folositoare, Preacurată Fecioară, mântuieşte-ne pe noi, cei ce scăpăm la tine; că întru tine nădejdile după Dumnezeu, Născătoare de Dumnezeu, ne-am pus."
+      },
+      {
+        "text": "Junghierea Ta cea fără dreptate Hristoase, văzând-o Fecioara, tânguindu-se, striga către tine : Fiul meu preadulce cum pătimeşti fără dreptate ? Şi cum spânzuri pe lemn, Cela ce ai spânzurat tot pământul pe ape ? Mă rog nu mă lăsa pe mine Maica şi slujnica Ta singură, dătătorule de bine Multmilostive."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Junghierea Ta cea fără dreptate Hristoase, văzând-o Fecioara, tânguindu-se, striga către tine : Fiul meu preadulce cum pătimeşti fără dreptate ? Şi cum spânzuri pe lemn, Cela ce ai spânzurat tot pământul pe ape ? Mă rog nu mă lăsa pe mine Maica şi slujnica Ta singură, dătătorule de bine Multmilostive."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţă răbdând până la sânge, Sfinţite Mucenice Teodot, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre."
+    }
+  }
+}

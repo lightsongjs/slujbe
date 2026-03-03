@@ -1,0 +1,33 @@
+{
+  "month": 6,
+  "day": 10,
+  "saint": "Sfântul sfinţitul Mucenic Timotei episcopul Prusiei, şi sfinţii Mucenici Alexandru şi Antonina.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Doimea pătimitorilor, dumnezeiescul Alexandru împreună cu Antonina, fiind îmbogăţiţi de strălucirea Treimii, foarte cu vitejie sau nevoit, răbdând nevoi în multe feluri pentru Hristos; Căruia acum se roagă, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Arătat ai primit, Antonino preacinstită, îndoite cununi, a curăţiei şi a pătimirii, biruind măiestriile vrăjmaşului, şi înaintea chinuirii, şi iarăşi în vremea luptelor tale; roagă-te lui Hristos să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Înălţându-vă pe lemn înţelepţilor, şi tăindu-vi-se mâinile, arzându-vă cu făclii şi spintecându-vă, şi în lac adânc băgându-vă, şi acolo primind sfârşitul cel fericit, purtătorilor de chinuri, nu v-aţi lepădat de Dumnezeul tuturor."
+      },
+      {
+        "text": "Preasfinte locaşule al lui Dumnezeu, cel mai desfătat decât cerurile, şi mai sfânt decât Heruvimii, cea dăruită de Dumnezeu, Preasfântă Fecioară, dă cugetului meu Dar, şi-mi luminează ochii inimii, dându-mi iertare greşelilor, rogu-mă, prin mijlocirile tale cele bineprimite."
+      },
+      {
+        "text": "Junghierea Ta cea nedreaptă Hristoase văzându-o Fecioara, plângând striga Ție : Preadulce Fiule ! Cum pătimeşti fără dreptate ? Şi cum spânzuri pe lemn, Cela ce ai spânzurat pământul pe ape ? Mă rog, nu mă lăsa pe mine Maica şi slujnica Ta singură, Dătătorule de bine, Multmilostive."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Junghierea Ta cea nedreaptă Hristoase văzându-o Fecioara, plângând striga Ție : Preadulce Fiule ! Cum pătimeşti fără dreptate ? Şi cum spânzuri pe lemn, Cela ce ai spânzurat pământul pe ape ? Mă rog, nu mă lăsa pe mine Maica şi slujnica Ta singură, Dătătorule de bine, Multmilostive."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

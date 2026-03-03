@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 23,
+  "saint": "Pomenirea Sfântului sfinţitului Mucenic şi Apostol Iacov, fratele Domnului.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Doamne de ai şi stătut...",
+    "stihiri": [
+      {
+        "text": "Veniţi de Dumnezeu înţelepţilor să cinstim cu sfinţenie, pomenirea fratelui lui Dumnezeu; că jugul lui Hristos luând cu osârdie, Evangheliei, bunătăţii Lui, şi împărăţiei a fost propovăduitor, şi rânduiala Lui cea negrăită a se crede a făcut-o. Pentru care, Atotputernice, curăţire nouă ne dăruieşte."
+      },
+      {
+        "text": "Întru toate marginile lumii a răsunat vestea cuvintelor tale, prin care ne luminăm spre tot felul de faptă dumnezeiască, şi ne îndreptăm cu credinţă spre dumnezeiasca cunoştinţă a Treimii. Pentru aceasta te rugăm pe tine, roagă ca un Ierarh, pe Iisus Iubitorul de oameni, să mântuiască sufletele noastre."
+      },
+      {
+        "text": "De-departe viaţa ta Iacove mai înainte văzându-o, frate te-a primit Hristos Iubitorul de oameni, Cel preaînţelept şi mai înainte cunoscător, şi ierusalimitenilor credincios arătător de sfinţenie, şi maimare păstor te-a hirotonit, şi tăinuitor; care ai jertfit tainele cele negrăite. Pe Care şi acum roagă-L, să mântuiască sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Cu sângele muceniciei, preoţia ai împodobit, sfinţite Mucenice Apostole; că stând pe aripa Bisericii pe Dumnezeu Cuvântul ai propovăduit a fi Făcător a toate. Pentru aceasta de iudei fiind surpat, cămărilor cereşti te-ai învrednicit, fratele lui Dumnezeu Iacove; pe Hristos Dumnezeu roagă-L, să mântuiască sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Stăpână primeşte rugăciunile nevrednicilor robilor tăi, şi ne izbăveşte pe noi de toată nevoia şi necazul."
+    },
+    "tropar": {
+      "glas": 2,
+      "text": "Ca un ucenic al Domnului, ai luat Evanghelia ca un Mucenic ai neschimbare; îndrăzneală ca un frate al lui Dumnezeu, a te ruga ca un Ierarh. Roagă pe Hristos Dumnezeu, să mântuiască sufletele noastre."
+    },
+    "troparNascatoarea": {
+      "text": "Toate tainele tale sunt mai presus de cuget, toate sunt preaslăvite, Născătoare de Dumnezeu. Cu curăţia fiind pecetluită şi cu fecioria păzită, cu adevărat Maică te-ai cunoscut, născând pe Dumnezeu cel adevărat; pe Acela roagă-L să mântuiască sufletele noastre."
+    }
+  }
+}

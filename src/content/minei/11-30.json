@@ -1,0 +1,34 @@
+{
+  "month": 11,
+  "day": 30,
+  "saint": "Sfântul slăvitul şi întru-tot lăudatul Apostol Andrei cel întâi chemat.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Bucură-te cămară...",
+    "stihiri": [
+      {
+        "text": "Cela ce cu lumina Mergătorului înainte te-ai împodobit, când Raza cea ipostatnică a slavei Tatălui s-a arătat, neamul omenesc pentru milostivire vrând să-l mântuiască. Atunci întâi tu, Slăvite, la El ai alergat, fiind strălucit la minte, cu strălucirea cea desăvârşită a Dumnezeirii Lui. Pentru aceasta şi propovăduitor şi Apostol ai fost, al lui Hristos Dumnezeului nostru. Pe Carele roagă-L, să mântuiască şi să lumineze sufletele noastre. (De trei ori)"
+      },
+      {
+        "text": "Cela ce cu glasul Mergătorului înainte ai fost chemat, când Cuvântul cel Preasfânt s-a întrupat, viaţă nouă dăruindu-ne, şi mântuire celor de pe pământ bine-vestindu-le. Atunci, Preaînţelepte, Acestuia ai urmat, şi pe tine ca pe o pârgă desăvârşită şi preasfântă Lui te-ai sfinţit. Pe Care L-ai şi cunoscut, şi ai vestit fratelui tău pe Dumnezeul nostru. Pe Carele roagă-L, să mântuiască, şi să lumineze sufletele noastre. (De trei ori)"
+      },
+      {
+        "text": "Cela ce ai fost ucenic celui ce a odrăslit din cea stearpă, când Cel născut din Fecioară a răsărit, învăţătorul bunei-credinţe, cel ce a arătat şi curăţia înfrânării, atunci tu prea-fierbinte iubitor faptei bune, Andreie fericite te-ai făcut, înălţări în inima ta punând, şi din slavă la strălucirea cea negrăită te-ai înălţat, a lui Hristos Dumnezeul nostru. Pe Carele roagă-L să mântuiască sufletele noastre. (De două ori)"
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Vânarea peştilor lăsând Apostole, pe oameni ai vânat cu trestia învăţăturii, aruncând ca o undiță îndemnarea la buna-credinţă, şi scoţând dintru adâncul înşelăciunii toate neamurile, Andreie Apostole, cu Petru fiind de un sânge, şi lumii învăţător cu mare glas, rugându-te nu înceta pentru noi, cei ce cu credinţă şi cu dragoste, Preamărite, bine-lăudăm pururea cinstită pomenirea ta."
+    },
+    "nascatoarea": {
+      "text": "Stăpână primeşte rugăciunile robilor tăi, şi ne izbăveşte pe noi de toată nevoia şi necazul."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Ca cel decât Apostolii mai întâi chemat, şi verhovnicului frate adevărat, Stăpânului tuturor Andreie roagă-te, pace lumii să dăruiască şi sufletelor noastre mare milă."
+    },
+    "troparNascatoarea": {
+      "text": "Taina cea din veac ascunsă şi de îngeri neştiută, prin tine, Născătoare de Dumnezeu, celor de pe pământ s-a arătat; Dumnezeu întrupându-Se, întru unire neamestecată, şi Crucea, de bunăvoie, pentru noi luând; prin care, înviind pe cel întâi zidit, a mântuit din moarte sufletele noastre."
+    }
+  }
+}

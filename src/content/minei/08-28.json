@@ -1,0 +1,30 @@
+{
+  "month": 8,
+  "day": 28,
+  "saint": "Preacuviosul Părintele nostru Moise Arapul",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Mucenici Tăi Doamne...",
+    "stihiri": [
+      {
+        "text": "Moise cel mult vestit, înţelepţeşte părăsind frumuseţea lumii, prin ostenelile cele prea neîncetate ale pustniciei, a supus patimile trupului, şi pe cel cu multă măiestrie surpându-l, a primit cununile biruinţei; prin rugăciunile lui Doamne, dă tuturor mare milă."
+      },
+      {
+        "text": "Înfrânare neasemănată, stare de toată noaptea, privighere neadormită, minte văzătoare de frumuseţea cea dumnezeiască, ai avut fericite Moise. Pentru aceea ai primit Darul tămăduirilor, a tămădui patimile cele prea-cumplite; pentru care te rugăm pe tine Părinte, cere tuturor mare milă."
+      },
+      {
+        "text": "Cu palma cea dumnezeiască Părinte Moise, fiind acoperit, fără de vătămare ai trecut vicleşugul şi săgetăturile şi pândirile dracilor; şi înfrumuseţându-te cu nepătimirea, te-ai numărat împreună cu toţi preacuvioşii, rugându-te ca să se dăruiască, celor ce cu credinţă te cinstesc pe tine, mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Cugetele îmi sunt necurate şi buzele înşelătoare, şi toate lucrurile mele necurate, şi ce voi face ? Cum voi întâmpina pe Judecătorul ? Stăpână Fecioară, roagă pe Fiul tău şi Ziditorul şi Domnul, ca întru pocăinţă să primească duhul meu, ca un Bun îndurat."
+    },
+    "cruciiNascatoarea": {
+      "text": "Junicea cea Preacurată, pe Viţelul său văzându-L pe lemn de bunăvoie ridicat, cu umilinţă tânguindu-se, striga : Vai mie preaiubite Fiule ! Ce Ți-a răsplătit Ție adunarea nemulţumitorilor iudei ? Vrând a mă lipsi pe mine de Tine, Fiule, Cel întru-tot iubit."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, de Dumnezeu purtătorule Părintele nostru Moise; cu postul, cu privigherea, şi rugăciunea, cereştile daruri luând, vindeci pe cei bolnavi, şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; slavă Celui ce lucrează prin tine tuturor tămăduiri."
+    }
+  }
+}

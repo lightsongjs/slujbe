@@ -1,0 +1,37 @@
+{
+  "month": 11,
+  "day": 23,
+  "saint": "Cel dintru Sfinţi Părintele nostru Amfilohie episcopul Iconiei. Şi Sfântul Părintele nostru Grigorie episcopul Acragantenilor.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Mintea însă-şi de sine stăpânită, şi gând însuşi stăpânitor ai câştigat asupra patimilor, Preafericite; cu bună-înţelepciune ai dat stăpânirea la partea cea mai bună, împotriva celei mai rele, cumpănind, Părinte, cu cumpăna cea dreaptă. Pentru aceea te-ai făcut cunoscător cunoştinţei de Dumnezeu, şi de înţelegere dumnezeiască, Ierarhe de Dumnezeu insuflate."
+      },
+      {
+        "text": "Cursele eresurilor le-ai risipit, şi mrejele le-ai stricat, Cuvioase, cu îndreptarea dogmelor, şi cu teologia cea prea-aleasă fugind şi de despărţire şi de cea prea-rea strâmtoare; ai ajuns pe scurt la hotarele bunei noastre credinţe, propovăduind pe Treime întru o Dumnezeire."
+      },
+      {
+        "text": "Cu înţelepciune meşteşugind pe împăratul cel de pe pământ, ai trecut pe fiul său nebăgând seamă de dânsul, înţelepţeşte învăţându-l. Că trecând cu vederea pe Fiul lui Dumnezeu fără de închinăciune, se va mânia Tatăl foarte, pe Care mai înainte de veac L-a născut, fără de patimă, mai presus de gând neîntrupat precum însuşi ştie, Cuvioase."
+      },
+      {
+        "text": "Părinte sfinţite Grigorie, din scutece te-ai dat lui Dumnezeu, lipindu-te cu voirile neîndoite a toate Făcătorului, şi de la Dânsul luminându-te ai trecut noaptea patimilor, şi ai luminat lumină de vindecări şi daruri de minuni, gonind neputinţele cele de mulţi ani şi duhurile înşelăciunii."
+      },
+      {
+        "text": "Părinte minunate Grigorie, luminându-ţi-se gândul curat, cu arătări de lumină, degrab ai trecut marea patimilor cea cu multe valuri, şi cu aripi preacurate de nepătimire zburând, ai ajuns unde este nespusa frumuseţe cea desăvârşită. Rugându-te totdeauna, pentru noi cei ce te lăudăm."
+      },
+      {
+        "text": "Părinte al părinţilor Grigorie, canonul preoţiei, icoana curăţiei, întărirea călugărilor, sprijineala Bisericii, sfeşnic al dragostei, scaun sfinţirii, izvor minunilor, şi limbă de foc, gură dulce grăitoare, vas Dumnezeiescului Duh, şi rai înţelegător te-ai făcut, de Dumnezeu fericite."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "Veniţi toţi credincioşii, pe cea singură fără prihană să o lăudăm, pe cea mai înainte propovăduită de Prooroci, şi în Biserică adusă; care mai înainte de veci a fost rânduită a fi Maică, şi în anii cei mai de pe urmă s-a arătat Născătoare de Dumnezeu. Doamne pentru rugăciunile ei, pacea Ta dă-ne nouă, şi mare milă."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Dumnezeul părinţilor noştri, Care faci pururea cu noi după blândeţile Tale, nu depărta mila Ta de la noi; ci pentru rugăciunile lor, în pace îndreptează viaţa noastră."
+    }
+  }
+}

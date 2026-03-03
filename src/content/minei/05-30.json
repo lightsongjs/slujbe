@@ -1,0 +1,33 @@
+{
+  "month": 5,
+  "day": 30,
+  "saint": "Preacuviosul Părintele nostru Isaachie, egumenul mânăstirii Dalmaţiei.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Cu săgeţile înfrânării ai rănit pe vrăjmaşul, şi taberele lui le-ai prădat. Pentru aceea ai primit darurile cele de biruinţă, Fericite, de la însuşi Hristos, care te-a împuternicit, cu tărie; pe Care roagă-L, să se mântuiască de stricăciune şi de primejdii cei ce cu credinţă săvârşesc pomenirea ta cea pururea cinstită."
+      },
+      {
+        "text": "Suindu-te la privirea cea mai bună, Preafericite, încă fiind în trup, ai trecut cu vederea toate cele de pe pământ şi vremelnice, şi ţi-ai agonisit vieţuire fără materie pe pământ, pururea pomenite. Şi prin Dumnezeiescul Duh, povăţuindu-te Părinte, te-ai făcut povăţuitor şi pildă preamărită sihaștrilor întru credinţă."
+      },
+      {
+        "text": "Luminându-te cu dumnezeieştile străluciri ale Darului Duhului, de Dumnezeu insuflate, Isaachie, te-ai arătat luminător marginilor pământului, prin rugăciunile tale izgonind durerile chinurilor, şi întunericul patimilor, şi mântuind de tot felul de boli şi de nevoi, pe cei ce săvârşesc, cu credinţă pomenirea ta cea pururea cinstită."
+      },
+      {
+        "text": "În patul lenevirii zac Preacurată, şi cu trândăvire îmi petrec viaţa, şi de vremea răposării mele mă tem, nu cumva prea cumplitul şarpe, ca un leu fără milă, va rupe umilitul meu suflet, Născătoare de Dumnezeu. Pentru aceasta mai-nainte de sfârşit către bunătatea ta ajungând, ridică-mă către pocăinţă."
+      },
+      {
+        "text": "Preacurata Stăpână văzând omorât pe Hristos, şi ca un Stăpân omorând pe vicleanul, plângând lăuda pe Cel ce a ieşit dintru cele dinlăuntru ale ei, şi de îndelungă-răbdarea Lui minunâdu-se, striga : Fiul meu preaiubite, nu uita pe roaba Ta, nu zăbovi doritul meu, Iubitorule de oameni."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Preacurata Stăpână văzând omorât pe Hristos, şi ca un Stăpân omorând pe vicleanul, plângând lăuda pe Cel ce a ieşit dintru cele dinlăuntru ale ei, şi de îndelungă-răbdarea Lui minunâdu-se, striga : Fiul meu preaiubite, nu uita pe roaba Ta, nu zăbovi doritul meu, Iubitorule de oameni."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Întru tine Părinte cu osârdie s-a mântuit cel după chip; că luând Crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioase Isaachie, duhul tău."
+    }
+  }
+}

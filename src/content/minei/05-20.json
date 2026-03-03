@@ -1,0 +1,33 @@
+{
+  "month": 5,
+  "day": 20,
+  "saint": "Sfântul Mucenic Talaleu.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Cu ploile sângiurilor tale, mare Mucenice Talaleu, dumnezeieşte ai stins cuptorul nedumnezeirii, şi acum cu râurile minunilor goneşti multe feluri de boli, şi credincioşilor le dai sănătate prin dumnezeiescul Dar. Pentru aceasta cu bucurie prăznuim dumnezeiască pomenirea ta, şi ţărâna trupului tău cu cinste o îmbrăţişăm."
+      },
+      {
+        "text": "Cunoscându-te odraslă roditoare de măslin dumnezeiesc, purtătorule de chinuri Talalee, cu untul-de-lemn al ostenelilor şi minunilor tale celor mai presus de fire, cu adevărat ne alinăm, slăvind pe Dumnezeul tuturor, Care mult te-a mărit pe tine cel ce te-ai chinuit pentru Dânsul, şi de tot ai pierdut trufia înşelăciunii."
+      },
+      {
+        "text": "Aruncându-te în mare, şi înfăşurându-te cu râurile şi șuvițându-te foarte tare, ai rămas neplecat, întărindu-te pe tine Hristos, Fericite, ca pe unul ce te luptai cu cuget prea-viteaz împotriva zavistiei celei prea-cumplite. Talalee fericite, cela ce eşti întocmai la cinste cu îngerii, şi împreună vorbitor cu purtătorii de chinuri; roagă-te pentru sufletele noastre."
+      },
+      {
+        "text": "De o mie de ori am făgăduit ca să fac pocăinţă pentru greşelile mele, Preacurată, dar nu mă lasă pe mine obiceiul cel iubit al răutăţilor mele. Pentru aceasta strig ție, şi cad rugându-mă : Tu Stăpână mă scoate dintru această muncire, îndreptându-mă, către cele mai bune şi către cele ce duc aproape de mântuire."
+      },
+      {
+        "text": "Pe tine Mieluşelul şi Păstorul, dacă Te-a văzut pe lemn Mieluşeaua ceea ce Te-a născut, se tânguia ca o Maică strigând către Tine : Fiule preaiubite, cum Te-ai spânzurat pe lemnul Crucii îndelung-răbdătorule, cum s-au pironit mâinile şi picioarele Tale, Cuvinte, de cei fărădelege, şi Ți-ai vărsat sângele Tău, Stăpâne ?"
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Pe tine Mieluşelul şi Păstorul, dacă Te-a văzut pe lemn Mieluşeaua ceea ce Te-a născut, se tânguia ca o Maică strigând către Tine : Fiule preaiubite, cum Te-ai spânzurat pe lemnul Crucii îndelung-răbdătorule, cum s-au pironit mâinile şi picioarele Tale, Cuvinte, de cei fărădelege, şi Ți-ai vărsat sângele Tău, Stăpâne ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Talaleu, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

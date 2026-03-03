@@ -1,0 +1,34 @@
+{
+  "month": 11,
+  "day": 1,
+  "saint": "În ziua întâia, Sfinţii şi făcătorii de minuni fără de arginţi : Cosma şi Damian, cei din Asia.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": null,
+    "stihiri": [
+      {
+        "text": "Toată nădejdea punându-şi în ceruri, vistierie nefurată, loru-şi sfinţii şi-au strâns. În dar au luat, în dar dau, celor bolnavi tămăduiri. Aur sau argint, precum la Evanghelie, n-au agonisit, şi oamenilor şi dobitoacelor, faceri de bine au dat; ca prin toate fiind ascultători lui Hristos, cu îndrăzneală să se roage, pentru sufletele noastre. (De două ori)"
+      },
+      {
+        "text": "Lucrul cel stricăcios de pe pământ l-au urât, şi locuitori cereşti în trup ca nişte îngeri sau făcut, petrecerea cea cu un gând dimpreună, însoţirea cea cu un nărav şi cu un suflet a sfinţilor. Pentru aceasta tuturor celor ce pătimesc, tămăduiri le dăruiesc, fără de argint dând facerea de bine celor ce le trebuiesc. Pe care cu aceste prăznuiri de peste an, să-i lăudăm după vrednicie, pe cei ce se roagă cu îndrăzneală, pentru sufletele noastre. (De două ori)"
+      },
+      {
+        "text": "Toată Treimea întru sine sălăşluindu-o însoţirea cea pururea lăudată, Cosma şi Damian de Dumnezeu înţelepţiţii; ca nişte izvoare izvorăsc din Izvorul cel de viaţă purtător, ape de tămăduiri. Ale cărora moaşte vindecă patimile prin pipăire, şi numai singure numele depărtează bolile de la oameni. Tuturor celor ce aleargă la dânşii limanuri de mântuire întru Hristos fiind, şi cu îndrăzneală se roagă, pentru sufletele noastre.(De două ori)"
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Fără de sfârşit este Darul sfinţilor, care de la Hristos au luat. Pentru aceasta şi moaştele lor cu dumnezeiască putere neîncetat lucrează minuni. Ale cărora şi numele cu credinţă chemându-se, izbăvesc de boli netămăduite. Prin care Doamne şi pe noi, din patimile sufletului şi ale trupului ne mântuieşte, ca un Iubitor de oameni."
+    },
+    "nascatoarea": {
+      "text": "Născătoare de Dumnezeu, tu eşti vița cea adevărată, care ai odrăslit Rodul vieţii : Ţie ne rugăm, roagă-te Stăpână cu sfinţii, cei fără de arginți, şi cu toţi sfinţii, să miluiască sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Pe poporul cel prea-fărădelege, cu nedreptate pironindu-Te pe Tine pe lemn, văzându-l Fecioara şi Curata Maica Ta, precum Simeon mai înainte a zis, s-a rănit la cele dinlăuntru, Mântuitorule."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Sfinţilor cei fără de arginți şi de minuni făcătorilor, cercetaţi neputinţele noastre, în Dar aţi luat, în Dar daţi-ne nouă."
+    }
+  }
+}

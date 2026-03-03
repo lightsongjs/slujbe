@@ -1,0 +1,37 @@
+{
+  "month": 11,
+  "day": 17,
+  "saint": "Pomenirea celui dintru Sfinţi Părintelui nostru Grigorie episcopul Neocezareei, făcătorul de minuni.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Ce te voi chema Grigorie ? Lucrător, că patimile le-ai supus minţii ? Privitor, că ai ales rodul înţelepciunii, învrednicindu-te vedeniei celei dumnezeieşti ? Învăţător dogmelor celor cereşti ? Lucrător de cele sfinte, Preasfinţite ? Făcător de minuni preaminunate ? Roagă-te să se mântuiască sufletele noastre. (De două ori)"
+      },
+      {
+        "text": "Ce te voi grăi acum Preacuvioase ? Povăţuitor celor rătăciţi şi celor bolnavi doctor ? Dătător îndestulat celor lipsiţi, care cer de la tine ? Dracilor preatare izgonitor ? Îndemnător nevoinţei Mucenicilor, care prooroceşte străluceşti cu Darul, vrednicule de minune ? Roagă-te să se mântuiască sufletele noastre. (De două ori)"
+      },
+      {
+        "text": "Ce te voi numi Grigorie ? Tare surpător păgânătăţii celei fără de Dumnezeu ? Hotărâtor bunei-credinţe şi învăţător preaînţelept ? De pace dătător nebiruit ? Risipitor de războaie nesurpat ? Vieţuitor prin munţi, şi văzător de cele de prin cetăţi ? Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te voi vesti acum, Preacuvioase ? Următor Apostolilor, că însuţi ai fost făcător de minuni ? Că ai oprit râul cu chemarea lui Hristos ? Şi ai uscat iezerul cel ucigător de fraţi ? Stricător adunărilor celor luptătoare de Dumnezeu şi înmulţitor şi luminător aşezământurilor creştineşti ? Roagă-te să se mântuiască sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Stând întru adâncurile privirii, preaînţelepte Ierarhe al lui Hristos, te-ai învăţat arătarea cea dumnezeiască a Treimii, văzând mai înainte neabătut cu Duhul, pe Hristos Dumnezeul nostru, ne izvorăşti nouă adâncime de minuni. Prefăcând firea apelor cea umedă, în fire de piatră, şi pe purtătorul de grijă al capiştei, scăpându-l din rătăcirea cea întunecoasă, ai plecat pe izgonitori să se încredinţeze a crede adevărului. Şi arătându-te lor stâlp de dreaptă-credință al bunătăţii, te-ai numit Prooroc minunilor. Pentru aceasta te rugăm, nu înceta a ruga pe Mântuitorul pentru noi, să se mântuiască sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Cuvântul Arhanghelului ai primit, şi scaun de heruvimi te-ai arătat, şi în braţe ai purtat pe nădejdea sufletelor noastre, Născătoare de Dumnezeu."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-Te răstignit, Hristoase, ceea ce Te-a născut, striga : Ce taină străină este aceasta care văd, Fiul meu ? Cum mori pe lemn, fiind spânzurat cu trupul ? Dătătorule de viaţă."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Întru rugăciuni priveghind, la lucrările minunilor răbdând, asemenea numire cu îndreptările ai câştigat. Ci te roagă lui Hristos Dumnezeu Părinte Grigorie, să lumineze sufletele noastre, ca să nu adormim întru moarte cu păcate."
+    }
+  }
+}

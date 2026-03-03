@@ -1,0 +1,30 @@
+{
+  "month": 10,
+  "day": 5,
+  "saint": "Sfânta Muceniţă Haritina.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Ca una ce eşti cu numele bucuriei, ai mers cinstită cu bucurie în cămara de mire cea cerească, unde ai dorit să-ţi câştigi vieţuirea, răbdând cu tărie focul, dezrădăcinările dureroase ale dinţilor şi ale unghiilor, biruitoare Haritino ! Fecioară Muceniță mult-pătimitoare."
+      },
+      {
+        "text": "Suferind sfărâmările fălcilor ai sfărâmat fălcile leilor, ceea ce eşti mult-pătimitoare; şi dezrădăcinarea unghiilor cu vitejie ai suferit, dezrădăcinând trufiile cele cumplite ale înşelăciunii; şi fiind aruncată în adâncurile mării, ai înecat răutatea vrăjmaşului celui viclean."
+      },
+      {
+        "text": "După fericitul tău sfârşit, fiind aruncată în mare, te-ai adus mărit-o Părintelui tău, care a strigat cu spaimă : Cum te-ai umplut acum de Dar, fiica mea cea preasfinţită şi preadorită ! Cu chinurile cinstitei tale mucenicii, ţi-ai dobândit numire adevărată, care mai înainte s-a însemnat cu Darul."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Pe tine te avem liman de mântuire, cu totul neînviforat, Preacurată şi blândă linişte cu adevărat dumnezeiască mireasă, cei ce ne înviforăm foarte în noianul primejdiilor celor cumplite şi grele ale vieţii. Pentru aceasta şi alergăm către tine toţi strigând : Nu lipsi în veci, a părtini celor ce se roagă ţie."
+    },
+    "cruciiNascatoarea": {
+      "text": "Pe tine Mieluşeaua care ai născut pe Mieluşelul Cel fără de prihană, Cel ce a venit să şteargă păcatul a toată lumea, cu sângele Său, care s-a vărsat pentru noi, şi a înviat toată lumea; te rog, tu îmbracă-mă pe mine care sunt golit de dumnezeiasca nestricăciune, cu îmbrăcămintea Dumnezeiescului Dar, din lâna dumnezeieştii naşterii tale."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mieluşeaua Ta, Iisuse, Haritina, strigă cu mare glas : Pe Tine, Mirele meu, Te iubesc şi pe Tine căutându-Te, mă chinuiesc şi împreună mă răstignesc, şi împreună mă îngrop cu Botezul Tău; şi pătimesc pentru Tine, ca să împărăţesc întru Tine; şi mor pentru Tine, ca să viez pentru Tine; ci, ca o jertfă fără prihană, primeşte-mă pe mine, ceea ce cu dragoste mă jertfesc Ţie. Pentru rugăciunile ei, ca un milostiv, mântuieşte sufletele noastre."
+    }
+  }
+}

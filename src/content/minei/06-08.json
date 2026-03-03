@@ -1,0 +1,31 @@
+{
+  "month": 6,
+  "day": 8,
+  "saint": "Aducerea moaştelor Sfântului marelui Mucenic Teodor Stratilat.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Bucură-te cămara...",
+    "stihiri": [
+      {
+        "text": "Pătimitor viteaz, ostaş nebiruit, întru Duhul Sfânt te-ai arătat, surpând pe luptătorul cu înţelepciunea cuvintelor tale, şi cu arătările cele răbdătoare ale faptelor tale, Înţelepte. Pentru aceasta ai luat cununi de biruinţă, şi cu cetele cele de sus te-ai împreunat, mare Mucenice Teodore."
+      },
+      {
+        "text": "Şi pe Cruce ridicat fiind, şi carnea strujindu-ţi-se, şi cu săgeţi ascuţite fiind rănit, şi pe lemn întins, şi cu sabia tăiat, şi cu toate măiestriile de muncă fiind înconjurat, nevătămat şi nebiruit te-ai arătat, cu puterea; Celui ce S-a răstignit pe Cruce, lauda mucenicilor Teodore."
+      },
+      {
+        "text": "Dumnezeiesc stâlp bunei credinţe te-ai făcut Preafericite, de capiştile celor rău credincioşi scârbindu-te, şi jertfă cu totul desăvârşită și junghiere bineprimită aducându-te curat, Celui ce S-a junghiat pentru tine, şi a mărit sfântă pomenirea ta, şi te-a dăruit pe tine, vistierie de minuni celor din lume, Teodore."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "Vitejească adunare strângând, împotriva înşelăciunii bărbăteşte ai stătut Teodore. Cu limba ta cea cu foc grăitoare, ai ruşinat neomenia lui Licinie. Pentru aceasta şi cu îngerii dănţuind, Fericite, roagă-L pe Hristos Dumnezeu, ca să fie nouă Milostiv, în ziua judecăţii."
+    },
+    "nascatoarea": {
+      "text": "Cele cereşti te laudă, Maică care nu ştii de mire, ceea ce eşti plină de Dar, şi noi preaslăvim naşterea ta cea netâlcuită, Născătoare de Dumnezeu, roagă-te, să se mântuiască sufletele noastre."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Cu numirea oştirii celei adevărate, purtătorule de chinuri, al Cerescului Împărat, voievod preabun te-ai făcut, Teodore. Că cu armele credinţei te-ai oştit înţelepţeşte, şi ai biruit cetele dracilor, şi purtător de biruinţă viteaz te-ai arătat. Pentru aceasta pe tine cu credinţă pururea te fericim."
+    }
+  }
+}

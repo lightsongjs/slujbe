@@ -1,0 +1,34 @@
+{
+  "month": 9,
+  "day": 23,
+  "saint": "Zămislirea Cinstitului slăvitului Prooroc Înaintemergătorului şi Botezătorului Domnului Ioan.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Cel ce de sus eşti...",
+    "stihiri": [
+      {
+        "text": "Preoţind dumnezeiescul Zaharia şi fiind întru cele dinlăuntru ale Bisericii, cererile poporului aducându-le Făcătorului de bine mult-Milostivului, dumnezeiesc înger a văzut strigându-i lui. Rugăciunea şi cererea ta s-au ascultat; îndrăzneşte bătrânule şi nu te îndoi. Că vei avea fiu pe dumnezeiescul Mergător înainte, pe cel mai presus decât cei născuţi din femei; şi pe cel ce cu puterea lui Ilie va să meargă înaintea lui Hristos. De două ori."
+      },
+      {
+        "text": "Străin te arăţi mie cu vederea şi cu chipul, străin cu graiurile şi cu vestirile, Zaharia împotrivă a grăit. Că eu am venit să cer mântuire poporului, iar nu să câştig fiu, precum tu îmi grăieşti. Împotriva cererilor te aflu cu vestirea, şi mi se pare că nu-mi grăieşti adevărul. Şi cum poate fi adevărat ceea ce tu grăieşti, că Elisabeta este stearpă, şi eu precum tu cunoşti, sunt foarte bătrân. De două ori."
+      },
+      {
+        "text": "Pentru ce nu crezi cuvintelor mele, Zaharie ? Şi cum zici că mincinoasă vestire aduc eu ţie ? Arhanghelul lui Dumnezeu sunt eu; cele ce-mi sunt mie poruncite, acelea iată spun ţie stând împreună cu tine. Ci de vreme că nu ai crezut, vei fi surd şi mut, până ce vei vedea dumnezeiască plinirea cuvintelor mele. Şi dacă va naşte Elisabeta ţie pe glasul Cuvântului, pe marele Mergător înainte, dezlegându-ţi-se limba, vei binecuvânta pe Dumnezeul lui Israil. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Din pântece sterp a răsărit astăzi rodul rugăciunii, Ioan Mergătorul înainte. Bucură-te pustie, şi dănţuieşte omenire. Că iată propovăduitorul pocăinţei, vine a se zămisli în pântece de Maică. Veniţi iubitorilor de praznic, bucurându-ne întru mărita lui zămislire, să dănţuim strigând : Cela ce eşti între cei născuţi din femei mai mare, nu înceta a te ruga pentru noi, cei ce cu credinţă săvârşim dumnezeiască zămislirea ta, ca să aflăm curăţire de păcate, şi mare milă."
+    },
+    "nascatoarea": {
+      "text": "Nimenea din cei ce aleargă la tine, nu iese ruşinat de la tine Preacurată Fecioară de Dumnezeu Născătoare ! Ci cere har, şi primeşte dăruirea, spre folosul cererii."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Ceea ce mai înainte erai stearpă neroditoare, veseleşte-te; că iată ai zămislit pe sfeşnicul Soarelui arătat, Cela ceva să lumineze toată lumea, ce pătimea cu nevederea. Dănţuieşte Zaharie cu îndrăzneală strigând : Prooroc Celui Prea Înalt este cel ce va să se nască."
+    },
+    "troparNascatoarea": {
+      "text": "Taina cea din veac ascunsă şi de îngeri neştiută, prin tine, Născătoare de Dumnezeu, celor de pe pământ s-a arătat: Dumnezeu întrupându-Se, întru unire neamestecată, şi Crucea, de bunăvoie, pentru noi luând; prin care, înviind pe cel întâi zidit, a mântuit din moarte sufletele noastre."
+    }
+  }
+}

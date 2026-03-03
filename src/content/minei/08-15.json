@@ -1,0 +1,28 @@
+{
+  "month": 8,
+  "day": 15,
+  "saint": "Adormirea Preasfintei slăvitei Stăpânei noastre de Dumnezeu Născătoarei şi pururea Fecioarei Maria.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": null,
+    "stihiri": [
+      {
+        "text": "O preaslăvită minune ! Izvorul vieţii în mormânt se pune, şi scară către Cer mormântul se face; veseleşte-te Ghetsimani, a Născătoarei de Dumnezeu sfântă casă. Să strigăm credincioşii, pe Gavriil având începător cetelor : Cea plină de Dar bucură-te, cu tine este Domnul, Cel ce dă lumii prin tine mare milă. De trei ori."
+      },
+      {
+        "text": "Minunate sunt tainele tale, Curată, Celui de sus scaun te-ai arătat Stăpână, şi de pe pământ la Cer, te-ai mutat astăzi. Slava ta cu bună-cuviinţă, cu daruri de lumini dumnezeieşti strălucind, fecioare cu Maica Împăratului, la înălţime suiţi-vă. Cea plină de Dar bucură-te, cu tine este Domnul, Cel ce dă lumii prin tine mare milă. De trei ori."
+      },
+      {
+        "text": "A ta Adormire slăvesc : Stăpâniile, Scaunele, Căpeteniile, Domniile, Puterile, Heruvimii şi înfricoşaţii Serafimii. Se bucură pământenii, înfrumusețându-se cu dumnezeiască slava ta. Înaintea ta cad împăraţii, cu Arhangheli, cu îngerii, şi cântă : Cea plină de Dar bucură-te, cu tine este Domnul, Cel ce dă lumii prin tine mare milă. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 0,
+      "text": "Cu voia cea dumnezeieşte stăpânitoare, de pretutindenea purtătorii de Dumnezeu Apostoli, de nori pe sus fiind ridicaţi."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Întru naştere fecioria ai păzit, întru Adormire lumea nu o ai părăsit, de Dumnezeu Născătoare; mutatu-te-ai la viaţă, fiind Maica Vieţii, şi cu rugăciunile tale, izbăveşti din moarte sufletele noastre. De trei ori."
+    }
+  }
+}

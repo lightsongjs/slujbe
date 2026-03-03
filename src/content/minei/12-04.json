@@ -1,0 +1,40 @@
+{
+  "month": 12,
+  "day": 4,
+  "saint": "Sfânta marea Muceniță Varvara. Şi Cuviosul Părintele nostru Ioan Damaschin.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Când a văzut în priveliştea cea înfricoşată Iuliana cea preafericită, pe mărita Muceniță Varvara, cu bătăi chinuindu-se, şi cu feluri de munci pe tot trupul tăindu-se, cu călduroase lacrimi a strigat : Cuvinte al lui Dumnezeu, acesteia a mă face părtaşă acum mă învredniceşte, Iubitorule de oameni."
+      },
+      {
+        "text": "Sfintele Varvara şi Iuliani, având cu adevărat o voinţă spre creştinătate, s-au luptat cu vrăjmaşul, şi biruindu-l deplin, s-au învrednicit măririi de la Hristos Dumnezeu. Pentru aceasta pierzând vătămarea pierzătoarelor patimi, dau tuturor credincioşilor tămăduiri."
+      },
+      {
+        "text": "Când s-a hotărât asupra ta moartea cea dulce, Muceniță preacinstită Varvaro, alergarea ai săvârşit bucurându-te şi sârguind. Şi de mâinile cele fărădelege ale necredinciosului tău părinte te-ai jertfit, şi roadă lui Dumnezeu te-ai adus. Pentru aceasta cu fecioarele cele înţelepte împreună dănţuind cu adevărat, vezi strălucirea lui Hristos Mirelui tău."
+      },
+      {
+        "text": "Ce te vom numi pe tine Sfinte ? Ioan cuvântătorul de Dumnezeu, sau David cel dulce cântător ? Alăută de Duhul purtată, sau fluier păstoresc ? Îndulcind auzurile şi gândurile, veselind adunările Bisericii; şi cu cuvintele cele cu miere curgătoare, luminezi marginile. Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom numi dumnezeiescule Ioane dulce grăitorule ? Stea prealuminoasă ? Carele cu raza Treimii fiind strălucit la vedere, ai intrat în norul Dumnezeiescului Duh, învăţându-te cele negrăite; ca şi Moise ai dat la lumină, buna podoabă cea de cântare. Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom numi pururea pomenite ? Luceafăr de lumină purtător, slăvit propovăduitor, slujitor, sau de taină văzător al lui Dumnezeu ? Stea, care cu razele luminezi Biserica ? Sfeşnic, care dai strălucire celor din întuneric; sau organ prea-bine răsunător, sau trâmbiţă frumos glăsuitoare ? Roagă-te să se mântuiască sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Patria, neamul şi avuţia, lăsând, Varvaro; şi pe necredinciosul tată urându-l ai iubit pe Dumnezeu, Căruia te-ai făcut mireasă; şi ai fost făcând neguţătorie de mari lucruri. Pe Acela roagă-L, să mântuiască sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Fecioară cu totul fără prihană roagă pe Acela ce L-ai născut, să mântuiască tot neamul omenesc; ca pe tine cu inima şi cu limba să te mărturisim Maică Fecioară, Născătoare de Dumnezeu."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Pe Sfânta Varvara să o cinstim; că cursele vrăjmaşului a sfărâmat şi ca o pasăre s-a izbăvit dintr-însele, cu ajutorul Crucii, Preacinstita."
+    }
+  }
+}

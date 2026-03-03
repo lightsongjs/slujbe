@@ -1,0 +1,31 @@
+{
+  "month": 6,
+  "day": 9,
+  "saint": "Cel dintru sfinţi Părintele nostru Chiril papă al Alexandriei.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Cu luminările Duhului, luminându-ţi cugetul, te-ai făcut soare dătător de lumină, şi ca nişte raze ai trimis dogmele pe la toate marginile, luminând plinirea credincioşilor, Preafericite, şi gonind întunericul eresurilor, cu puterea Celui ce a strălucit din Fecioară, purtătorule de Dumnezeu Chirile."
+      },
+      {
+        "text": "Cu bună grăire a cuvintelor tale, preasfinţite Chirile, se înfrumuseţează toată Biserica, şi prin buna credinţă se împodobeşte cu podoabe frumoase, şi-ţi cinsteşte cu sfinţenie sfântă adormirea ta, pururea pomenite, cela ce eşti lauda arhiereilor, începătorule al părinţilor, părtinitorule al preasfinţitului Sinod."
+      },
+      {
+        "text": "Cu dogmele tale cele înfocate ai ars toată materia cea uscăcioasă a eresurilor, Preaînţelepte, şi întru adâncimea înţelegerilor, se îneacă tabăra celor neplecaţi cu credinţă rea, preasfinţite Chirile. Şi cu învăţăturile tale, pururea se înfrumuseţează Biserica credincioşilor, cinstindu-te cu glas mare, Fericite."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Dreaptă slugă bună şi credincioasă, bine lucrătorule al viei lui Hristos, tu şi greutatea zilei ai purtat, tu şi talantul cel dat ţie l-ai înmulţit, şi celor ce au venit după tine nu le-ai pizmuit. Pentru aceasta porţile cereşti ţie s-au deschis. Intră întru bucuria Domnului tău, şi te roagă pentru noi sfinte Chirile."
+    },
+    "cruciiNascatoarea": {
+      "text": "Ceea ce Te-a născut pe Tine, Hristoase, văzându-Te răstignit, striga : Ce este Fiul meu această străină taină pe care o văd ? Cum mori cu trupul spânzurat pe lemn, Dătătorule de viaţă ?"
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Îndreptătorule al Ortodoxiei, învăţătorule al dreptei cinstiri de Dumnezeu şi al curăţiei şi luminătorule al lumii, podoaba călugărilor cea de Dumnezeu insuflată Chirile înţelepte, cu învăţăturile tale pe toţi i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

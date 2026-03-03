@@ -1,0 +1,37 @@
+{
+  "month": 11,
+  "day": 6,
+  "saint": "Cel dintru sfinţi Părintele nostru Pavel, Arhiepiscopul Constantinopolului şi mărturisitorul.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Pavel grăitorul de Dumnezeu, te-a ales pe tine următor lui, cel numit într-un nume cu acesta  şi împodobit cu obiceiurile lui, Preafericite, şi cu cinstire de Dumnezeu, şi cu bărbăţia sufletului şi cu răbdarea primejdiilor, şi aprins cu râvnă, apărătorule al ortodoxiei. Cu care dimpreună şi acum eşti slăvit în locaşurile cele cereşti."
+      },
+      {
+        "text": "Pe Arie cel fără de Dumnezeu şi pe Macedonie cel cu rea-credinţă, l-ai sugrumat cu vinele cele tari ale dogmelor tale. Iar cu cuvântul cel drept al învăţăturii, ai întărit mulţimea dreptmăritorilor, Sfinţite tăinuitorule fericite. Pentru aceasta primind mărturisirea ta cea prealuminoasă Iubitorul de oameni, te-a făcut părtaş Împărăţiei Sale. (De două ori)"
+      },
+      {
+        "text": "Pe tine cel ce ai săvârşit călătoria şi credinţa ai păzit, fericite Ierarhe, Hristos te-a încununat cu cununa cea luminoasă a dreptăţii, şi a împodobit mărturisirea ta, vrednicule de minune. Pentru aceea luând moştenirea cerească, roagă pe Mântuitorul, pentru cei ce te laudă."
+      },
+      {
+        "text": "Pavele preafericite, cel cu numele de mărturisire, făcându-te folositor celor ce cu fierbinţeală te laudă , izbăveşte de toată primejdia, şi de tot păcatul şi de viforul patimilor şi de tiranie, Părinte; ca un Mucenic nebiruit, şi ca un Ierarh bine primit, ca cel ce ai câştigat îndrăzneală către Hristos Dumnezeul nostru."
+      }
+    ],
+    "slava": {
+      "glas": 1,
+      "text": "Cu podoaba arhieriei fiind îmbrăcat, Cuvioase Părinte, ai râvnit lui Pavel celui cu numele tău numit, răbdând goniri şi primejdii; şi cu ostenelile tale ai ruşinat dogmele cele hulitoare ale lui Arie. Că pătimind pentru Treimea cea fără de început şi de o Fiinţă, ai surpat pe Macedonie cel cu credinţă rea, ce se lupta împotriva Duhului; iar credinţa drept-credincioasă luminându-o tuturor, eşti locuitor împreună cu îngerii cei fără de trup, cu care împreună şi acum roagă-te, să se mântuiască sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Alergând ca la un liman, sub Sfântul tău acoperământ, Fecioară Maică Curată, mă rog milostiveşte-te, nu mă lepăda, ci mă mântuieşte pe mine robul tău, de nevoia care acum a venit asupra mea, ca una ce din fire ai milostivire, Maica lui Dumnezeu Celui Preaînalt, rugându-te totdeauna, mântuieşte pe robii tăi de toată primejdia."
+    },
+    "cruciiNascatoarea": {
+      "text": "Ceea ce ai născut Strugurul vieţii, Care nelucrat a răsărit din pântecele tău, dacă L-ai văzut pe El spânzurat pe lemn, tânguindu-te te văitai, şi strigai : Fiul meu izvorăşte vin, prin care se va ridica toată beţia patimilor, Făcătorule de bine, pentru mine, ceea ce Te-am născut pe Tine, ca un Milostiv."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Pentru mărturisirea dumnezeieştii credinţe, alt Pavel pe tine Biserica te-a arătat râvnitor între preoţi. Strigă împreună cu tine şi Abel către Domnul, şi sângele cel drept al Zahariei, Părinte Cuvioase. Pe Hristos Dumnezeu roagă-L, să ne dăruiască nouă mare milă."
+    }
+  }
+}

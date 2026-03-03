@@ -1,0 +1,39 @@
+{
+  "month": 10,
+  "day": 17,
+  "saint": "Sfântul Prooroc Osie, şi Preacuviosul Mucenic Andrei Criteanul.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ca pe un viteaz între...",
+    "stihiri": [
+      {
+        "text": "Duhul cel Sfânt care purcede de la Tatăl, prin limba ta Proorocule a hotărât, că va fi venirea lui Hristos cea viitoare, în anii cei de pe urmă, spre înnoirea zidirii. Şi acum văzând săvârşirea proorociei tale, Slăvite, cinstim pomenirea ta."
+      },
+      {
+        "text": "Păcătuind mai înainte cu socotinţa, firea noastră Iubitorule de oameni, logodindu-Te cu ea ai curăţit-o de întinăciune, împreunându-o cu Tine, după unire nedespărţită mai presus de gând. Şi acestui lucru făcându-se semn Proorocul Tău, pe cele ce erau mai înainte desfrânate, le-a făcut înfrânate."
+      },
+      {
+        "text": "Grăitorule de Dumnezeu, Proorocule, văzându-ţi acum graiurile tale împlinite prin Har, şi stând înaintea Dumnezeului tuturor, roagă-te pentru toţi cei ce cu credinţă săvârşesc pomenirea ta; cerându-le iertare greşelilor, pace şi îndreptare vieţii."
+      },
+      {
+        "text": "Sudorile ostenelilor sihăstriei, Slăvite, adăugându-se către lupta mucenicilor, au pus în tine, Andreie; dorirea deplin; care cu bun prilej te-ai arătat întru Dumnezeu foarte tare. Roagă-te dar să se izbăvească de stricăciune şi de primejdii, cei ce cu credinţă săvârşesc pomenirea ta cea pururea cinstită."
+      },
+      {
+        "text": "Prin credinţă făcându-te ca o piatră de mare preţ, nu te-ai sfărâmat; că bătându-te şi pe pământ fiind târât, netezind Slăvite calea credinţei o ai făcut bună de umblat, şi ai răsturnat mintea cea prea-rea a părerii lui Copronim, Fericite, ca pe un temei putred."
+      },
+      {
+        "text": "Fiind crescut şi hrănit cu dogmele Apostolilor, Fericite, şi cu învăţăturile dumnezeieştilor părinţi, ai cinstit chipul lui Dumnezeu celui întrupat, care se vede în sfinţite însemnări şi în cinstite închipuiri. Pentru aceasta chinuindu-te Fericite pentru El te-ai arătat învăţător bunei credinţe şi podoabă mucenicilor."
+      }
+    ],
+    "nascatoarea": {
+      "text": "De mii de ori am făgăduit că mă voi pocăi de păcatele mele Preacurată, dar nu mă lasă obiceiul cel rău al faptelor rele. Drept aceea strig către tine, cad înaintea ta şi mă rog : Scapă-mă Stăpână din această tiranie, îndreptându-mă către cele mai bune şi asemenea mântuirii."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşea, care ai născut pe Mielul Cel fără prihană, Care a venit să spele cu sângele Său păcatul a toată lumea, pe Cel ce S-a junghiat pentru noi Preacurată, şi a înviat marginile lumii; îmbracă-mă pe mine cel ce sunt gol de nestricăciunea dumnezeiască, făcându-mi îmbrăcăminte a Darului celui dumnezeiesc, din lâna naşterii tale."
+    },
+    "tropar": {
+      "glas": 2,
+      "text": "A Proorocului Tău Osie, pomenirea Doamne prăznuind, printr-însul te rugăm, mântuieşte sufletele noastre."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 27,
+  "saint": "Sfântul Mucenic Nestor.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ca pe un viteaz între Mucenici...",
+    "stihiri": [
+      {
+        "text": "Fericite pătimitorule Nestore, îmbrăcându-te cu toată întrarmarea lui Hristos, luptându-te de faţă cu Lie, l-ai omorât; şi cu săgeţile cele nevăzute, ai împiedicat pe Veliar cel nevăzut, şi l-ai omorât. Pentru aceasta Marele dătător cu cunună de biruinţă a încununat capul tău."
+      },
+      {
+        "text": "Întărindu-te înţelepţite Nestore, cu cuvintele cele dumnezeieşti ale Mucenicului Dimitrie, ai omorât bărbăteşte pe tiranul cel mândru; şi pe Cel ce a murit şi a stricat iadul, L-ai mărturisit că este Dumnezeu fără de moarte; răbdând moarte fără dreptate, măritule ! Pentru aceasta bucurându-te, ai moştenit viaţa cea fără de sfârşit."
+      },
+      {
+        "text": "Tânăr dumnezeiesc te-ai făcut cu adevărat Nestore, strălucind cu frumuseţea trupului înţelepte; înfrumuseţat cu Dumnezeiescul Dar, şi îmbrăcat cu putere. Pentru aceea pierzând puterea lui Lie, cu puterea Atotţiitorului bucurându-te ai pătimit, şi te-ai numărat cu cetele mucenicilor; cu care împreună veselindu-te, adu-ţi aminte de noi."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "În lăcaşurile cele mai presus de lume, Hristos Dumnezeu a primit Duhul tău neprihănit, Dimitrie Mucenice înţelepte, căci tu te-ai făcut apărător al Treimii, bărbăteşte nevoindu-te în luptă, ca un tare diamant. Iar cu suliţa împungându-ţi-se preacurata ta coastă preacinstite, urmând Celui ce S-a întins pe Cruce pentru mântuirea a toată lumea, ai luat lucrarea minunilor; dând oamenilor vindecările cu îmbelşugare. Pentru aceasta prăznuind astăzi adormirea ta, după vrednicie slăvim pe Domnul, Cel ce te-a încununat."
+    },
+    "nascatoarea": {
+      "text": "Mântuieşte din nevoi pe robii tăi Născătoare de Dumnezeu; că toţi după Dumnezeu la tine scăpăm, ca şi către un zid nestricat şi folositoare."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-te pe Tine Doamne Maica Ta spânzurat pe Cruce, plângea şi se tânguia, şi ca o Maică grăia Ție : Fiul meu preaiubite, cum Te-au pironit pe Cruce, pe Tine însu-Ți Făcătorul de bine, cumpliţii şi nerecunoscătorii iudei ! Ci scoală-Te degrab, bucurându-mă pe mine, precum ai zis."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Nestor, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

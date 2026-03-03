@@ -1,0 +1,30 @@
+{
+  "month": 1,
+  "day": 24,
+  "saint": "Preacuvioasa Maica noastră Xenia.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Mai-nainte strămutându-te, Cinstită, cu gândirea şi adeverind cu fapta, ceea ce ai socotit cu cugetul, ai ieşit din sălbăticeasca deşertăciune a deşertăciunilor, şi ţi-ai îndreptat călătoria, înstrăinându-te cu suirea cea aspră a bunătăţilor fericită Xenia."
+      },
+      {
+        "text": "Aşezându-te în limanul sânului de pământ celui dumnezeiesc, ai trecut furtuna valurilor lumii, iar luntrea sufletului tău necufundată purtându-o, Cinstită, de valurile amărăciunii desfătărilor, petreci plină de poverile cele tainice."
+      },
+      {
+        "text": "Înstrăinându-te cu dumnezeiască urmarea lui Dumnezeu, Celui ce pentru noi S-a pogorât de sus către noi, ca să înalţe pe cei căzuţi, ai rămas Înţeleaptă, necunoscută rudeniilor; iar credincioşilor şi lui Dumnezeu, mai ales ai fost cunoscută, rugându-te Xenia totdeauna."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Preaslăvită eşti în neamurile neamurilor, Maică Fecioară Curată, Născătoare de Dumnezeu, Marie, apărătoarea lumii, care ai născut cu trup pe Fiul Tatălui celui fără început şi împreună veşnic cu Duhul adevărat. Pe Care roagă-L să ne mântuim noi."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă a văzut Fecioara cea fără prihană pe Fiul său spânzurat pe Cruce, tânguindu-se striga : Preadulcele meu Fiu ! Ce este această nouă şi minunată vedere ? Cum Te-ai pironit cu trupul pe Cruce ? Cel ce toate le ții în mâna Ta."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Întru tine Maică cu osârdie s-a mântuit cel după chip; că luând Crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioasă Xenia, duhul tău."
+    }
+  }
+}

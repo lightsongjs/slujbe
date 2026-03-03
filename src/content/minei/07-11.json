@@ -1,0 +1,34 @@
+{
+  "month": 7,
+  "day": 11,
+  "saint": "Sfânta şi prealăudata marea Muceniță Eufimia ceea ce a fost hotarul părinţilor.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "A treia zi ai înviat Hristoase...",
+    "stihiri": [
+      {
+        "text": "O preaslăvită minune ! Mieluşeaua Domnului, râvnind morţii Lui celei de bunăvoie, prin ostenelile pătimirii, zăcând în mormânt, prin puterea Duhului izvorăşte revărsare de sânge, din care luând spre curăţirea sufletelor, aducem laudă Dumnezeului tuturor totdeauna."
+      },
+      {
+        "text": "Muceniţă cu adevărat prealăudată, ai oprit năvălirile fiarelor, precum odinioară Daniil, şi prin Dar prea-lesne ai îndrăznit focului, şi suferind toată altă muncă, ai primit neveştejită cununa biruinţei, şi te-ai suit cu bucurie către Doritul tău; pentru aceea te cinstim şi te fericim."
+      },
+      {
+        "text": "Adunarea dumnezeieştilor părinţi, a pus pe capul tău hotarul credinţei, pe care l-ai primit în braţele tale, ceea ce eşti pururea pomenită, păzind nemişcată credinţa cea dumnezeiască, lepădând tot eresul, şi ruşinând pe ajutorul minciunii. Drept aceea te cinstim, şi te fericim preamărită."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Dea-dreapta Mântuitorului a stătut fecioara, purtătoarea de chinuri şi Muceniţa, înconjurată fiind cu bunătăţile nebiruite, şi împodobită cu untuldelemn al curăţiei, şi cu sângele pătimirii şi strigând către Dânsul cu bucurie, făclii ţiind : La mireasma mirului Tău am alergat Hristoase Dumnezeule, că m-am rănit cu dragostea Ta eu, să nu mă osebeşti pe mine Mire Ceresc. Pentru rugăciunile ei Mântuitorule, trimite nouă milele Tale."
+    },
+    "nascatoarea": {
+      "text": "Bucură-te cuvântarea cea cinstită a Apostolilor Preacurată şi veselia cea de bucurie a îngerilor; bucură-te Fecioară lauda lumii, şi podoaba credincioşilor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-te pe Tine Hristoase răstignit, ceea ce Te-a născut, tânguindu-se, striga ca o Maică : Fiul meu ! Şi Dumnezeul meu ! Fiul meu Cel preadulce ! Cum suferi patimă de ocară ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mieluşeaua Ta, Iisuse, Eufimia, strigă cu mare glas : Pe Tine, Mirele meu, Te iubesc şi pe Tine căutându-Te, mă chinuiesc şi împreună mă răstignesc, şi împreună mă îngrop cu Botezul Tău; şi pătimesc pentru Tine, ca să împărăţesc întru Tine; şi mor pentru Tine, ca să viez pentru Tine; ci, ca o jertfă fără prihană, primeşte-mă pe mine, ceea ce cu dragoste mă jertfesc Ţie. Pentru rugăciunile ei, ca un milostiv, mântuieşte sufletele noastre."
+    }
+  }
+}

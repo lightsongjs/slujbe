@@ -1,0 +1,37 @@
+{
+  "month": 12,
+  "day": 23,
+  "saint": "Înainte prăznuirea Naşterii lui Hristos şi Sfinţii zece Mucenici din Creta.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Glasul Isaiei se plineşte, că iată Fecioara pe Cel necuprins, poartă cuprins în pântece cu trupul, şi cu preaslăvire vine să-L nască; de Dumnezeu primitoare peşteră bine te înfrumusețează, Betleeme găteşte-te, că Împăratul te-a ales pe tine spre lăcaş. Primeşte iesle pe Pruncul Hristos cel înfăşat, Care va să dezlege legăturile oamenilor pentru bunătate."
+      },
+      {
+        "text": "Norul cel luminos şi însufleţit, care poartă Ploaia cea cerească, vine acum să o verse pe pământ, ca să adape faţa lui. Primăvara Darului, Rânduneaua cea înţelegătoare purtând în pântece, cu cuvânt negrăit, va să nască, risipind iarna nedumnezeirii. Palatul cel curat şi nespurcat, aduce pe Împăratul în peşteră întrupat."
+      },
+      {
+        "text": "Scrisu-te-ai împreună cu robii Stăpână, vrând să rupi zapisul greşelilor, şi să scrii în cartea vieții pe toţi cei omorâţi prin viclenia şarpelui. Fecioara Te poartă, pe Tine, Cela ce toate le porţi, pe Tine, Cel înfăşurat cu trup muritor, Cela ce bine ai voit a Te sălăşlui în peşteră mică; pe Tine, Care după ce Te-ai născut, Te-au lăudat cetele cele de sus îngereşti cu dumnezeieștii păstori, spăimântându-se de puterea Ta."
+      },
+      {
+        "text": "Zecimea cea de Dumnezeu chemată, candela cea cu zece lumini, care cu dumnezeieştile străluciri luminează plinirea Bisericii, stâlpii cei nemişcaţi, stelele cele luminoase, care au făcut pământul Cer, prin luminările nevoinţelor celor mari, să se laude astăzi cu mare glas, cu laude sfinţite."
+      },
+      {
+        "text": "Să se laude Teodul şi Zotic, Pompie, Vasilid şi Evpor, Agatopus şi Satornic, Ghelasie şi dumnezeiescul Evarest, şi dimpreună cu ei Evnichian; să se cinstească acum cu cântări, limanurile cele cu totul liniştite ale celor ce sunt în furtuni; care au înfruntat rătăcirea în privelişte şi au luat cununile biruinţei."
+      },
+      {
+        "text": "Pe odraslele Cretei, întăririle Bisericii şi înfrumusețările credincioşilor cele neveştejite, cinstite florile raiului cele cu dulce miros, pe junghierile cele bineprimite ale lui Hristos şi frumoase, pe darurile Bisericii cereşti, să lăudăm pe nevoitori, pe zecimea cea sfântă a Treimii."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Creta mai-nainte prăznuieşte astăzi Naşterea lui Hristos, întru pomenirea purtătorilor de chinuri; pentru aceasta cu rugăciunile lor Doamne mântuieşte sufletele noastre."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

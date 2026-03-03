@@ -1,0 +1,28 @@
+{
+  "month": 5,
+  "day": 10,
+  "saint": "Sfântul Apostol Simon Zilotul.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Simon cel minunat, lauda Apostolilor, ca o rază strălucită a străbătut marginile, izgonind negura mulţimii dumnezeilor, cu dumnezeieştile sale învăţături cele de mântuire şi de lumină purtătoare, şi pe toți i-a luminat, să slăvească în Trei Fețe o Dumnezeire, nedespărţită şi nedeosebită."
+      },
+      {
+        "text": "Simon cel de Dumnezeu insuflat, învăţătorul păgânilor cel prealuminat şi preacinstit; mreaja cea dumnezeiască, care a vânat dintru adâncul pierzării, propovăduitorul cel prea-adevărat al teologiei celei înalte, pe toţi i-a ospătat acum cu iscusinţă la cunoştinţa lui Hristos, punându-le înainte ospăț vesel isprăvile sale."
+      },
+      {
+        "text": "Simon Apostolul, înconjurând marginile, ca o roată învârtindu-se, tot pământul nebuniei idoleşti a ars, şi cu buna-credinţă luminându-l, făclii luminoase, a aprins credincioşilor, măritul. Şi pe toți i-a luminat, ca să slăvească în trei Ipostasuri o Dumnezeire nedespărţită şi nedeosebită."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Cu nume de râvnă numit chemându-te, Simone vrednicute de minune, râvnind ai râvnit lui Dumnezeu Atotţiitorului, şi de dumnezeieşti minuni plin te-a arătat; că fierbinte râvnă având, numit cu nume, de râvnă te-ai chemat, Fericite, şi cu împărtăşirea asemenea chemare ai câştigat. Pentru aceasta înalt fiind, şi cu cetele cele înalte locuind, roagă-te de Dumnezeu văzătorule, lui Hristos Cuvântului Dumnezeului nostru, să ne dăruiască nouă mare milă."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole Sfinte, Simone, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşale sufletelor noastre."
+    }
+  }
+}

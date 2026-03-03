@@ -1,0 +1,28 @@
+{
+  "month": 5,
+  "day": 25,
+  "saint": "A treia aflare a cinstitului cap al Sfântului Prooroc înainte Mergătorului şi Botezătorului Ioan.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Fericite Ioane înainte Mergătorule, răsărind din pământ capul tău, mai mult decât razele soarelui a strălucit, şi pe credincioşi a luminat; pe care ca pe o dumnezeiască vistierie avându-l, bogat Dar luăm, sfinţindu-ne sufletele şi trupurile şi gândurile, şi prăznuind te fericim pe tine."
+      },
+      {
+        "text": "Sfinţit capul tău cel ce izvorăşte Dar pururea curgător, fericite înainte Mergătorule, s-a arătat înţeleptului de Dumnezeu preot, celui ce nu ştia. Carele sârguindu-se prin credinţă şi prin Dar, a făcut arătată prăznuirea lui sfințindu-se cu poporul cel de Dumnezeu înțelepțit, şi cu împăratul cel ce a întărit cu fierbinţeală ortodoxa credinţă."
+      },
+      {
+        "text": "A treia arătare a cinstitului capului tău săvârşim, pe care Treimea l-a încununat, fiind tăiat, Mărite, pentru dumnezeiasca râvnă, şi întru aflarea lui se bucură cetele îngereşti, adunarea mucenicilor, dumnezeieștii Apostoli, şi Proorocii toți, cu care pomeneşte-ne pe noi totdeauna, al Domnului Mergătorule înainte."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Vistieria dumnezeieştilor daruri, capul tău cel de Dumnezeu păzit înainte Mergătorule, din sânurile pământului a răsărit. Pe care noi cu credinţă primindu-l, şi închinându-ne, Mărite, ne îmbogăţim prin tine Botezătorul lui Hristos, cu preamărite minuni, şi cu iertare de greşeli."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Ca o dumnezeiască vistierie ascunsă în pământ Hristos a descoperit capul tău nouă, Proorocule şi înainte Mergătorule, deci toți adunându-ne întru suflarea lui, cu cântări de Dumnezeu grăitoare pe Mântuitorul lăudăm, Cel ce ne mântuieşte pe noi din stricăciune cu rugăciunile tale."
+    }
+  }
+}

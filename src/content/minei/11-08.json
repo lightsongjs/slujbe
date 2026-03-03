@@ -1,0 +1,40 @@
+{
+  "month": 11,
+  "day": 8,
+  "saint": "Soborul mai marilor Arhistrategi, Mihail şi Gavriil şi al tuturor puterilor cereşti, celor fără de trupuri.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Dumnezeirii celei întreit Luminătoare, înaintestătător prealuminat, Mihaile mai-marele voievodule, arătându-te, cu puterile cele de sus strigi, bucurându-te : Sfânt eşti Părinte; Sfânt eşti Cuvinte cel împreună fără de început; Sfânt eşti şi Duhule Sfinte. O slavă, o Împărăţie, o Fire, o Dumnezeire şi o Putere. (De două ori)"
+      },
+      {
+        "text": "Chipul tău de foc şi frumuseţea minunată, Mihaile, întâiule îngere, că străbaţi marginile cu firea cea fără de materie, plinind poruncile Făcătorului tuturor. Puternic întru tăria ta cunoscut fiind, şi izvor de tămăduiri Biserica ta făcându-o, ceea ce cu chemarea ta cea sfântă se cinsteşte."
+      },
+      {
+        "text": "Cel ce faci pe îngerii Tăi duhuri, precum este scris; şi pe cei ce slujesc Ție, pară de foc, în mijlocul cetelor Tale celor îngereşti, mai întâi a fi ai arătat Doamne pe Mihail mai-marele Voievod, cel ce se supune voilor Tale, Cuvinte, şi cântare întreit-Sfântă, cu frică strigă Slavei Tale."
+      },
+      {
+        "text": "Mintea cea mai înainte de veci, a doua lumină te-a aşezat pe tine, Gavriile, care cu împărtăşiri dumnezeieşti luminezi toată lumea, şi ne descoperi nouă taina cea din veac Dumnezeiască şi mare cu adevărat, pe Cel ce S-a întrupat în pântecele fecioresc, Care a fost fără de trup şi S-a făcut Om, ca să mântuiască pe om. (De două ori)"
+      },
+      {
+        "text": "Înaintea Scaunului Dumnezeirii celei întreit Luminătoare stând, şi din-destul fiind strălucit cu dumnezeieştile străluciri, cele ce ies neîncetat de acolo, pe cei ce dănţuiesc pe pământ cu bucurie, şi te laudă pe tine, de negura patimilor mântuieşte-i, şi cu luminare îi străluceşte, Gavriile, mai-marele Voievod, rugătorule pentru sufletele noastre."
+      },
+      {
+        "text": "Sfărâmă întărâtările celor din Agar, care asupra turmei tale adesea năvălesc. Potoleşte despărţirile Bisericii. Potoleşte viforul ispitelor celor fără de măsură. Mântuieşte de nevoi şi de primejdii, pe cei ce cu dragoste te cinstesc pe tine, şi sub acoperământul tău aleargă, Gavriile, mai-mare Voievod, rugătorule pentru sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Bucuraţi-vă împreună cu noi, toate căpeteniile cetelor îngereşti. Că cel mai înainte stătător al vostru, şi al nostru folositor marele Arhistrateg, în ziua de astăzi, întru cinstită Biserica lui, cu preamărire arătându-se, sfinţeşte. Pentru aceasta după datorie cântându-i lui, să-i strigăm : Acoperă-ne pe noi cu acoperământul aripilor tale, mai-mare Mihaile Arhanghele."
+    },
+    "nascatoarea": {
+      "text": "Astăzi Biserica ceea ce a încăput pe Dumnezeu, Născătoarea de Dumnezeu în Biserica Domnului se aduce, şi Zaharia pe dânsa o primeşte. Astăzi Sfânta Sfintelor se bucură, şi ceata îngerilor cu taină prăznuieşte. Cu care împreună şi noi prăznuind astăzi, cu Gavriil să strigăm : Bucură-te ceea ce eşti plină de Dar, Domnul este cu tine, Cel ce are mare milă."
+    },
+    "tropar": {
+      "glas": 0,
+      "text": "Mai-marilor Voievozi ai oştilor cereşti, rugămu-vă pe voi noi nevrednicii; ca şi cu rugăciunile voastre să ne acoperiţi pe noi, cu Acoperământul aripilor slavei voastre celei netrupeşti, păzindu-ne pe noi cei ce cădem cu dinadinsul şi strigăm : Mântuiţi-ne din nevoi, ca nişte mai-mari peste cetele puterilor celor de sus. (De două ori)"
+    }
+  }
+}

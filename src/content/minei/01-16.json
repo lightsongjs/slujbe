@@ -1,0 +1,34 @@
+{
+  "month": 1,
+  "day": 16,
+  "saint": "Închinarea cinstitului lanţ al Sfântului şi întru-tot lăudatului Apostol Petru.",
+  "vecernie": {
+    "glas": 6,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Înşelăciunea ai legat, pentru Domnul fiind legat şi în temniţă închis Apostole. Pentru aceasta te cinstim pe tine cu dragoste, şi cu credinţă sărutăm lanţul tău, din care luând sănătate trupului şi sufletului mântuire, după datorie te lăudăm pe tine, de Dumnezeu văzătorule, vorbitorule cu cei fără de trupuri. De două ori."
+      },
+      {
+        "text": "Prin tine cunoştinţă au luat neamurile păgânilor cele cu multă semeţie, care mai înainte erau ţinute întru necunoştinţă. Al cărora chip, l-a arătat vasul cel de sus venit, care avea înlăuntru tot felul de jivine, Apostole. Pentru aceasta toată vârsta te măreşte, închinându-se lanţurilor pe care le-ai purtat pentru Hristos prea cu osârdie. De două ori."
+      },
+      {
+        "text": "De care te-ai lepădat când se judeca, pe Acela când S-a sculat din morţi L-ai lăudat Apostole şi L-ai propovăduit la marginile lumii, Dumnezeu şi Om, Care pentru multa bunătate a vieţuit cu oamenii. Pentru aceasta cu dragoste te fericim Petre, închinându-ne lanţurilor care ai purtat pentru Hristos, Preamărite. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Astăzi temeiul Bisericii Petru, piatra credinţei, ne pune nouă înainte cinstitul lanţ, spre sufleteasca bună întărire. Veniţi toţi pe acesta sărutându-l, cu cântări de bună laudă pe dânsul să-l încununăm. Bucură-te apărătorul credinţei cel fierbinte, care cu călduros gând ai mărturisit pe Hristos Fiul lui Dumnezeu cu îndrăzneală multă. Bucură-te bucuria lumii şi descuietorule al Împărăţiei Cerurilor. Dăruieşte Dar celor ce te cinstesc cu dragoste, şi sărută cu poftă cinstitul tău lanţ. Ca cel ce stai înaintea Scaunului lui Hristos Dumnezeu, Împăratului tuturor, rugăciuni făcând pentru noi cei căzuţi."
+    },
+    "nascatoarea": {
+      "text": "Ochiul inimii mele către tine îl tind Stăpână, nu trece amărâta mea suspinare. În ceasul când va judeca Fiul tău lumea, fii mie acoperământ şi ajutătoare."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-Te răstignit Hristoase, ceea ce Te-a născut striga : Ce taină străină este aceasta care văd Fiul meu ? Cum mori spânzurat pe lemn cu trupul Dătătorule de viaţă."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Roma nepărăsind, la noi ai venit, prin cinstitele lanţuri care ai purtat, cel ce ai fost decât Apostolii mai întâi pe scaun şezător. Cărora cu credinţă închinându-ne ne rugăm : Cu ale tale rugăciuni cele către Dumnezeu, dăruieşte nouă mare milă."
+    }
+  }
+}

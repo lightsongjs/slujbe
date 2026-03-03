@@ -1,0 +1,30 @@
+{
+  "month": 7,
+  "day": 9,
+  "saint": "Sfântul sfinţitul Mucenic Pangratie, Episcopul Tavromeniei.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": "Când de pe lemn,..",
+    "stihiri": [
+      {
+        "text": "Când temeiul Apostolilor înconjurând toată lumea, o a întărit, atunci aflându-te pe tine ca pe o piatră de cinste, te-a pus temelie Bisericii, fericite Părinte, ca să surpi stâlpii şi capiştile cele idoleşti, prin dumnezeiasca putere a Cuvântului, Celui ce bine a voit a se împreuna cu oamenii prin trup."
+      },
+      {
+        "text": "Gonind cu cuvântul duhurile cele viclene ale răutăţii, săvârşeai prin Darul Duhului Sfânt noroadele a fi duhovniceşti, Mucenice Pangratie, ogorând brazda inimilor, şi semănând sămânţa cea dumnezeiască pe care o ai adus plugarului Celui ceresc, rugându-te pentru cei ce cu credinţă te lăudăm."
+      },
+      {
+        "text": "Cu luminările cele înţelegătoare ai făcut apusul răsărit, care poartă Soarele Dumnezeieştii cunoştinţe, Celui ce mai presus de gând ne-a răsărit nouă din Fecioară. Şi apunând Părinte prin pătimire, ai răsărit către lumina cea neînserată; unde dezlegându-se oglinzile, vezi frumuseţea cea dorită a puitorului de pătimirea ta, Pangratie."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Tuturor celor ce aleargă cu credinţă la acoperământul tău cel tare, le părtineşti, ceea ce eşti bună, că nu avem noi pătimaşii altă mijlocitoare pururea către Dumnezeu, la primejdii şi la scârbele noastre, cei ce suntem împilaţi de multe păcate, Maica lui Dumnezeu Celui Preaînalt. Pentru aceea cădem către tine, mântuieşte de toată primejdia pe robii tăi."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzând Preacurată pe Făcătorul tuturor că rabdă multe ocări, şi se înalţă pe Cruce, suspinând ziceai : Prealăudate Doamne, Fiule şi Dumnezeul meu ! Cum suferi necinste cu trupul vrând să cinsteşti zidirea Ta Stăpâne ? Slavă milostivirii celei multe, şi smereniei Tale Iubitorule de oameni."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţă răbdând până la sânge, Sfinţite Mucenice Pangratie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "month": 8,
+  "day": 25,
+  "saint": "Întoarcerea moaştelor Sfântului Apostol Vartolomeu şi Sfântul Apostol Tit.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Pe soarele cel mult-luminos, pe steaua cea neapusă, pe Cerul cel însufleţit care povesteşte slava lui Dumnezeu cea mântuitoare, pe propovăduitorul cel dumnezeiesc, pe luminătorul neamurilor, pe râul care revarsă curgerile cunoştinţei, şi adapă inimile tuturor, pe măritul Vartolomeu curat să-l fericim."
+      },
+      {
+        "text": "Văzutu-s-au cărările tale în mare, Apostole, arătându-se mai presus de mintea omenească; căci cu sicriul împreună fiind aruncat, de la răsărit către apus ai alergat, urmându-ţi de amândouă părţile bine-măriţii Mucenici, şi făcându-ţi cinste prin insuflarea Stăpânului tuturor, Vartolomee Apostole."
+      },
+      {
+        "text": "Cu umblările tale cele minunate, ai sfinţit apa mării, şi ai ajuns către ostrovul Lipariei, izvorând miruri şi patimile cele nevindecate tămăduindu-le, şi mântuitor celor de acolo şi scăpare şi scutitor făcându-te pururea pomenite, către Împăratul şi Mântuitorul tuturor, Vartolomee Apostole."
+      },
+      {
+        "text": "Propovăduind o Dumnezeire în trei Ipostasuri, ai tulburat marea păgânilor cea cu mulţi dumnezei, şi către limanurile cele prea liniştite, pe cei ce înotau în luciul nedumnezeirii, tu i-ai adăpostit. Pentru aceasta ai primit cerească răsplătire, rugând pe Iubitorul de oameni, pentru cei ce te laudă pe tine, Fericite."
+      },
+      {
+        "text": "Cu strălucirile cele dumnezeieşti fiind strălucit la minte, ca o rază împreună ai călătorit Tite, cu soarele cel ce luminează cele întunecate cu Pavel cel dumnezeiesc, şi împreună cu dânsul tot pământul ai mântuit din noaptea cea adâncă. Pentru aceasta te fericim ca pe un Ierarh de Dumnezeu cuprins, ca pe un dumnezeiesc Apostol, ca pe un prea-fierbinte rugător."
+      },
+      {
+        "text": "Pornindu-se de la Crit şi întorcându-se iar întrânsul, ca o neruptă temelie, prin credinţa cea dreaptă întru care s-a fost întărit şi cu zidirea dumnezeieștii puteri celei cereşti, a zidit pe credincioşi, Tit cel fericit, întâiul şezător pe scaunul patriei lui, împreună călătorul cu Pavel, mângâierea credincioşilor."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Prealăudate Vartolomee, pornindu-te de la răsărit, fiind mort de mulţi ani ţi-ai pus pornirea în mare şi cărarea ta în ape multe. Căci drepţii vii sunt în veac, prin orânduiala Învăţătorului tău Hristos Dumnezeul nostru, pe Care roagă-L Apostole, să ni se dăruiască nouă mare milă."
+    },
+    "nascatoarea": {
+      "text": "Fecioară Preacurată, roagă pe Cel ce L-ai născut, ca să miluiască ticălos sufletul meu; şi să mă pună în partea celor aleşi, în ceasul judecăţii, prin bunătatea cea desăvârşită."
+    },
+    "cruciiNascatoarea": {
+      "text": "Ceea ce Te-a născut pe Tine, Hristoase, văzându-Te răstignit, a strigat : Ce taină străină este aceasta care văd Fiul meu ? Cum mori pe lemn spânzurând cu trupul, Dătătorule de viață ?"
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Sfinţilor Apostoli, rugaţi pe Milostivul Dumnezeu ca să dea iertare de greşale, sufletelor noastre."
+    }
+  }
+}

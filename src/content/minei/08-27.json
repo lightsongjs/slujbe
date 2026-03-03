@@ -1,0 +1,34 @@
+{
+  "month": 8,
+  "day": 27,
+  "saint": "Preacuviosul Părintele nostru Pimen.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ce te vom numi...",
+    "stihiri": [
+      {
+        "text": "Ce te vom numi pe tine acum Pimene ? Pildă monahilor şi însuţi lucrător de vindecări, care ai rănit patimile sufletului cu lovirile înfrânării; cetăţean şi împreună vorbitor cu îngerii, locuitorul Mitropoliei celei de sus, lăcaşul bunătăţilor, împodobitorul pustiei; roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom chema pe tine acum Pimene ? Cetăţean al pustiului, şi iubitor al liniştei; împuţinător patimilor, şi povăţuitor pustnicilor, revărsarea învăţăturilor Duhului Celui dumnezeiesc, luminătorul cel neadormit al chibzuirii, lucrător de minuni prea-adevărat, vindecând feluri de patimi; roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Făclie a chibzuirii te-ai făcut, luminând sufletele celor ce cu credinţă se apropie la tine, şi cărarea vieţii arătându-le lor, Înţelepte; pentru aceasta cu laude te fericim, săvârşind sfântă prăznuirea ta, Pimene lauda părinţilor, înfrumusețarea pustnicilor; roagă-te să se mântuiască sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Cuvioase Părinte Pimene, în tot pământul a ieşit vestea isprăvilor tale; pentru aceasta în ceruri ai aflat plata ostenelilor tale, taberele drăceşti ai pierdut, cetele îngereşti ai ajuns, a căror viață fără prihană ai urmat; îndrăznire având către Dumnezeu, cere pace sufletelor noastre."
+    },
+    "nascatoarea": {
+      "text": "Cui te-ai asemănat ticăloase suflete, spre pocăinţă nicicum nedeşteptându-te, şi de foc netemându-te, întru răutăţi petrecând; scoală-te, şi pe cea singură grabnică spre apărare cheamă-o, şi strigă : Fecioară Maică, roagă pe Fiul tău şi Dumnezeul nostru, ca să mă mântuiască pe mine de cursele celui necurat."
+    },
+    "cruciiNascatoarea": {
+      "text": "Mieluşeaua, dacă a văzut pe Mieluşelul său întins pe lemn de bunăvoie prin răstignire, ca o Maică a strigat întru plângere chinuindu-se : Fiul meu, ce este această privire străină ? Cela ce dai viață tuturor ca un Domn, cum mori îndelung-Răbdătorule, Cela ce dai înviere oamenilor ? Proslăvesc multa pogorârea Ta, Dumnezeul meu."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor şi cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; şi te-ai făcut luminător lumii, strălucind cu minunile, Pimene, Părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "month": 12,
+  "day": 27,
+  "saint": "Sfântul Apostol întâiul Mucenic şi Arhidiacon Ştefan. Și Preacuviosul Părintele nostru Teodor însemnatul, fratele lui Teofan făcătorul de Canoane.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Cu Darul Duhului luminându-ţi mintea te-ai arătat la chip ca un înger Ştefane, strălucindu-ți trupul cu strălucirea cea dinlăuntru, şi arătând raza sufletului celor ce priveau; prin care ai dobândit şi privirea la lumină, cerurile cu preamărire deschizându-se ţie, începutul mucenicilor şi lauda."
+      },
+      {
+        "text": "Ca nişte trepte şi scări la cereasca suire, s-au făcut ţie zvârliturile de pietre; prin care suindu-te, ai văzut pe Domnul stând dea-dreapta Tatălui, tinzându-ţi ţie după nume anume cunună, cu dreapta cea de viaţă purtătoare; înaintea Căruia stai aproape ca un bun biruitor, şi început al mucenicilor."
+      },
+      {
+        "text": "Cu semne şi cu minuni şi cu învăţături strălucind, ai stins adunarea celor fărădelege, şi de dânşii fiind ucis şi cu pietre împroşcat, te-ai rugat pentru iertarea celor ce te ucideau, urmând glasului Mântuitorului, întru ale Căruia mâini ţi-ai dat duhul, preasfinţite Ştefane."
+      },
+      {
+        "text": "Peste suferinţele străinătății ți s-au adaos rănile izgonirii Cuvioase, din răutatea celui ce ocârmuia fărădelege scaunul cel după lege, şi cumplit tulbură legile credinţei; care a surpat şi Icoana cea Preacurată a Mântuitorului; pe care cu dumnezeiescul Dar l-ai ruşinat Cuvioase, sluga lui Hristos."
+      },
+      {
+        "text": "Nici temniţa, nici strâmtorarea, nici întunericul cel neluminos, nici bătăile, nici rănile, n-au putut să te despartă pe tine Teodore, de dragostea lui Hristos; nici boala cea cumplită, îndelungată şi nesuferită, nici lipsa hranei, grăitorule de cele dumnezeieşti; ci vitejeşte le-ai răbdat, văzând mai-nainte răsplătirile ostenelilor tale."
+      },
+      {
+        "text": "În loc de supărări odihnă, în loc de dureri desfătare, în loc de întuneric lumină, ţi-a dăruit ţie puitorul de nevoinţe Cel Drept, şi în loc de scris pe fața ta, te-ai scris în cartea vieţii, şi în Biserica celor întâi născuţi împărtăşindu-te întru cele de sus, ai mers cu bucurie către prăznuirea îngerilor."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Împăratului şi Stăpânului tuturor, Celui ce S-a născut pe pământ, cunună preastrălucită se aduce; nu din pietre scumpe făcută, ci din sângiurile sale înflorită ! Ci veniţi o iubitorilor de mucenici, flori de cântări culegând, capetele să ne încununăm, şi cântări cântând să zicem : Cela ce cu înţelepciunea şi cu Darul ţi-ai luminat sufletul, întâiule Mucenice al lui Hristos Dumnezeu, cere nouă pace şi mare milă."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Cu nevoinţă bună te-ai nevoit întăiule Mucenice al lui Hristos şi Apostole, şi păgânătatea tiranilor ai vădit; că cu pietre fiind ucis de mâinile celor fărădelege, cunună ai luat din dreapta cea de sus, şi către Dumnezeu ai glăsuit, strigând : Doamne nu le socoti lor păcatul acesta."
+    }
+  }
+}

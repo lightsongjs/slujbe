@@ -1,0 +1,31 @@
+{
+  "month": 7,
+  "day": 17,
+  "saint": "Sfânta mare Muceniță Marina.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "O preaslăvită minune ! Sprânceana cea înaltă, a celui ce zicea că va pierde pământul şi marea, la pământ o a smerit, o fecioară tânără şi cu totul fără prihană, măiestriile lui biruind. O puterea Crucii şi a Darului ! Care a întărit arătat toată neputinţa noastră. De două ori."
+      },
+      {
+        "text": "Muceniţă Marina preamărită, ceea ce în cereştile lăcaşuri după vrednicie te-ai sălăşluit, cu cetele fecioreşti, şi cu oştile mucenicilor; pe cei ce săvârşesc cu credinţă pomenirea ta, şi se apropie cu căldură la acoperământul tău, mântuieşte-i cu rugăciunile tale, şi le cere iertare de greşeli de la Dumnezeu, şi mântuire şi mare milă. De două ori."
+      },
+      {
+        "text": "Muceniţă Marina prealăudată, nici focul muncilor, nici dulceaţa desfătării, nici bucuriile lumii, nici frumuseţea tinereţilor, nu te-au despărţit de dragostea cea către Hristos, dorind ca să dobândeşti frumuseţea cea mai presus de minte a cinstitului tău Mire; căreia te-ai şi învrednicit, de Dumnezeu fericită. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Cu glas de bucurie, și cu psalmi de cântare, să lăudăm pe Marina Mucenița, că a surpat pe pământ înşelăciunea idolilor, şi pe vrăjmaşul cel împotrivă luptător bărbăteşte sub picioarele sale l-a supus. Pentru aceasta şi săvârşindu-se, la Cer a zburat, pe cap cunună purtând, şi strigând : De Tine Mirele meu doresc, şi a dorului dragoste având, pentru Tine trupul meu focului l-am dat. Să mă sălăşluiesc dar în lăcașurile Tale cele veşnice, unde este lăcaşul celor ce se veselesc."
+    },
+    "nascatoarea": {
+      "text": "Născătoare de Dumnezeu tu eşti viţa cea adevărată, care ai odrăslit Rodul vieţii, ţie ne rugăm : Roagă-te Stăpână cu Mucenița Marina, să se miluiască sufletele noastre."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mieluşeaua Ta, Iisuse, Marina, strigă cu mare glas: Pe Tine, Mirele meu, Te iubesc şi pe Tine căutându-Te, mă chinuiesc şi împreună mă răstignesc, şi împreună mă îngrop cu Botezul Tău; şi pătimesc pentru Tine, ca să împărăţesc întru Tine; şi mor pentru Tine, ca să viez pentru Tine; ci, ca o jertfă fără prihană, primeşte-mă pe mine, ceea ce cu dragoste mă jertfesc Ţie. Pentru rugăciunile ei, ca un milostiv, mântuieşte sufletele noastre."
+    }
+  }
+}

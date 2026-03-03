@@ -1,0 +1,39 @@
+{
+  "month": 11,
+  "day": 10,
+  "saint": "Sfinţii Apostoli Olimpa, Rodion, Sosipatru, Terţiu, Erast, Quart, şi Sfântul Mucenic Orest.",
+  "vecernie": {
+    "glas": 0,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Ca nişte vulturi întraripaţi trecând luminat împlinirea lumii sfinţiţi propovăduitori, pe cei ce erau vânaţi de vrăjmaşul, i-aţi adus la credinţa cea fără prihană. Pentru aceasta rugaţi-vă, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Pe măritul Terţiu şi Sosipatru să-i cinstim cu glasuri sfinţite, pe Olimpa şi Rodion, împreună cu dânşii pe Erast tăinuitorul celor sfinte şi pe dumnezeiescul Quart, slăvind pe Hristos Dumnezeul nostru şi rugându-L pe Dânsul, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Neamurile aţi adus către Hristos Dumnezeu, Fericiţilor, mântuite cu sângele Celui ce bine-a-voit a Se naşte pe pământ şi cu voie să rabde Cruce şi moarte, Căruia rugaţi-vă acum preaînţelepţilor, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Oreste preafericite, cu vopselile sângelui tău, ţi-ai vopsit ţie porfiră, cu care împodobindu-te şi cu cununa biruinţei încununându-te, stai înaintea lui Hristos Celui nemuritor, pe Care roagă-L să dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Cu focul pătimirilor tale înţelepte, ai ars rătăcirea; şi cu picăturile sângelui ai înecat toate taberele vrăjmaşilor şi ai adăpat inimile credincioşilor, care odrăslesc buna-credinţă. Şi acum roagă-te, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Zori ai răsărit strălucind toată lumea, cu razele pătimirilor tale, Oreste mărite, lauda Mucenicilor şi cu Darul gonind întunericul nedumnezeirii. Pentru aceea roagă-te, să se dăruiască sufletelor noastre, pace şi mare milă."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Bucură-te auzire străină Preacurată. Bucură-te lemn sfânt al raiului sădit de Dumnezeu. Bucură-te pierderea dracilor celor vicleni. Bucură-te sabie cu două ascuţişuri, care tai capul vrăjmaşului cu naşterea cea străină. Preasfântă cu totul fără prihană, cheamă-ne pe noi din nou, pe cei înstrăinaţi."
+    },
+    "cruciiNascatoarea": {
+      "text": "Dacă a văzut Mieluşeaua şi Stăpâna cea fără prihană, pe Mieluşelul său pe Cruce, neavând chip nici frumseţe, zicea tânguindu-se : Vai mie ! Unde Ți-a apus frumuseţea Ta preadulce ? Unde este bunacuviinţă ? Unde-ţi este Darul chipului Tău care strălucea ? Fiul meu preaiubite."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Sfinţilor Apostoli, rugaţi pe Milostivul Dumnezeu ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

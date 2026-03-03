@@ -1,0 +1,30 @@
+{
+  "month": 6,
+  "day": 20,
+  "saint": "Sfântul sfinţitul Mucenic Metodie, Episcopul Patarelor.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Luminat a sosit pomenirea ta, Ierarhe Metodie, aducându-ne nouă mijlocire de mântuire; pentru aceea întru dânsa te lăudăm, propovăduind nevoinţele şi luptele tale cele luminate, prin care ai biruit pe cel cu multe meşteşuguri şi viclean, şi ţi-ai împletit cunună de biruinţă, veselindu-te."
+      },
+      {
+        "text": "Cu cuvinte ai luminat plinirea Bisericii, arătătorule de cele dumnezeieşti Metodie; şi cu strălucirea chinuirilor ai micşorat întunericul mulţimii dumnezeilor, şi acum te-ai mutat către Lumina cea neînserată, arătătorule de cele sfinte. Pentru aceasta prăznuim astăzi pomenirea ta cea purtătoare de lumină, luminându-ne cu bună credinţă."
+      },
+      {
+        "text": "Cu sângiurile tale ai vopsit haina cea sfinţită, arătătorule de cele dumnezeieşti, Metodie; cu care ai intrat bucurându-te, în Sfintele Sfintelor, Fericite, şi priveşti luminat dumnezeiască strălucirea Treimii, învăţându-te mai luminat cele mai presus de gând şi de cuget, şi prea-îndumnezeindu-te Ierarhe preafericite."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Pe tine mult-lăudată, palatul cel preacurat al Împăratului, te rog : Curăţeşte gândul meu cel întinat în toate păcatele, şi mă fă lăcaş de veselie Treimii Celei mai presus de Dumnezeire, ca izbăvindu-mă, să slăvesc mijlocirea ta, şi mila cea nemăsurată, eu netrebnicul robul tău."
+    },
+    "cruciiNascatoarea": {
+      "text": "Preacurata, văzând pe Hristos, Iubitorul de oameni răstignindu-Se şi cu suliţa împungându-Se în coastă, plângea strigând : Ce este aceasta Fiul meu ? Ce răsplătire Ți-a dat norodul cel nemulţumitor, pentru binele ce ai făcut lor; şi Te grăbeşti preaiubite să mă faci fără de Fiu ? Mă spăimântez Cuvinte de răstignirea Ta cea de bunăvoie."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Sângele tău ca al lui Abel tăinuit strigă de pe pământ către Dumnezeu, de Dumnezeu înţelepte Ierarhe Metodie, cel ce ai propovăduit întruparea lui Dumnezeu; pentru aceasta ai şi ruşinat înşelăciunea lui Origen, şi te-ai mutat în cămara cea cerească; roagă-te lui Hristos Dumnezeu, să se mântuiască sufletele noastre."
+    }
+  }
+}

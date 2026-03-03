@@ -1,0 +1,33 @@
+{
+  "month": 6,
+  "day": 2,
+  "saint": "Cel dintru sfinţi Părintele nostru Nichifor mărturisitorul, patriarhul Constantinopolului şi Sfântul marele Mucenic Ioan cel nou de la Suceava, a cărui slujbă s-a așezat după slujba Sfântului Nichifor.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Pe tine te cunoaştem întărire adevărului, şi reazem credinţei, părtinitor dogmelor şi ajutor bunei credinţe, şi sălăşluire curăţiei, şi vas ales de bună mireasmă Duhului, şi vistierie preamare a învăţăturilor, şi temei Bisericii lui Hristos, arătătorule de cele dumnezeieşti de Dumnezeu insuflate."
+      },
+      {
+        "text": "Pe tine te lăudăm Ierarhe, ca pe un moştenitor al Apostolilor, şi părtaş obiceiurilor pătimitorilor, şi ca pe un asemenea râvnitor sihaştrilor, şi ca pe o pecete a învăţătorilor, şi închipuire dumnezeiască şi tainică a lui Hristos, şi ca pe un râu de vindecări, de Dumnezeu curgător, care acoperă cugetele cele fărădelege şi hulitoare Ierarhe preaînţelepte, Fericite."
+      },
+      {
+        "text": "Înmulţind talantul înţelepciunii, Preafericite, te-ai învrednicit bucuriei Domnului tău, fiind împodobit cu Darul Dumnezeieştii străluciri, şi lucind cu raza Duhului cea înţelegătoare, stai acum dea-dreapta Cea purtătoare de viaţă, neîncetat strălucind cu luminile cele cereşti, mărite Nichifore."
+      },
+      {
+        "text": "Pe tine te fericesc, Fecioară Preacurată, ca pe ceea ce ai ridicat pe oameni din adâncul răutăţii şi al necunoştinţei. Lăudându-te pe tine dumnezeiască Mireasă, cea pururea fericită, slăvesc cinstită şi negrăită naşterea ta; că ai născut pe Mântuitorul lumii, şi ai izbăvit omenirea de blestemul cel strămoşesc."
+      },
+      {
+        "text": "Doamne, dacă Te-a văzut Fecioara şi Maica Ta pe Cruce spânzurând, spăimântându-se şi privind, zicea : Ce ţi-au răsplătit cei ce au dobândit darurile Tale cele multe Stăpâne ? Ci rogu-mă, nu mă lăsa singură în lume, ci grăbeşte de înviază, împreună sculând pe strămoşi."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Doamne, dacă Te-a văzut Fecioara şi Maica Ta pe Cruce spânzurând, spăimântându-se şi privind, zicea : Ce ţi-au răsplătit cei ce au dobândit darurile Tale cele multe Stăpâne ? Ci rogu-mă, nu mă lăsa singură în lume, ci grăbeşte de înviază, împreună sculând pe strămoşi."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării, te-a arătat pe tine, turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Nichifor, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "month": 10,
+  "day": 31,
+  "saint": "Sfinţii Apostoli, Stahie, Amplie, Urban, Aristobul şi Narcis, şi Sfântul Mucenic Epimah.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria cetelor...",
+    "stihiri": [
+      {
+        "text": "Peste tot pământul a alergat mântuitoarea voastră vestire, Apostoli ai Domnului, luminând inimile tuturor cu lumina Harului, slăviţilor, şi risipind negura înşelăciunii. Pentru aceasta rugaţi-vă, să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Stahie preafericitul propovăduitor şi Apostol al lui Hristos, Apeli minunatul şi Aristobul, Urban, Amplie şi dumnezeiescul Narcis propovăduind pe Preasfânta Treime, au luminat neamurile şi le-au scos din robie. Pe toţi aceştia să-i fericim cu credinţă."
+      },
+      {
+        "text": "Luminători prealuminaţi, vase preacurate ale lui Hristos, în care a încăput cu credinţă toată lumina Duhului; stâlpii Bisericii, ceruri preaslăvite, care vestiţi slava lui Dumnezeu, Acestuia vă rugaţi, să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Frumuseţile Cerului poftind, Slăvite, întru nimica ai socotit preţul celor vremelnice. Pentru aceasta vieţuind asemenea ca îngerii în trup, ca şi cum ar fi fost fără trup, vitejeşte ai răbdat muncile cele de multe feluri ale tiranilor, Epimahe."
+      },
+      {
+        "text": "În cămările cereşti dănţuind Slăvite, şi îndulcindu-te de slava Stăpânului tuturor, Epimahe de trei ori fericite; roagă-L pe El pentru noi cei ce te cinstim pe tine; ca să dobândim desfătarea cea veşnică, şi bucuria cea dimpreună cu îngerii."
+      },
+      {
+        "text": "Luminător prealuminat te-ai arătat Mucenice Epimahe, luminând celor dintru întuneric; pe cei biruiţi mai dedemult de negura necunoştinţei, luminându-i cu învăţăturile tale cele sfinţite; şi pătimind după lege pentru Hristos, ai luat cununa biruinţei."
+      }
+    ],
+    "slava": {
+      "glas": 5,
+      "text": "Cu cântări dumnezeieşti, adunându-ne împreună să lăudăm cu credinţă pe Amplie văzătorul de Dumnezeu, şi pe Aristobul şi pe Narcis, pe Stahie şi Urban, şi pe Apeli. Căci aceştia înconjurând toată lumea, cu lumina dreptei-credinţe au pierdut întunericul cel adânc al relei-credinţe; şi surpând capiştile idolilor, au zidit lăcaşuri spre slava lui Dumnezeu; Căruia se şi roagă pururea, să dăruiască lumii un cuget, pace şi mare milă."
+    },
+    "nascatoarea": {
+      "text": "Bucură-te uşa lui Dumnezeu ! Bucură-te Fecioară curată cu totul fără prihană ! Bucură-te Stăpâna şi folositoarea lumii ! Bucură-te zidul şi scăparea, şi acoperitoarea neamului nostru."
+    },
+    "cruciiNascatoarea": {
+      "text": "Fecioara Maică, şi prunca cea fără prihană, văzând oarecând, pe Mielul său pe Cruce înălţat plângând, striga : Vai mie Fiul meu ! Cum mori, fiind cu firea Dumnezeu fără de moarte."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Sfinţilor Apostoli rugaţi pe milostivul Dumnezeu, ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

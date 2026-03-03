@@ -1,0 +1,33 @@
+{
+  "month": 6,
+  "day": 3,
+  "saint": "Sfântul Mucenic Luchilian.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Fiii ucigaşilor Domnului cei cumpliţi, topindu-se de zavistie, te-au pârât pe tine, Mărite; iar tu îmbărbătându-te cu nebiruire, ai primit desfătarea raiului, o Luchiliane ! Pentru aceasta roagă-te lui Hristos, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Tinerii cei preasfinţiţi ascultând de tine ca de un Părinte al lor, au pătimit împreună cu tine foarte tare, precum şi pururea pomenita şi Cuvioasa Paula Mucenița. Cu care împreună acum locuieşti în ceruri, Mucenice vrednicule de minune ! Roagă-te lui Hristos, să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Sicriul tău totdeauna izvorăşte ape de tămăduiri, celor ce aleargă către tine Mucenice mult-pătimitorule, şi spală patimi şi îneacă cetele dracilor, cu ajutorul Duhului. Pentru aceasta roagă-te să se dăruiască sufletelor noastre, pace şi mare milă."
+      },
+      {
+        "text": "Miluieşte-mă Preacurată pe mine osânditul, pe cel fără de răspuns, cel lepădat şi ticălos, şi nu mă ruşina, ci apucă înainte degrabă, şi mă mântuieşte, când va vrea Domnul să judece toată lumea, şi mă răpeşte de la iadul cel greu căci poţi Preacurată, câte voieşti."
+      },
+      {
+        "text": "Dacă a văzut Fecioara pe Hristos spânzurat pe lemn, zicea : Sabie a trecut prin inima mea Fiule, şi o sfărâmă Stăpâne, precum dedemult mi-a zis mai-nainte Simeon; ci scoală-Te, şi mă slăveşte împreună cu Tine, nemuritorule, pe mine Maica şi roaba Ta, rogu-te."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Dacă a văzut Fecioara pe Hristos spânzurat pe lemn, zicea : Sabie a trecut prin inima mea Fiule, şi o sfărâmă Stăpâne, precum dedemult mi-a zis mai-nainte Simeon; ci scoală-Te, şi mă slăveşte împreună cu Tine, nemuritorule, pe mine Maica şi roaba Ta, rogu-te."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

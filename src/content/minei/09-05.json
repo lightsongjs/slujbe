@@ -1,0 +1,34 @@
+{
+  "month": 9,
+  "day": 5,
+  "saint": "Sfântul Prooroc Zaharia, Tatăl Mergătorului înainte şi Botezătorului Ioan.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Când de pe lemn...",
+    "stihiri": [
+      {
+        "text": "Fiind împodobit cu ungere și cu podoabă dumnezeiască, dea-pururea pomenite Zaharie, ca un înger ai slujit lui Dumnezeu, cele Sfinte, mijlocind Ziditorului şi zidirii, şi primind de faţă arătările Dumnezeiescului Duh. Pentru aceea te fericim, şi astăzi săvârşind prăznuirea ta, mărim pe Mântuitorul."
+      },
+      {
+        "text": "Prunc ai văzut zămislit în Fecioară, pe Cel dimpreună cu Tatăl fără de început, Zaharie de Dumnezeu insuflate şi de faţă spui mai-nainte pruncului tău : Prooroc vei fi cu adevărat, gătind căile Lui; cu care dimpreună te fericim, şi cu sfinţenie prăznuim cinstită prăznuirea ta, purtătorule de Dumnezeu, Preafericite."
+      },
+      {
+        "text": "Lăcaş viu şi însufleţit eşti Dumnezeiescului Duh, şi fiind împreunat cu Dumnezeu prin inimă curată, Mărite, în mijlocul Bisericii fără dreptate te-ai junghiat, plinindu-ţi călătoria cea dumnezeiască ca un Mucenic, vrednicule de laudă; pentru aceea te-ai suit către Biserica cea cerească prin sângele tău, cerând iertare sufletelor noastre."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "Fiind îmbrăcat cu podoaba preoţiei celei după lege cu adevărat, slujeai după rânduiala lui Aaron, şi înainte stând în biserică, ai văzut de faţă chip îngeresc preafericite; pentru aceea cu toţii cântând pristăvirea ta Zaharie, după datorie cu cântări te lăudăm pe tine, care în bătrâneţe, ai odrăslit pe măritul Ioan. Roagă-te pentru noi Înduratului Dumnezeu să ne mântuim toţi."
+    },
+    "nascatoarea": {
+      "text": "Cu adevărat a covârşit peste capul meu, mulţimea fărădelegilor mele Preacurată, şi nelegiuirile mele prea s-au înmulţit; şi m-am însărcinat cu poveri nesuferite, eu ticălosul şi neîndreptatul. Ci tu Fecioară cu rugăciunea ta cea fierbinte, apucă înainte şi mă mântuieşte, ceea ce singură eşti îndreptarea păcătoşilor."
+    },
+    "cruciiNascatoarea": {
+      "text": "Răbdând multe dureri, la răstignirea Fiului şi Dumnezeului tău Preacurată suspinai, lăcrimând şi strigând : Vai mie preadulcele meu Fiu ! Cum pătimeşti fără dreptate, vrând să mântuieşti pe toţi pământenii cei din Adam. Drept aceea Preasfântă Fecioară, pe tine te rugăm cu credinţă, fă-ni-l nouă pe El binevoitor."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Cu haina preoţiei fiind îmbrăcat înţelepte, după legea lui Dumnezeu jertfă primită, după cuviinţa preoţiei, ai adus Zaharie. Şi ai fost luminător, şi văzător de cele de taină, semnele darului întru tine purtând arătat preaînţelepte, şi cu sabia omorât fiind în Biserica lui Dumnezeu, al lui Hristos Proorocule. Cu Mergătorul înainte roagă-te, să se mântuiască sufletele noastre."
+    }
+  }
+}

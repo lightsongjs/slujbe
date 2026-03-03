@@ -1,0 +1,43 @@
+{
+  "month": 10,
+  "day": 18,
+  "saint": "Sfântul Apostol şi Evanghelist Luca.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Bucură-te cămara...",
+    "stihiri": [
+      {
+        "text": "Ce te voi numi pe tine Apostole ? Cer ? Că mărirea lui Dumnezeu ai vestit : Fulger ? Că lumea luminezi cu strălucirea : Nor ? Că slobozeşti din tine ape dumnezeieşti. Pahar de înţelepciune prea-îndumnezeit ? Care izvorăşti nouă vinul, cel ce veseleşte inimile : Roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te voi numi pe tine acum de Dumnezeu primite ? Pârâul ce iese nouă din Rai ? Sicriul legii, care a aşezat Hristos ? Luminător, care străluceşte nouă lumină înţelegătoare ? Făclie, care luminezi Biserica ? Pâinea vieţii, dumnezeiască masă ? Paharul Dumnezeiescului Duh ? Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te voi numi pe tine acum de Dumnezeu văzătorule ? Slujitor tainelor lui Hristos prealucrător ? Mai mare meşter înţelept al cortului celui înţelegător, care tai tăbliţele cele de piatră ale Darului ? Şi legea cea mai nouă ai scris, care iese din Sion, şi prin tine s-a propovăduit. Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te voi numi pe tine acum lăudate ? Vistierie tare a cereştilor daruri ? Doctor sufletelor, şi trupurilor prea cu osârdie ? Împreună-lucrător cu Pavel şi împreună călător ? Scriitor faptelor Apostolilor ? Luca ! Multe nume ţi-a făcut lucrarea bunătăţii. Roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te voi numi pe tine acum de Dumnezeu grăitorule ? Ucenic că bine ai vestit nouă pe Hristos. Doctor ? Că patimile sufletelor tămăduieşti. Sfeşnic, care străluceşti nouă lumină înţelegătoare ? Treaptă şi temei credinţei ? Căci tu ne-ai scris nouă preacinstita Evanghelie. Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te voi zice pe tine acum minunate ? Văzător nemincinos de învăţăturile înţelepciunii ? Scriitor de învăţătura faptelor Apostolilor, sau stâlp neclintit al creştinătăţii ? Sau turn al Bisericii nesurpat ? Multe sunt numirile tale, dar mai multe sunt darurile. Roagă-te să se mântuiască sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Apostole al lui Hristos, şi scriitorule al dumnezeieştilor dogme, şi întărirea Bisericii, tu cu adevărat inimile cele ce erau în negura necunoştinţei, care apusese întru adâncul pierzării, le-ai tras cu cuvântările de Dumnezeu, mântuindu-le ca dintr-un val de vifor, următor fiind lui Pavel vasului alegerii, încă şi ucenic. Pentru aceasta te rugăm pe tine Luca, cel ce eşti vrednic de minuni, frumuseţea Antiohienilor. Roagă-te Mântuitorului şi Dumnezeu, pentru cei ce săvârşesc cu credinţă pururea cinstită pomenirea ta."
+    },
+    "nascatoarea": {
+      "text": "Făcătorul şi Mântuitorul meu Preacurată, Hristos Domnul, din pântecele tău ieşind, întru mine îmbrăcându-Se, din blestemul cel dintâi pe Adam l-a slobozit. Pentru aceasta ţie Preacurată, ca Maicii lui Dumnezeu şi Fecioarei cu adevărat, strigăm fără de tăcere ca îngerul : Bucură-te ! Bucură-te Stăpână, folositoarea şi Acoperământul, şi mântuirea sufletelor noastre."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole sfinte şi Evangheliste Luca, roagă pe milostivul Dumnezeu, ca să dea iertare de greşale sufletelor noastre."
+    },
+    "troparNascatoarea": {
+      "text": "Pe tine, ceea ce ai mijlocit mântuirea neamului nostru, te lăudăm, Născătoare de Dumnezeu, Fecioară; căci, cu trupul cel luat din tine, Fiul tău şi Dumnezeul nostru, prin Cruce răbdând patimă, ne-a izbăvit pe noi din stricăciune, ca un Iubitor de oameni."
+    }
+  }
+}

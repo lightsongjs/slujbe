@@ -1,0 +1,31 @@
+{
+  "month": 12,
+  "day": 5,
+  "saint": "Cuviosul şi de Dumnezeu purtătorul Părintele nostru Sava cel sfinţit.",
+  "vecernie": {
+    "glas": 5,
+    "podobia": "Bucură-te cămara...",
+    "stihiri": [
+      {
+        "text": "Savo de Dumnezeu înţelepţite, întocmai cu îngerii stătătorule, împreună cu Cuvioşii locuitorule, împreună vorbitorule cu Proorocii, cu Apostolii şi cu Mucenicii împreună moştenitorule; tu cela ce acum locuieşti în Lumina cea neînserată cu ale Căruia dumnezeieşti raze străluceşti, cu cea preaînaltă dorire. Căruia stându-i înainte strălucit cu îndrăzneală, îndulcindu-te de vederile Lui şi desfătându-te de frumuseţea Lui neîncetat; lui Hristos te roagă, pe Hristos îmblânzeşte-L, Cuvioase, să dăruiască Bisericii un cuget, pace şi mare milă. De trei ori."
+      },
+      {
+        "text": "Savo preafericite, făclia înfrânării cea nestinsă, luminătorul călugărilor cel prealuminat, cel strălucit cu razele dragostei, stâlpul răbdării cel neclintit, întărirea şi puterea celor ce te cinstesc pe tine cu credinţă, izvorul tămăduirilor, locuitorul pustiei cu adevărat, care ca un rai dumnezeiesc o ai arătat; aducând dumnezeieşti roduri pe cei ce se mântuiesc. Lui Hristos te roagă, pe Hristos îmblânzeşte-L Cuvioase, să dăruiască Bisericii un cuget pace şi mare milă. De trei ori."
+      },
+      {
+        "text": "Savo de Dumnezeu înţelepţite, stâlpul cel de foc al faptelor bune, făclia care povăţuieşti din marea lumească pe popoare la dumnezeiescul liman. Cela ce duhurile înşelăciunii le surpi; lăcaşul Duhului Sfânt cel curat, îndreptătorul călugărilor, cumpăna înfrânării cea dreaptă, înălţarea smereniei cea prealuminată, izvorule care izvorăşti noianuri de tămăduiri; lui Hristos te roagă, pe Hristos îmblânzeşte-L Cuvioase, să dăruiască Bisericii un cuget pace şi mare milă. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Pe cel după chip păzindu-l nevătămat, mintea punându-ţi stăpân pustniceşte peste patimile cele pierzătoare, spre Cel după asemănare cât este după putinţă te-ai suit. Că bărbăteşte silindu-ţi firea, te-ai nevoit a supune pe cel mai rău celui mai bun, şi pe trup a-l face rob duhului. Pentru aceasta călugărilor te-ai arătat mai mare cetăţean pustiei, povăţuitor celor ce bine călătoresc, şi canon de faptă bună prea adevărat. Şi acum în ceruri, oglinzile dezlegându-se, Fericite, vezi curat pe Sfânta Treime; şi te rogi fără mijlocire, pentru cei ce cu credinţă şi cu dragoste te cinstesc pe tine."
+    },
+    "nascatoarea": {
+      "text": "Fecioară nenuntită, care pe Dumnezeu negrăit L-ai zămislit cu trup, Maica Dumnezeului Celui Preaînalt, rugăciunile robilor tăi primeşte-le, ceea ce eşti cu totul fără prihană; care dăruiești tuturor curăţire de greşeli, primind acum rugăciunile noastre, roagă-te să ne mântuim noi toţi."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Cu curgerile lacrimilor tale nerodirea pustiului o ai lucrat, şi cu suspinurile cele dintru adânc, spre însutite osteneli ai făcut roditoare; şi te-ai făcut luminător lumii, strălucind cu minunile, Sava Părintele nostru, Cuvioase ! Roagă-te lui Hristos Dumnezeu, să mântuiască sufletele noastre."
+    }
+  }
+}

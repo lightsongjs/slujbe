@@ -1,0 +1,33 @@
+{
+  "month": 5,
+  "day": 26,
+  "saint": "Sfântul Apostol Carp, unul din cei şaptezeci de Apostoli.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Fiindu-ți cugetul primitor de străluciri dumnezeieşti, te-ai luminat, Preafericite, şi ai ieşit la propovăduirea lui Hristos, şi ai învăţat poporul a-l cinsti pe Dânsul ca pe un iubitor de oameni. Şi acum roagă-te, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Arătându-te stea prealuminoasă, cu străluciri dumnezeieşti, luminezi cu învăţături totdeauna marginile lumii, Preafericite, şi cu Darul risipeşti pururea negura bolilor. Şi acum roagă-te, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Jertfind lui Dumnezeu prea desăvârşit jertfă fără de sânge, te-ai jertfit pentru Dânsul, Mucenice, şi la masa cea înţelegătoare te-ai adus jertfă bine mirositoare, o Apostole Carpe, de Dumnezeu cuprinsule. Pentru aceea roagă-te, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Prealăudată Stăpână, nădejdea şi întărirea credincioşilor, scăpare şi ajutor, pe tine te rugăm, păzeşte de toată nevoia pe robii tăi cei ce cu credință se închină Fiului tău, pe Care roagă-L, ca să dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Pe Mieluşelul, Mieluşeaua şi prea nevinovata Stăpână, dacă L-a văzut pe Cruce neavând chip nici frumuseţe, vai mie ! plângând a grăit : Unde a apus frumuseţea Ta preadulcele meu Fiu; unde-Ți este buna cuviinţă; unde-Ți este Darul cel strălucitor al feţei Tale, preaiubitul meu Fiu ?"
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Pe Mieluşelul, Mieluşeaua şi prea nevinovata Stăpână, dacă L-a văzut pe Cruce neavând chip nici frumuseţe, vai mie ! plângând a grăit : Unde a apus frumuseţea Ta preadulcele meu Fiu; unde-Ți este buna cuviinţă; unde-Ți este Darul cel strălucitor al feţei Tale, preaiubitul meu Fiu ?"
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "Apostole sfinte Carpe, roagă pe Milostivul Dumnezeu ca să dea iertare de greşale sufletelor noastre."
+    }
+  }
+}

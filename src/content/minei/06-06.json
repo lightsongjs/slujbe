@@ -1,0 +1,33 @@
+{
+  "month": 6,
+  "day": 6,
+  "saint": "Preacuviosul Părintele nostru Visarion făcătorul de minuni, şi Preacuviosul Ilarion cel nou, egumenul Mânăstirii Dalmaţiei.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Dat-ai semn...",
+    "stihiri": [
+      {
+        "text": "Viaţă neîntinată, răbdare şi blândeţe, şi dragoste curată, şi înfrânare fără măsură, stare de toată noaptea, umilinţă dumnezeiască, credinţă, nădejde adevărată cu milostivire agonisind, fericite Părinte Ilarioane, ai vieţuit ca un înger pe pământ cu trupul, rugătorule pentru sufletele noastre."
+      },
+      {
+        "text": "Înger pământesc, şi om ceresc ai fost Cuvioase, izvor de umilinţă, pârâu de milostivire, noian de minuni, chezaş al păcătoşilor, măslin al lui Dumnezeu cu adevărat prea-roditor, care cu untul-de-lemn al ostenelilor tale, netezeşti feţele celor ce cu credinţă te laudă pe tine, fericite Ilarioane."
+      },
+      {
+        "text": "De dumnezeieşti insuflări luminându-ţi-se cugetul, s-a făcut mai presus de patimile trupeşti, care purta chipuri neamestecate cu cele de jos, şi însemna în sineşi frumuseţea cea dumnezeiască, cunoscându-se cu totul prealuminos cu lucrarea Duhului, Ilarioane Părintele nostru, podoaba sihaştrilor."
+      },
+      {
+        "text": "Pe tine palatul cel preacurat al Împăratului, te rog, ca pe una ce eşti mult-lăudată, curăteşte-mi mintea mea cea cu totul întinată de toate păcatele, şi mă fă veselă sălăşluire Treimii Celei prea-îndumnezeite, ca mântuindu-mă, să slăvesc puterea ta şi mila cea nemăsurată, eu sluga ta cea netrebnică."
+      },
+      {
+        "text": "Dacă Te-a văzut pe Tine Iubitorule de oameni, ceea ce Te-a născut, înălţându-Te pe Cruce, strigând, zicea : Acestea ţi-au răsplătit Ție, Stăpâne, cei ce sau îndulcit de darurile Tale cele multe ? Ci mă rog, nu mă lăsa pe mine singură în lume, ci grăbeşte, de înviază, ca să scoli dimpreună pe strămoşi."
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Dacă Te-a văzut pe Tine Iubitorule de oameni, ceea ce Te-a născut, înălţându-Te pe Cruce, strigând, zicea : Acestea ţi-au răsplătit Ție, Stăpâne, cei ce sau îndulcit de darurile Tale cele multe ? Ci mă rog, nu mă lăsa pe mine singură în lume, ci grăbeşte, de înviază, ca să scoli dimpreună pe strămoşi."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor şi cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; şi te-au făcut luminător lumii, strălucind cu minunile, Ilarioane, Părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "month": 1,
+  "day": 5,
+  "saint": "Înainte prăznuirea Botezului Domnului. Şi Sfinţii Mucenici Teopempt şi Teona, şi Cuvioasa Singlitichia.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "A treia zi ai înviat Hristoase...",
+    "stihiri": [
+      {
+        "text": "Pe Teona şi pe Teopempt înţelepţii să-i lăudăm; că învăţăturilor lui Hristos plecându-se, şi toată închinăciunea cea necuvioasă arătat stricând, cea sfântă şi cinstită cu îndrăzneală a mărturisit, pe unul Domnul şi Dumnezeu înaintea feţei tiranilor, cu bună nădejde cinstind şi încununându-se de sus."
+      },
+      {
+        "text": "Viaţa cea râvnitoare de cele de jos, şi pofta desfătării, şi strălucirea cea înflorită, lăsându-o ca trecătoare măriţilor, de Hristos v-aţi lipit, cu podoaba Lui cea frumoasă aprinzându-vă, şi v-aţi adus ca nişte dulci mirositori trandafiri şi cu cununa nestricatei împărăţii, prin dumnezeiască cuviinţă v-aţi încununat."
+      },
+      {
+        "text": "Cei ce aţi urât lumea, mai presus de lume v-aţi arătat şi în Biserica celor întâi născuţi v-aţi împreunat, şi împreună cu îngerii cântaţi, cântare nestricăcioasă, înaintea lui Dumnezeu stând împreună, şi înşelăciunea idolilor cea fărădelege stricând, nebunia muncitorilor, muceniceşte aţi defăimat."
+      },
+      {
+        "text": "De mărirea părinţilor dorind cu adevărat, mărirea cea nestricăcioasă o ai iubit. Pentru aceasta depărtându-te de desfătări, trupul tău la toate durerile ţi-ai dat, şi acum ai luat răsplătirile durerilor, împreună cu Hristos împărăţind."
+      },
+      {
+        "text": "Cela ce pe Iov l-a lăsat celui ce l-a cerut, şi tu vrând să te lămureşti ca nişte aur, ţi-ai lăsat trupul tău să pătimească de silnicia celui rău. Pentru aceasta ruşinând tu pe ispititorul prin răbdarea neputinţelor, cu cununa biruinţei te-ai încununat."
+      },
+      {
+        "text": "Frumoasă podoaba Mirelui Hristos poftind, şi a te face Mireasă lui tu voind, cu toate felurile bunătăţilor prin durerile sihăstriei, pe tine te-ai împodobit. Pentru aceasta acum cu Dânsul, împărăţeşti întru cămara Lui."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Găteşte-te Iordane râule, că iată vine Hristos Dumnezeu să se boteze de la Ioan ca să sfărâme cu Dumnezeirea capetele balaurilor cele nevăzute în apele tale. Bucură-te pustiul Iordanului. Munţilor săltaţi cu veselie, că vine veşnica Viaţă să cheme pe Adam, glasul Strigătorului strigă, o Ioane Mergătorule înainte : Gătiţi căile Domnului, şi cărările Lui drepte să le faceţi."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

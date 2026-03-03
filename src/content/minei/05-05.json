@@ -1,0 +1,24 @@
+{
+  "month": 5,
+  "day": 5,
+  "saint": "Sfânta marea Muceniță Irina.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Cu porfiră luminată din sângele tău, fiind îmbrăcată preacinstită, ai alergat către Cel ce ai dorit, Împăratul, Ziditorul şi Domnul a toată lumea, şi de la Dânsul adevărat ai primit cununa biruinței, împărățind acum împreună cu Dânsul, ca o fecioară şi Muceniță mult pătimitoare."
+      },
+      {
+        "text": "Pornirea focului celui arzător, şi toate sfâşieturile trupului le-ai suferit prealăudată, uitându-te la răsplătirile cele de acolo, pe care singur Iisus le-a gătit mai-nainte, celor ce l-au iubit, şi cu fierbinţeală au dorit spre Dânsul, ca spre un Mire preafrumos al sufletelor."
+      },
+      {
+        "text": "Rănitu-te-ai de dragostea lui Hristos, şi ai urât pe dumnezeii, şi pe idolii cei fără suflet ai păgânilor, mărită Irino, şi te-ai ridicat pe sineţi stâlp de cunoştinţă lui Dumnezeu, prea-arătat la cei ce te vedeau, ca una ce te-ai chinuit, şi călătoria o ai săvârşit, şi credinţa fără prihană o ai păzit."
+      }
+    ],
+    "tropar": {
+      "glas": 4,
+      "text": "Mieluşeaua Ta, Iisuse, Irina, strigă cu mare glas : Pe Tine, Mirele meu, Te iubesc şi pe Tine căutându-Te, mă chinuiesc şi împreună mă răstignesc, şi împreună mă îngrop cu Botezul Tău; şi pătimesc pentru Tine, ca să împărăţesc întru Tine; şi mor pentru Tine, ca să viez pentru Tine; ci, ca o jertfă fără prihană, primeşte-mă pe mine, ceea ce cu dragoste mă jertfesc Ţie. Pentru rugăciunile ei, ca un milostiv, mântuieşte sufletele noastre."
+    }
+  }
+}

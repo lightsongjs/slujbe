@@ -1,0 +1,30 @@
+{
+  "month": 11,
+  "day": 5,
+  "saint": "Sfinţii Mucenici Galaction şi Epistimi.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "O preaslăvită minune...",
+    "stihiri": [
+      {
+        "text": "Fiind hrănit cu laptele credinţei, prin multe chinuri şi nevoi, te-ai făcut următor lui Hristos, Galactioane; făcându-te jertfă plăcută şi junghiere deplin cu îndrăznire de bunăvoie, Fericite. O ! cât este de adeverită şi întărită credinţa ! Prin care îndumnezeindu-te, acum ai aflat pe Dumnezeu mai desăvârşit."
+      },
+      {
+        "text": "Cu ştiinţă deplină, ai căutat izvorul bunătăţilor, dorirea cea desăvârşită; luminându-ţi-se şi sufletul şi cugetul cu luminările lui, fericită de Dumnezeu, şi ai surpat pe balaurul cel învechit cu multe măiestrii, cu împotrivirile tale cele tari, ceea ce eşti dumnezeiască podoaba sihaştrilor, Muceniţă mult-pătimitoare."
+      },
+      {
+        "text": "Doi luminători prea-aleşi ai Răsăritului celui înţelegător strălucesc prin Dar, şi toată făptura o luminează prin buna-credinţă, cu lumina prea-aleasă a patimilor, şi cu străluciri dumnezeieşti de vindecări. Al cărora praznicul cel prealuminat cinstindu-l, slăvim pe Hristos, Care sfinţeşte pe toţi prin mijlocirea lor."
+      }
+    ],
+    "nascatoarea": {
+      "text": "Vino suflete al meu suspinând, izvorând din inimă pâraie de lacrimi, strigă către Fecioara şi Maica Dumnezeului nostru : Pentru mulţimea îndurărilor tale, Preacurată, izbăveşte-mă de iadul cel groaznic, şi mă sălăşluieşte unde este odihna şi bucuria cea veşnică şi desfătarea."
+    },
+    "cruciiNascatoarea": {
+      "text": "O preaslăvită minune ! O taină înfricoşată ! O lucru de spăimântare ! Zicea Fecioara, dacă Te-a văzut spânzurat pe Cruce în mijlocul a doi tâlhari, pe Tine, Care Te-a născut fără de durere minunat. Plângea, zicând : Vai mie Fiule preaiubite ! Cum Te-a pironit pe Cruce poporul cel cumplit şi nemulţumitor."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

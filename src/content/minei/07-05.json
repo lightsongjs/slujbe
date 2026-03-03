@@ -1,0 +1,34 @@
+{
+  "month": 7,
+  "day": 5,
+  "saint": "Preacuviosul şi de Dumnezeu purtătorul Părintele nostru Atanasie cel din Aton, şi Preacuviosul Părintele nostru Lampadie făcătorul de minuni.",
+  "vecernie": {
+    "glas": 2,
+    "podobia": "Cu ce cununi de laudă...",
+    "stihiri": [
+      {
+        "text": "Care laudă de cântări să aducem lui Atanasie ? Celui împodobit cu faptele, şi îmbogăţit cu darurile vărsării de lumina cea luminată de Dumnezeu; sabie, care taie pornirile patimilor; stâlp, care străluceşte prin gând cu privirea sfeşnicului înfrânării, ce străluceşte în luminătorul sufletului, cu porunca lui Dumnezeu, Celui ce dă viaţă tuturor. De trei ori."
+      },
+      {
+        "text": "Cu ce cununi de cuvinte vom încununa noi nevrednicii pe Atanasie ? Pe călăreţul cel cu călătoria prin văzduh, care se înalţă de umblă pe Cer cu dumnezeieştile aripi ale privirilor; pe turnul smereniei cel nesfărâmat; pe zidul chibzuinţei cel nemişcat; bunăcuviinţa cea cinstită a obiceiurilor celor cu bună podoabă, pe cel ce se roagă pentru fiii săi lui Hristos Dumnezeu, Celui ce singur este milostiv. De trei ori."
+      },
+      {
+        "text": "Zori pururea luminate te-ai arătat Cuvioase, luminător darurilor, care trage pe cei orbiţi de patima negurii către lumina cea neînserată, Părinte Atanasie cugetătorule de Dumnezeu. Drept aceea ca pe unul ce ai înmulţit talantul, te-a arătat pe tine Hristos tămăduitor sufletelor, cela ce cu sabia cuvintelor tai putrejunea rănilor celor nevindecate şi dai sănătate de mântuire, celor ce se apropie de tine. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Cât este de îndumnezeită viaţa ta, şi sfârşitul tău cu totul sfinţit, Părinte Atanasie, că la acesta adunându-se toată mulţimea muntelui, dacă te-a văzut pe tine în pat fără suflare, strigă cuvinte de jale : Dă cuvântul cel de pe urmă slugilor tale, sfinte; învaţă unde-ţi laşi pe fiii tăi Părinte, pe care cu adevărat ca un tată milostiv, şi iubitor de fii, i-ai miluit. Deci măcar că aici te acoperi în mormânt, dar toţi te avem sus, bogată părtinire şi rugător către Dumnezeu, noi cei ce te cinstim cu dragoste."
+    },
+    "nascatoarea": {
+      "text": "Făcătorul şi Mântuitorul meu Preacurată, Hristos Domnul, din pântecele tău ieşind, întru mine îmbrăcându-Se, din blestemul cel dintâi pe Adam a dezlegat. Pentru aceasta ţie Preacurată, ca Maicii lui Dumnezeu şi Fecioarei cu adevărat, strigăm fără tăcere ca îngerul : Bucură-te; bucură-te Stăpână, folositoarea şi acoperământul, şi mântuirea sufletelor noastre."
+    },
+    "tropar": {
+      "glas": 3,
+      "text": "De viaţa ta cea în trup s-au minunat cetele îngereşti, cum cu trupul la luptele cele nevăzute ai ieşit pururea mărite, şi ai rănit cetele drăceşti. Pentru care Atanasie, Hristos ţie ţi-a răsplătit cu bogate daruri. Drept aceasta Părinte, roagă-te lui Hristos Dumnezeu să se mântuiască sufletele noastre."
+    },
+    "troparNascatoarea": {
+      "text": "Pe tine, ceea ce ai mijlocit mântuirea neamului nostru, te lăudăm, Născătoare de Dumnezeu, Fecioară; căci, cu trupul cel luat din tine, Fiul tău şi Dumnezeul nostru, prin Cruce primind patimă, nea mântuit pe noi din stricăciune, ca un Iubitor de oameni."
+    }
+  }
+}

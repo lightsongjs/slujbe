@@ -1,0 +1,33 @@
+{
+  "month": 5,
+  "day": 31,
+  "saint": "Sfântul Mucenic Ermie.",
+  "vecernie": {
+    "glas": 1,
+    "podobia": "Ceea ce eşti bucuria...",
+    "stihiri": [
+      {
+        "text": "Darul cel nebiruit al Celui ce te întărea pe tine întru neputinţe, Mucenice, a arătat tuturor puterea firii tale. Pentru aceea şi în trup muritor fiind tu, te-a întărit ca să biruieşti tare pe cei fără de trup, şi să primeşti darurile cele de biruinţă."
+      },
+      {
+        "text": "Stingând focul nedumnezeirii cu picăturile sângiurilor, mare Mucenice, ai adăpat Biserica lui Hristos cu îndestulare, şi ai luminat inimile credincioşilor, celor ce cu bunăcredinţă cinstesc pomenirea ta cea sfântă şi cinstită."
+      },
+      {
+        "text": "Ca un turn nesurpat, nu te-ai mişcat nicicum de năpădirile vrăjmaşilor, iar inimile lor le-ai cutremurat Ermie, şi cu toiagul nevoințelor tale celor vitejeşti ca un zid nerăsturnat, cugetele tuturor acelora ai sfărâmat."
+      },
+      {
+        "text": "Alunecându-mă cu năravul cel stricat, zac jos; ci alerg către limanul tău, Fecioară, tu mă mântuieşte de viforul cel împotrivitor, şi de ispitele cele de multe chipuri, ca neîncetat să laud Darul tău, Născătoare de Dumnezeu Maică pururea Fecioară."
+      },
+      {
+        "text": "Pe Fiul şi Stăpânul tău oarecând dacă L-ai văzut pe Cruce întinzându-și mâinile, şi cu sulița coastele împungându-i-Se, Maică Preacurată tânguindu-te, ai strigat : Vai mie ! Cum pătimeşti, patimile oamenilor luând, Iubitorule de oameni ?"
+      }
+    ],
+    "cruciiNascatoarea": {
+      "text": "Pe Fiul şi Stăpânul tău oarecând dacă L-ai văzut pe Cruce întinzându-și mâinile, şi cu sulița coastele împungându-i-Se, Maică Preacurată tânguindu-te, ai strigat : Vai mie ! Cum pătimeşti, patimile oamenilor luând, Iubitorule de oameni ?"
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicul Tău, Doamne, Ermie întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

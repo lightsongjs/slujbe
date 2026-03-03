@@ -1,0 +1,43 @@
+{
+  "month": 11,
+  "day": 12,
+  "saint": "Cel dintru sfinţi Părintele nostru Ioan cel milostiv patriarhul Alexandriei, şi Cuviosul Părintele nostru Nil pustnicul.",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "A treia zi ai înviat...",
+    "stihiri": [
+      {
+        "text": "Risipit-ai şi ai dat celor lipsiţi pâinea ta, Ioane minunate, râvnind milei Stăpânului celui preamilostiv, Preacuvioase. Pentru aceea rămâne cu adevărat în veci pomenirea ta, Sfinte; iar pe cei ce o prăznuiesc cu credinţă, păzeşte-i cu rugăciunile tale, de supărări şi de scârbe, Ierarhe preafericite."
+      },
+      {
+        "text": "Curăţia şi dreptatea gândului tău, şi obiceiul îndumnezeit, văzându-le Cel ce vede cele ascunse, te înalţă pe scaun preaînalt, ungându-te şi săvârşindu-te pe tine, Înţelepte, cu mir, şi de faţă dându-ţi în mână cârmele turmei, care o ai îndreptat către limanurile voii celei dumnezeieşti, de Dumnezeu grăitorule Ioane."
+      },
+      {
+        "text": "Toate cererile inimii tale, ţi le-a dat Domnul, vrednicule de minune, că ai păzit toate punerile de lege cele mântuitoare, pentru că desăvârşit ai iubit pe Dumnezeu, şi pe cel de aproape ca însu-ţi pe sine-ţi de Dumnezeu fericite. Şi pe cei ce au avut trebuinţă, i-ai ajutat; pentru aceea astăzi te cinstim Ioane."
+      },
+      {
+        "text": "Ce te vom chema acum, Sfinte ? Râu care ieşi din Edenul cel înţelegător; pârâul darurilor, care se dau de la Dumnezeu; vărsare de învăţăturile Harului ! Paharul înţelepciunii şi al ştiinţei; rugător preatare, învăţător şi lucrător ? Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom numi Cuvioase ? Lucrător de pământ al sadurilor celor nemuritoare, Preafericite; săditor de pomii cei credincioşi ai raiului celui înţelegător; prea-iscusit în legile cele date de Dumnezeu. Ştiutor de dogmele cele insuflate de Dumnezeu. Tâlcuitor prea-iscusit şi învăţător prea-îndestulat. Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce te vom zice acum, Minunate ? Puitor de aşezământul însoţirii, îndreptător curăţiei, învăţător monahilor, povăţuitor fecioriei. Dreaptă cumpănă a amândurora, ca unul ce amândouă cu cercare le-ai petrecut. Multe sunt vredniciile tale, şi nevoinţa ta cea dumnezeiască. Roagă-te să se mântuiască sufletele noastre."
+      }
+    ],
+    "slava": {
+      "glas": 2,
+      "text": "Izvorul milei, varsă îndurări de milostiviri, celor ce au trebuinţă, Ioan următorul lui Hristos, păstorul şi luminătorul cel mare al Alexandrenilor. Veniţi să ne săturăm cei săraci cu Duhul, urmând blândeților lui; că cu dragoste iubitoare de milostivire, primind ca pe un om străin pe Hristos, prin mijlocirea săracilor s-a învrednicit fericirii, ca Avraam odinioară. Şi cu îndrăzneală se roagă, să se miluiască sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Născătoare de Dumnezeu, tu eşti viţa cea adevărată, care ai odrăslit Rodul vieţii; ţie ne rugăm : Roagă-te Stăpână cu Cuviosul Ioan, şi cu toţi Sfinţii, să miluiască sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Văzându-Te răstignit, Hristoase, ceea ce Te-a născut, tânguindu-se striga ca o Maică : Fiul meu şi Dumnezeul meu, preadulcele meu Fiu, cum suferi patimă de ocară."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Întru răbdarea ta, ţi-ai agonisit plata ta, Părinte Cuvioase, întru rugăciuni neîncetat răbdând, pe săraci iubind, şi pe aceia îndestulând. Ci te roagă lui Hristos Dumnezeu, Ioane milostive fericite, să mântuiască sufletele noastre."
+    }
+  }
+}

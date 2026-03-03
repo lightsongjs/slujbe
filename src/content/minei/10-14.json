@@ -1,0 +1,34 @@
+{
+  "month": 10,
+  "day": 14,
+  "saint": "Pomenirea sfinţilor Mucenici Nazarie, Ghervasie, Protasie şi Chelsie;",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Doamne de ai şi stătut...",
+    "stihiri": [
+      {
+        "text": "Apărătorii credinţei lupta săvârşind, cununa biruinţei au luat, înţeleptul viteaz Nazarie, şi marele Protasie, împreună cu Chelsie înţeleptul, şi de Dumnezeu gânditorul Ghervasie; pe care îi lăudăm ca pe nişte viteji ostaşi, ca pe nişte moştenitori împărăţiei celei de sus, şi ca pe nişte jertfe de bunăvoie."
+      },
+      {
+        "text": "Să se laude Nazarie şi să se cinstească Protasie, dumnezeiescul Chelsie şi Ghervasie care cu bună mărturisire au pătimit, şi înşelăciunea au micşorat şi cu cetele îngereşti cu sfinţenie împreună s-au numărat, şi s-au îndumnezeit după dumnezeiasca împărtăşire, şi cununi de biruinţă au luat din mâna cea de viaţă începătoare."
+      },
+      {
+        "text": "De Dumnezeu înţelepţitul Nazarie, cu dumnezeiasca propovăduire cetăţi înconjurând, le-a luminat; pe care urmându-l Chelsie, au câştigat mărirea dumnezeieştilor Mucenici, călcând pe cel înşelător. pe aceştia toţi cu laude să-i cinstim, ca pe nişte stele şi luminători celor din întunerec, şi ca pe nişte doctori ai sufletelor noastre."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "Să lăudăm jertfele cele cuvântătoare, pe Nazarie, Protasie, Ghervasie şi Chelsie; căci toată nebunia tiranilor şi pe idoli i-au surpat. Pentru aceasta, cu rugăciunile lor Hristoase Dumnezeule, pace lumii dăruieşte, şi sufletelor noastre mare milă."
+    },
+    "nascatoarea": {
+      "text": "Mă tem de ceasul hotărârii, cheltuind în lenevire toată, viaţa mea, ca nimenea din oameni vreodată; ci apucând acum mai înainte de sfârşit Maică Fecioară, scapă sufletul meu din robia celui străin."
+    },
+    "cruciiNascatoarea": {
+      "text": "Cuvinte al Tatălui, Fiule Cel fără de început, şi cu Duhul împreună pe scaun şezător, cum ţi-ai întins pe lemn preacurate mâinile Tale ? Pentru ce eşti acum în atâta mizerie Preabunule ? Stând lângă răstignirea Ta, striga cea fără de prihană."
+    },
+    "tropar": {
+      "glas": 4,
+      "text": "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule."
+    }
+  }
+}

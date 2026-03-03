@@ -1,0 +1,43 @@
+{
+  "month": 8,
+  "day": 30,
+  "saint": "Pomenirea celor dintru sfinţi, părinţilor noştri Patriarhi ai Constantinopolului, Alexandru, Ioan şi Pavel cel nou,",
+  "vecernie": {
+    "glas": 4,
+    "podobia": "Prealăudaţilor Mucenici...",
+    "stihiri": [
+      {
+        "text": "Cela ce eşti dumnezeiesc mijlocitor legii vechi şi celei noi, Prooroc şi înainte Mergător, îngerul cel fără de trup, mustrarea nelegiuirii, odrasla pântecelui celui sterp, gura cea de foc răsuflătoare, pe Irod cel ce făcea fărădelege l-ai mustrat; iar el mustrarea ta nesuferindu-o, a poruncit să ţi se taie capul tău, şi s-a adus ca o mâncare. Dar desfătarea înfrânării cea dumnezeiască, în tipsie fiind, mai mult înfrunta pe cel nesăţios."
+      },
+      {
+        "text": "Fata cea prea fărădelege, de maica cea prea fărădelege fiind îndemnată, a cerut capul tău cel pururea fericit, şi de îngeri cinstit; căci nu a suferit mustrările lui. Pentru aceasta aducându-l pe el în tipsie, şi jucând cu picioarele, a întors veselia oaspeţilor întru jale; drept aceea urâciunea nesaţului, mai mult o a mustrat, Fericite, rugând pe Hristos să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Nebunindu-se Irod de beţie, s-a furat de glasurile cele prefăcute ale jucătoarei, şi pe lângă jurământ a făcut nedreaptă uciderea ta, ție dreptului, Proorocule mărite; dar moartea ta a vestit arătat nemurirea către morţii celei mai dinainte, şi ai mers propovăduitor celor din iad, mai întâi vestind venirea cea mântuitoare, a lui Hristos Dumnezeului nostru; pe Care roagă-L să mântuiască şi să lumineze sufletele noastre."
+      },
+      {
+        "text": "Preafericite Alexandre, făcutu-te-ai păstor al Bisericii şi apărător al dreptei credinţe, eresul lui Arie surpându-l întelepţeşte, şi cu rugăciunile tale, cu care te-ai rugat, Preaînţelepte, l-ai făcut a-şi lepăda rău sufletul său, în locurile cele necurate. Pentru aceasta cu un glas, te cinstim pe tine, Slăvite."
+      },
+      {
+        "text": "Ioane cinstite, urât-ai stricăciunea trupului, şi prin înfrânare şi prin credinţă, şi prin privighere şi prin mărturisire, te-ai făcut înger pământesc şi om ceresc; roagă-te lui Hristos, să se dăruiască sufletelor noastre pace şi mare milă."
+      },
+      {
+        "text": "Plecatu-te-ai cu adevărat arătat dogmelor celor dumnezeieşti ale lui Pavel, cu care dimpreună prin înălţimea bunătăţilor, întru al treilea Cer te-ai înălţat, Cuvioase, şi ai auzit negrăite şi dumnezeieşti graiurile Duhului, Pavele fericite neclintite temeiule al dreptslăvitorilor. Roagă neîncetat pe Mântuitorul, să dăruiască sufletelor noastre pace şi mare milă."
+      }
+    ],
+    "slava": {
+      "glas": 6,
+      "text": "Săvârşindu-se ziua naşterii lui Irod celui fără de ruşine, s-a plinit legătura jurământului, celui cu necurata jucătoare, că tăindu-se capul Mergătorului înainte, s-a adus ca o mâncare în blid, la cei ce şedeau. O ospăţ urât ! O lucru necuvios şi plin de ucidere ! Dar noi pe Botezătorul ca pe cel mai mare între cei născuţi din femei, după vrednicie cinstindu-l îl fericim."
+    },
+    "nascatoarea": {
+      "text": "Ceea ce ai încăput în pântecele tău pe Dumnezeu cel neîncăput, pe Cel ce S-a făcut om pentru iubirea de oameni, şi amestecarea noastră din tine a luat, şi o a îndumnezeit arătat, nu mă trece cu vederea acum Preacurată, pe mine cel necăjit, ci mă miluieşte degrab şi din toată vrăjmăşia şi de vătămarea celui viclean mă izbăveşte."
+    },
+    "cruciiNascatoarea": {
+      "text": "Cea Preacurată văzând răstignit pe, Hristos, Iubitorul de oameni, şi coasta pătrunsă cu suliţa, plângând, striga : Ce este aceasta Fiul meu ? Ce Ți-au răsplătit Ție nemulţumitoarele noroade pentru bunătăţile cele ce ai făcut lor ? Şi Te sârguieşte ca să mă faci pe mine lipsită de Fiu, întrutot preaiubite; mă minunez Bunule Îndurate, de răstignirea Ta cea de bunăvoie."
+    },
+    "tropar": {
+      "glas": 2,
+      "text": "Pomenirea dreptului cu laude, iar ţie destul îţi este mărturia Domnului, înainte Mergătorule; că te-ai arătat cu adevărat şi decât proorocii mai cinstit, că te-ai învrednicit a boteza în repejuni pe Cel propovăduit. Drept aceea, pentru adevăr nevoindu-te, bucurându-te, ai binevestit şi celor din iad pe Dumnezeu, Cel ce S-a arătat în trup, pe Cel ce a ridicat păcatul lumii şi ne-a dăruit nouă mare milă."
+    }
+  }
+}

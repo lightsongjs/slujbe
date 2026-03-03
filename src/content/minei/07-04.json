@@ -1,0 +1,43 @@
+{
+  "month": 7,
+  "day": 4,
+  "saint": "Cel dintru sfinţi Părintele nostru Andrei Ierusalimneanul, arhiepiscopul Critului.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "Ca pe un viteaz...",
+    "stihiri": [
+      {
+        "text": "Ce te vom numi pe tine acum Andreie ? Sihastru, care întuneci pornirile patimilor, slujitor cu sfinţenie, lucrător Evangheliei lui Hristos; alăută, care cânţi ale Duhului, canon, care toate le veseleşti. Nou David te cunoaştem, căci ai săltat înaintea sicriului Darului, şi a Testamentului celui nou, înţelepte."
+      },
+      {
+        "text": "Ce te vom chema acum pe tine Andreie ? Râvnitor celor aleşi, care bărbăteşte s-au nevoit; lăudător adevărat sfinţilor Mucenici, îndreptător de iznoavă spre câştigarea bunătăţii, zugrav deşertăciunii vieţii, învățător foarte iscusit. Puitor de dogme prea-adevărat. Roagă-te să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Ce numire îţi vom pune acum ţie Andreie ? Odraslă de veselie Sfântului Ierusalim, întărire dogmelor celor drepte ale credinţei celei bune, Ierarh preasfinţit al Critului; care luminezi lumea cu luminări, pornindu-te de la răsărit, şi luminând apusurile. Roagă-te, să se mântuiască sufletele noastre."
+      },
+      {
+        "text": "Către înfrânarea cea cu durere, către bărbăteasca luptă, şi către tăbărârea împotriva vrăjmaşului celui ce a zăticnit firea omenească, te-ai înstrăinat, şi cu postiri şi cu lacrimi nu ai băgat seamă de trup, pentru dumnezeiasca dragoste. Pentru aceasta ai suferit nevoinţele cele dumnezeieşti, smerind cugetul luptătorului împotrivă, Marto cinstită şi preamărită."
+      },
+      {
+        "text": "Scârbindu-te de cele vremelnice, ai fugit de dragostea celor stricăcioase, şi ai dorit de sorţul cel ceresc, cel vrednic şi veşnic, şi nestricăcios celor cuvioşi, şi de viaţă fără de sfârşit. Pentru aceasta săvârşind cu credinţă luminată şi purtătoare de lumină pomenirea ta, cu cântări dumnezeieşti te cinstim pe tine, mărită Marta."
+      },
+      {
+        "text": "Cu Darul Duhului iei neputinţele, goneşti duhurile cele viclene, şi tămăduieşti patimile; şi cu strălucirile minunilor tale luminezi pe credincioşi. Pentru aceasta cu neîncetate glasuri lăudăm astăzi luminată şi purtătoare de lumină şi vrednică de minune pomenirea ta, preamărită Marta."
+      }
+    ],
+    "slava": {
+      "glas": 4,
+      "text": "De la Biserica lui Hristos preafericite, ai gonit pe lupii cei înţelegători cu toiagul învăţăturilor tale; şi pe aceasta împrejur o ai îngrădit cu tăria cuvintelor, şi o ai pus înaintea lui Hristos întreagă şi nemişcată, căruia roagă-te să izbăvească de stricăciune şi de nevoi, pe cei ce săvârşesc cu credinţă întru-tot cinstită pomenirea ta."
+    },
+    "nascatoarea": {
+      "text": "Cerurile te laudă pe tine cea plină de daruri, Maică pururea Fecioară, iar noi cu cuvinte slăvim neurmată naşterea ta, de Dumnezeu Născătoare. Roagă-te să se mântuiască sufletele noastre."
+    },
+    "cruciiNascatoarea": {
+      "text": "Doamne când te-a văzut soarele ridicat pe Cruce, pe Tine Soarele Cel drept, razele şi-a ascuns, şi luna şi-a schimbat lumina întru întuneric, iar preacurata Maică la inimă se rănea."
+    },
+    "tropar": {
+      "glas": 8,
+      "text": "Îndreptătorule al Ortodoxiei, învăţătorule al dreptei cinstiri de Dumnezeu şi al curăţiei şi luminătorule al lumii, podoaba călugărilor cea de Dumnezeu insuflată Andreie, înţelepte, cu învăţăturile tale pe toţi i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre."
+    }
+  }
+}

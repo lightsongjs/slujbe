@@ -1,0 +1,34 @@
+{
+  "month": 9,
+  "day": 29,
+  "saint": "Preacuviosul Părintele nostru Chiriac sihastrul.",
+  "vecernie": {
+    "glas": 8,
+    "podobia": "A treia zi ai înviat Hristoase...",
+    "stihiri": [
+      {
+        "text": "Cu zăbala înfrânării stăpânind patimile trupului făcătorule de minuni Chiriac, te-ai îmbrăcat cu podoaba cea luminată a nepătimirii, şi ai despuiat toată răutatea celui ce a dezgolit odinioară pe strămoşi, şi acum locuieşti în rai, veselindu-te totdeauna Părinte ! Roagă-te să se mântuiască sufletele noastre. De două ori."
+      },
+      {
+        "text": "Purtând Crucea pe umerii tăi, cu cuget neabătut ai urmat lui Hristos, defăimând dulcețile vieţii Chiriac, şi omorându-ţi patimile trupului cu privegheri, şi prin rugăciuni neîncetate Cuvioase, ai primit Dar a tămădui boli. Roagă-te să se mântuiască sufletele noastre. De două ori."
+      },
+      {
+        "text": "Locuit-ai în pustie Cuvioase Chiriac, făcându-ţi mâncare buruieni amare, şi amărându-ţi gustul, Fericite, ai înecat din rădăcină dulceţile trupului. Pentru aceasta după sfârşitul tău, te-a primit desfătarea cea cerească, căci ai trăit îngereşte. Roagă-te să se mântuiască sufletele noastre. De două ori."
+      }
+    ],
+    "slava": {
+      "glas": 8,
+      "text": "Mulțimile călugărilor, pe tine îndreptătorul te cinstim, Chiriac Părintele nostru. Că prin tine pe cărarea cea dreaptă, cu adevărat a umbla am cunoscut. Fericit eşti, că ai urmat lui Hristos şi ai biruit puterea vrăjmaşului. Cela ce eşti cu îngerii împreună vorbitor, împreună locuitor cu drepţii şi cu cuvioşii. Cu care roagă-te Domnului, să miluiască sufletele noastre."
+    },
+    "nascatoarea": {
+      "text": "Naşterea Fecioarei cea fără de sămânţă, tuturor ni s-a făcut nouă pricină de multe daruri. Căci Dumnezeu înnoieşte firea oamenilor cea stricată, şi a zidit din nou omenirea."
+    },
+    "cruciiNascatoarea": {
+      "text": "Preacurata văzându-te pironit pe lemn strigă : O Fiule şi Dumnezeul meu ! Ce este această taină minunată a patimii tale ? Prin care mântuieşti omenirea."
+    },
+    "tropar": {
+      "glas": 1,
+      "text": "Locuitor pustiului, şi înger în trup, şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu Părintele nostru Chiriac. Cu postul, cu privegherea, şi prin rugăciune primind daruri cereşti, tămăduieşti pe cei bolnavi, şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; slavă Celui ce lucrează prin tine tuturor tămăduiri."
+    }
+  }
+}
