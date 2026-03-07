@@ -3,9 +3,10 @@
   "dayOfWeek": "miercuri",
   "lentWeek": 2,
   "title": "Miercuri, săptămâna a 2-a din Post",
-  "tone": 1,
+  "tone": 5,
   "stihiraZilei": {
-    "text": "Postul cel duhovnicesc primindu-l, fraţilor, cu limba să nu grăiţi cele înşelătoare, nici să puneţi împiedicarea fratelui spre sminteală; ci cu pocăinţa luminându-ne făclia sufletului, cu lacrimi să strigăm lui Hristos : Iartă-ne nouă greşalele noastre, ca un iubitor de oameni."
+    "text": "Postul cel duhovnicesc primindu-l, fraţilor, cu limba să nu grăiţi cele înşelătoare, nici să puneţi împiedicarea fratelui spre sminteală; ci cu pocăinţa luminându-ne făclia sufletului, cu lacrimi să strigăm lui Hristos : Iartă-ne nouă greşalele noastre, ca un iubitor de oameni.",
+    "glas": 1
   },
   "stihiriMucenicilor": [
     {
@@ -26,7 +27,7 @@
       "text": "Mucenice pururea slăvite cu multe scârbe împresurându-te şi cu chinuri nesuferite împreunându-te, ai biruit pe şarpele cel cu multă măiestrie şi l-ai supus sub picioarele tale cele preafrumoase slăvite. Roagă-te lui Hristos, să se dăruiască sufletelor noastre pace şi mare milă."
     },
     {
-      "text": "Conone pururea preaslăvite, luminându-ți cugetul cu lumina Sfântului Duh, întunericul diavolilor celor vicleni l-ai împuţinat şi ai trecut spre lumina cea neapusă, veselindu-te întru Domnul. Pe care acum roagă-L, să se dăruiască sufletelor noastre pace şi mare milă."
+      "text": "Conone pururea preaslăvite, luminându-ți cugetul cu lumina Sfântului Duh, întunericul dracilor celor vicleni l-ai împuţinat şi ai trecut spre lumina cea neapusă, veselindu-te întru Domnul. Pe care acum roagă-L, să se dăruiască sufletelor noastre pace şi mare milă."
     },
     {
       "text": "Conone vrednicule de minune, făcutu-te-ai biserică Treimii şi pe Biserica cea preasfântă, întru care cu bunăcredinţă s-a pus trupul tău o ai arătat râu de nenumărate minuni, preafericite. Pentru aceasta roagă-te, să se dăruiască sufletelor noastre pace şi mare milă."
@@ -35,8 +36,9 @@
       "text": "Mucenice pururea slăvite cu multe scârbe împresurându-te şi cu chinuri nesuferite împreunându-te, ai biruit pe şarpele cel cu multă măiestrie şi l-ai supus sub picioarele tale cele preafrumoase slăvite. Roagă-te lui Hristos, să se dăruiască sufletelor noastre pace şi mare milă."
     }
   ],
+  "rubricaTriod": "La Doamne strigat-am..., Stihirile pe 10, şi cântăm această Stihiră de două ori; apoi Martirica şi trei Podobnice. Şi din Minei, patru. Slavă..., Şi acum..., a Născătoarei.",
   "nascatoarea": {
-    "text": "Bucură-te Curată străină auzire. Bucură-te lemn sfânt de Dumnezeu sădit al raiului. Bucură-te pierderea diavolilor celor vicleni. Bucură-te sabie cu două ascuțișuri care tai capul vrăjmaşului, cu străină naşterea ta, Preasfântă cu totul preacurată, şi iarăşi ne-ai chemat pe noi care ne-am înstrăinat."
+    "text": "Bucură-te Curată străină auzire. Bucură-te lemn sfânt de Dumnezeu sădit al raiului. Bucură-te pierderea dracilor celor vicleni. Bucură-te sabie cu două ascuțișuri care tai capul vrăjmaşului, cu străină naşterea ta, Preasfântă cu totul preacurată, şi iarăşi ne-ai chemat pe noi care ne-am înstrăinat."
   },
   "prochimen1": {
     "glas": 6,
@@ -45,7 +47,7 @@
   },
   "paremia1": {
     "sursa": "Facere",
-    "referinta": "Cap. 4, vers 16–26.",
+    "referinta": "Cap 4. Vers 16-26.",
     "text": "Şi s-a dus Cain de la faţa lui Dumnezeu şi a locuit în ţinutul Nod, la răsărit de Eden. După aceea a cunoscut Cain pe femeia sa şi ea, zămislind, a născut pe Enoh. Apoi a zidit Cain o cetate şi a numit-o, după numele fiului său, Enoh. Iar lui Enoh i s-a născut Irad; lui Irad i s-a născut Maleleil; lui Maleleil i s-a născut Matusal, iar lui Matusal i s-a născut Lameh. Lameh şi-a luat două femei: numele uneia era Ada şi numele celeilalte era Sela. Ada a născut pe Iabal; acesta a fost tatăl celor ce trăiesc în corturi, la turme. Fratele lui se numea Iubal; acesta este tatăl tuturor celor ce cântă din chitară şi din cimpoi. Sela a născut şi ea pe Tubalcain, care a fost făurar de unelte de aramă şi de fier. Şi sora lui se chema Noema. Şi a zis Lameh către femeile sale: «Ada şi Sela, ascultaţi glasul meu! Femeile lui Lameh, luaţi aminte la cuvintele mele: Am ucis un om pentru rana mea şi un tânăr pentru vânătaia mea. Dacă pentru Cain va fi răzbunarea de şapte ori, apoi pentru Lameh de şaptezeci de ori câte şapte!» Adam a cunoscut iarăşi pe Eva, femeia sa, şi ea, zămislind, a născut un fiu şi i-a pus numele Set, pentru că şi-a zis: «Mi-a dat Dumnezeu alt fiu în locul lui Abel, pe care l-a ucis Cain.» Lui Set de asemenea i s-a născut un fiu şi i-a pus numele Enos. Atunci au început oamenii a chema numele Domnului Dumnezeu."
   },
   "prochimen2": {
@@ -55,7 +57,7 @@
   },
   "paremia2": {
     "sursa": "Pilde",
-    "referinta": "Cap. 5, vers 15–23; cap. 6, vers 1–3.",
+    "referinta": "Cap. 5, Vers 15. Cap. 4, Vers 3.",
     "text": "Fiule, bea apă din puţul tău şi din pârâiaşele care curg din izvorul tău. Să nu se risipească izvoarele tale pe uliţă, nici pâraiele tale prin pieţe. Să fie numai pentru tine singur, iar nu pentru străinii care sunt cu tine! Binecuvântat să fie izvorul tău şi să te mângâi cu femeia ta din tinereţe. Cerboaică preaiubită şi gazelă plină de farmec să-ţi fie ea; dragostea de ea să te îmbete totdeauna şi iubirea ei să te desfăteze. Pentru ce, fiul meu, să te momească femeie străină şi tu să îmbrăţişezi sânul unei necunoscute? Căci cărările omului sunt înaintea Domnului şi El ia seama la toate căile lui. Cel fără de lege este prins în laţurile fărădelegilor lui şi de funiile păcatelor lui este înfăşurat. El va muri în păcatele lui şi de mulţimea nebuniei lui va pieri. Fiul meu, dacă te-ai pus chezaş pentru prietenul tău, dacă ai dat mâna pentru altul, atunci te-ai prins prin făgăduieli ieşite din gura ta şi te-ai legat prin cuvintele gurii tale. Fă dar, fiul meu, aceasta: o, izbăveşte-te!"
   }
 }

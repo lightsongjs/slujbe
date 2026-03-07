@@ -1,0 +1,15 @@
+{
+  "id": "catisma18-ectenie3",
+  "title": "Ectenia mică (după Starea 3)",
+  "lines": [
+    { "role": "preot", "text": "Iară și iară, cu pace, Domnului să ne rugăm." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Apără, mântuiește, miluiește și ne păzește pe noi, Dumnezeule, cu harul Tău." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Pe Preasfânta, curata, preabinecuvântata, slăvita Stăpâna noastră, de Dumnezeu Născătoarea și pururea Fecioara Maria, cu toți sfinții pomenind-o, pe noi înșine și unii pe alții și toată viața noastră lui Hristos Dumnezeu să o dăm." },
+    { "role": "strana", "text": "Ție, Doamne." },
+    { "role": "rubrica", "text": "Ecfonisul:" },
+    { "role": "preot", "text": "Că Tu ești Dumnezeul nostru, Dumnezeul care miluiești și mântuiești, și Ție slavă înălțăm, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." }
+  ]
+}

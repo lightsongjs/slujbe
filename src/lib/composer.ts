@@ -202,12 +202,11 @@ export async function composeVespers(
     getEntry("triodion", `saptamana${lentWeek}`),
   ]);
 
-  // --- Build Doamne strigat-am section ---
-  // 1. Psalms 140+141 (read/sung)
-  // 2. Stihuri + Stihiri (interleaved per randuiala)
-  // 3. Slavă... Și acum... + Dogmatica
+  // --- Psalmii 140+141 (Doamne strigat-am) ---
+  const psalmiiLines: ServiceLine[] = [...doamneStrigatAm];
+
+  // --- Stihirile (intercalate cu stihuri) ---
   const stihiriLines: ServiceLine[] = [
-    ...doamneStrigatAm,
     L("rubrica", "Și îndată se cântă:"),
   ];
 
@@ -384,7 +383,12 @@ export async function composeVespers(
     },
     {
       id: "doamne-strigat-am",
-      title: `Doamne strigat-am – Stihirile pe ${triod?.data.randuiala.stihiriPe ?? 10}`,
+      title: "Doamne strigat-am (Ps. 140, 141)",
+      lines: psalmiiLines,
+    },
+    {
+      id: "stihiri",
+      title: `Stihirile pe ${triod?.data.randuiala.stihiriPe ?? 10}`,
       lines: stihiriLines,
     },
     {

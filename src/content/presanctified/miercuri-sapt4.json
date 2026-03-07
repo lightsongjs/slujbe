@@ -3,9 +3,10 @@
   "dayOfWeek": "miercuri",
   "lentWeek": 4,
   "title": "Miercuri, săptămâna a 4-a din Post — Pomenirea celui între Sfinţi Părintelui nostru Chiril, arhiepiscopul Ierusalimului.",
-  "tone": 4,
+  "tone": 7,
   "stihiraZilei": {
-    "text": "Postul, pricinuitorul bunătăţilor, şi-a adus acum înjumătăţirea sa, arătându-se bine plăcut prin zilele ce au trecut şi spre cele ce urmează punându-şi de faţă folosinţa; căci îndemnarea spre lucruri bune face mai mult bine. Pentru aceasta făcând spre plăcere lui Hristos, Dătătorul tuturor bunătăţilor, să strigăm : Cela ce ai postit pentru noi şi ai răbdat Crucea, învredniceşte-ne fără osândă, să ne împărtăşim dumnezeieştilor Tale Paşti, vieţuind în pace şi cu vrednicie slăvindu-Te pe Tine, împreună cu Tatăl şi cu Duhul."
+    "text": "Postul, pricinuitorul bunătăţilor, şi-a adus acum înjumătăţirea sa, arătându-se bine plăcut prin zilele ce au trecut şi spre cele ce urmează punându-şi de faţă folosinţa; căci îndemnarea spre lucruri bune face mai mult bine. Pentru aceasta făcând spre plăcere lui Hristos, Dătătorul tuturor bunătăţilor, să strigăm : Cela ce ai postit pentru noi şi ai răbdat Crucea, învredniceşte-ne fără osândă, să ne împărtăşim dumnezeieştilor Tale Paşti, vieţuind în pace şi cu vrednicie slăvindu-Te pe Tine, împreună cu Tatăl şi cu Duhul.",
+    "glas": 4
   },
   "stihiriMucenicilor": [
     {
@@ -18,7 +19,7 @@
       "text": "Cruce, lauda Apostolilor, pe care te înconjură căpeteniile, puterile şi arhanghelii, mântuieşte-ne pe noi, cei ce ne închinăm ţie, de toată vătămarea; şi ne învredniceşte să trecem cu bine dumnezeiasca măsură a postului şi să ajungem ziua cea mântuitoare, prin care ne şi mântuim."
     },
     {
-      "text": "Astăzi închinându-ne Crucii Domnului, să strigăm : Bucură-te, pomul vieţii, stricătorul iadului ! Bucură-te, bucuria lumii, pierzătoarea stricăciunii ! Bucură-te, ceea ce risipeşti diavolii cu puterea ta ! Întărirea credincioşilor, arma cea nesfărâmată, păzeşte, sfinţeşte, rugămu-ne, pe cei ce te sărută pe tine."
+      "text": "Astăzi închinându-ne Crucii Domnului, să strigăm : Bucură-te, pomul vieţii, stricătorul iadului ! Bucură-te, bucuria lumii, pierzătoarea stricăciunii ! Bucură-te, ceea ce risipeşti dracii cu puterea ta ! Întărirea credincioşilor, arma cea nesfărâmată, păzeşte, sfinţeşte, rugămu-ne, pe cei ce te sărută pe tine."
     }
   ],
   "stihiriMinei": [
@@ -35,6 +36,7 @@
       "text": "Strălucirea cunoştinţei celei dumnezeieşti, primind înlăuntru, te-ai luminat cu ochii inimii tale înţelepte, şi cu înţelepciune ai părăsit întunericul înşelăciunii, şi ai mărturisit pe Hristos Domnul tuturor, ca a luat trup. Drept aceea împuternicindu-te, cu puterea Duhului, te-ai arătat mai presus decât muncile, prealăudate Hrisante."
     }
   ],
+  "rubricaTriod": "La Doamne strigat-am..., punem Stihiri 10, cântând aceste 6 Stihiri şi din Minei 4.",
   "nascatoarea": {
     "text": "În patul lenevirii zac Preacurată, şi cu trândăvire îmi petrec viața, şi de vremea sfârşitului meu mă tem, nu cumva şi preacumplitul şarpe, ca un leu fără milă va rupe smeritul meu suflet Născătoare de Dumnezeu. Pentru aceasta mai înainte de sfârşit, cu a ta bunătate întâmpinându-mă, ridică-mă spre pocăinţă."
   },
@@ -45,7 +47,7 @@
   },
   "paremia1": {
     "sursa": "Facere",
-    "referinta": "Cap. 9, vers 18; cap. 10, vers 1.",
+    "referinta": "Cap. 9, Vers. 18. Cap. 10, Vers. 1.",
     "text": "Iar fiii lui Noe care au ieşit din corabie, erau: Sem, Ham şi Iafet. Iar Ham era tatăl lui Canaan. Aceştia sunt cei trei fii ai lui Noe şi din aceştia s-au înmulţit oamenii pe pământ. Atunci a început Noe să fie lucrător de pământ şi a sădit vie. A băut vin şi, îmbătându-se, s-a dezvelit în cortul său. Iar Ham, tatăl lui Canaan, a văzut goliciunea tatălui său şi, ieşind afară, a spus celor doi fraţi ai săi. Dar Sem şi Iafet au luat o haină şi, punând-o pe amândoi umerii lor, au intrat cu spatele înainte şi au acoperit goliciunea tatălui lor. Trezindu-se Noe din ameţeala de vin şi aflând ce i-a făcut feciorul său cel mai tânăr, a zis: «Blestemat să fie Canaan! Robul robilor să fie la fraţii săi!» Apoi a zis: «Binecuvântat să fie Domnul Dumnezeul lui Sem; iar Canaan să-i fie rob!» «Să înmulţească Dumnezeu pe Iafet şi să se sălăşluiască acesta în corturile lui Sem, iar Canaan să-i fie slugă». Şi a mai trăit Noe după potop trei sute cincizeci de ani. Iar de toate, zilele lui Noe au fost nouă sute cincizeci de ani şi apoi a murit. Iată spiţa neamului fiilor lui Noe: Sem, Ham şi Iafet, cărora li s-au născut fii după potop."
   },
   "prochimen2": {
@@ -55,7 +57,7 @@
   },
   "paremia2": {
     "sursa": "Pilde",
-    "referinta": "Cap. 12, vers 24–28.",
+    "referinta": "Cap. 12, Vers 24.",
     "text": "Mâna celor silitori va stăpâni, iar cea lăsătoare va fi birnică. Supărarea se abate asupra omului, dar numai un cuvânt bun îl bucură. Dreptul cercetează cu de-amănuntul pe prietenul său; calea celor nelegiuiţi duce la rătăcire. Leneşul nu-şi frige nici vânatul lui; cea mai scumpă comoară pentru om este munca. Pe cărarea dreptăţii este viaţa şi pe calea pe care ea o însemnează; nemurirea, iar calea nebuniei duce la moarte."
   }
 }

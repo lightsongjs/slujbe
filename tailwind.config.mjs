@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        serif: ['"Palatino Linotype"', "Palatino", "Georgia", "serif"],
+        serif: ["Literata", "Georgia", "serif"],
       },
       colors: {
         rubric: "#b91c1c",

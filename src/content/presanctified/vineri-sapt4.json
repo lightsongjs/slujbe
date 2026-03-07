@@ -3,22 +3,23 @@
   "dayOfWeek": "vineri",
   "lentWeek": 4,
   "title": "Vineri, săptămâna a 4-a din Post — Pomenirea preacuvioşilor părinţilor noştri celor ucişi în Mănăstirea Sfântului Sava.",
-  "tone": 6,
+  "tone": 7,
   "stihiraZilei": {
-    "text": "Făcând vrednicia sufletului meu roabă patimilor, m-am făcut ca un dobitoc şi nu mă pot uita spre Tine, Preaînalte; ci plecându-mă în jos, Hristoase, ca vameşul mă rog strigând către Tine : Dumnezeule, milostiveste-Te spre mine şi mă mântuieşte."
+    "text": "Făcând vrednicia sufletului meu roabă patimilor, m-am făcut ca un dobitoc şi nu mă pot uita spre Tine, Preaînalte; ci plecându-mă în jos, Hristoase, ca vameşul mă rog strigând către Tine : Dumnezeule, milostiveste-Te spre mine şi mă mântuieşte.",
+    "glas": 6
   },
   "stihiriMucenicilor": [
     {
-      "text": "Mucenicii Domnului tot locul sfințiți și toată boala tămăduiţi, şi acum rugaţi-vă să se izbăvească din cursele vrăjmaşului sufletele noastre, rugămu-vă."
+      "text": "Sfinţilor mucenici, care bine v-ați nevoit, și v-ați încununat, rugaţi-vă Domnului, să se miluiască sufletele noastre."
     },
     {
-      "text": "Mucenicii Tăi, Doamne, uitând cele din viață şi nebăgând seamă de munci, pentru viaţa ce va să fie ai acesteia moştenitori s-au arătat; drept aceea şi cu îngerii împreună se bucură; prin rugăciunile lor dăruieşte poporului Tău mare milă."
+      "text": "Defăimând toate cele pământeşti Sfinţilor Mucenici, și prin divanuri pe Hristos bărbăteşte propovăduindu-L, răsplătiri ați luat de la El pentru munci. Ci ca cei ce aveţi îndrăzneală, pe Dânsul rugaţi-L, ca pe Dumnezeu cel atotputernic, să mântuiască sufletele noastre, a celor ce alergăm către voi, rugămu-ne."
     },
     {
-      "text": "De este vre-o bunătate şi de este vre-o laudă, se cuvine sfinţilor, că săbiilor şi-au plecat grumazii pentru Tine, Cela ce ai plecat cerurile şi Te-ai pogorât, vărsa-tu-şi-au sângele lor; pentru Tine, Cela ce Te-ai deşertat pe Sineţi şi ai luat chip de rob; smeritu-s-au până la moarte sărăciei Tale urmând. Cu ale cărora rugăciuni, după mulţimea îndurărilor Tale, Dumnezeule miluieşte-ne pe noi."
+      "text": "Prealăudaţilor mucenici, oile cele duhovniceşti, întregile arderi cele cuvântătoare, jertfa cea primită, plăcută lui Dumnezeu, pe voi nu v-a ascuns pământul, ci cerul v-a primit, cu îngerii v-aţi făcut părtaşi, cu care dimpreună rugaţi pe Mântuitorul și Dumnezeul nostru, rugămu-vă pe voi, ca să împace lumea, şi să mântuiască sufletele noastre."
     },
     {
-      "text": "Pomului celui neroditor m-am asemănat, cu chipul sfinţeniei, ca și cu nişte frunze deşarte acoperindu-mă, şi mă tem Stăpâne, ca nu tăindu-mă, să mă trimiţi în focul cel nestins şi veșnic. Ci-mi dă mie vreme de întoarcere, ca să-ți aduc Ție roadă bună și de fapte îmbunătăţite, şi să mă învrednicesc împărăţiei Tale."
+      "text": "Mântuitorule, când vei veni să judeci toată lumea, să nu mă ruşinezi pe mine, cel ce am făcut fapte de ruşine."
     }
   ],
   "stihiriMinei": [
@@ -26,7 +27,7 @@
       "text": "Din tulburările lumii fugind preafericite, ți-ai păzit gândul întru netulburare, nerătăcit şi nezbuciumat, întru tulburările şi întru întreitele valuri ale vieții, şi l-ai ţinut întins, şi spre înălțime cu dragoste privind, către Stăpânul cel de sus, Făcătorul de bine al tuturor, vrednicule de fericire Iacove."
     },
     {
-      "text": "Afară din tulburarea lumii petrecându-ți viața Părinte, te-ai făcut slobod de patimi, fiind păzit cu Darul, şi cu pustnicie întinsă, şi cu fulgerele cele dumnezeieşti detunând oştile diavolilor, dănțuiești lângă Împăratul tuturor şi Domnul, bucurându-te acum împreună cu îngerii, a căror viaţă ai moştenit, Fericite."
+      "text": "Afară din tulburarea lumii petrecându-ți viața Părinte, te-ai făcut slobod de patimi, fiind păzit cu Darul, şi cu pustnicie întinsă, şi cu fulgerele cele dumnezeieşti detunând oştile dracilor, dănțuiești lângă Împăratul tuturor şi Domnul, bucurându-te acum împreună cu îngerii, a căror viaţă ai moştenit, Fericite."
     },
     {
       "text": "Afară de lume şi de trup, ai vieţuit mai presus de toate ceste văzute, ca unul ce cugetai la slava cea nevăzută, şi te minunai întru buna cuviinţă a cortului celui ceresc, şi întru frumuseţea cea nepricepută. De care acum umplându-te, roagă-te lui Hristos, ca să mântuiască, pe cei ce cu credinţă te cinstesc pe tine, Părinte Iacove."
@@ -35,9 +36,10 @@
       "text": "Din tulburările lumii fugind preafericite, ți-ai păzit gândul întru netulburare, nerătăcit şi nezbuciumat, întru tulburările şi întru întreitele valuri ale vieții, şi l-ai ţinut întins, şi spre înălțime cu dragoste privind, către Stăpânul cel de sus, Făcătorul de bine al tuturor, vrednicule de fericire Iacove."
     }
   ],
+  "rubricaTriod": "La Doamne strigat-am..., punem Stihiri 10 : Cântăm Stihira zilei, de două ori; apoi 4 martirice ale glasului şi 4 din Minei. Slavă..., a morţilor, a lui Ioan Damaschin. Şi acum..., a Născătoarei, cea întâi a glasului, dogmatica.",
   "slavaMortilor": {
-    "glas": "8",
-    "text": "Când vei veni să faci judecată dreaptă, Preadreptule, pe noi neosândiţi Cuvântule să ne mântuieşti pentru rugăciunile lor."
+    "glas": "7",
+    "text": "Odihneşte Stăpâne în curţile Tale pe cei ce au adormit întru credinţă, şi împărăţiei Tale îi învredniceşte."
   },
   "prochimen1": {
     "glas": 4,
@@ -46,7 +48,7 @@
   },
   "paremia1": {
     "sursa": "Facere",
-    "referinta": "Cap. 12, vers 1–7.",
+    "referinta": "Cap. 12, Vers. 1-7.",
     "text": "După aceea a zis Domnul către Avram: «Ieşi din pământul tău, din neamul tău şi din casa tatălui tău şi vino în pământul pe care ţi-l voi arăta Eu.» Şi Eu voi ridica din tine un popor mare, te voi binecuvânta, voi mări numele tău şi vei fi izvor de binecuvântare. Binecuvânta-voi pe cei ce te vor binecuvânta, iar pe cei ce te vor blestema îi voi blestema; şi se vor binecuvânta întru tine toate neamurile pământului». Deci a plecat Avram, cum îi zisese Domnul, şi s-a dus şi Lot cu el. Avram însă era de şaptezeci şi cinci de ani, când a ieşit din Haran. Şi a luat Avram pe Sarai, femeia sa, pe Lot, fiul fratelui său, şi toate averile ce agonisiseră ei şi toţi oamenii, pe care-i aveau în Haran, şi au ieşit, ca să meargă în ţara Canaanului şi au ajuns în Canaan. Apoi a străbătut Avram ţara aceasta de-a lungul până la locul numit Sichem, până la stejarul Mamvri. Pe atunci trăiau în ţara aceasta Canaaneii. Acolo S-a arătat Domnul lui Avram şi i-a zis: «Ţara aceasta o voi da urmaşilor tăi». Şi a zidit Avram acolo un jertfelnic Domnului, Celui ce Se arătase."
   },
   "prochimen2": {
@@ -56,7 +58,7 @@
   },
   "paremia2": {
     "sursa": "Pilde",
-    "referinta": "Cap. 14, vers 15–26.",
+    "referinta": "Cap. 14, Vers. 15-26.",
     "text": "Omul simplu crede toate vorbele; omul înţelept veghează paşii săi. Înţeleptul se teme şi se fereşte de rău, iar cel fără de minte îşi iese din fire şi se simte la adăpost. Cel iute la mânie săvârşeşte nebunii, iar cel cumpănit se stăpâneşte. Cei nepricepuţi au parte de nebunie, pe când cei înţelepţi sunt încununaţi cu ştiinţă. Cei răi se pleacă înaintea celor buni şi cei nelegiuiţi stau la porţile celor drepţi. Săracul este dispreţuit chiar şi de prietenul lui, pe când prietenii celui bogat sunt fără de număr. Cel care nu bagă în seamă pe prietenul său săvârşeşte un păcat; iar cel ce se îndură de sărmani e fericit. Cu adevărat rătăcesc cei ce plănuiesc fărădelegea, iar cei ce cugetă la lucruri bune au parte de milostivire şi de adevăr. Orice osteneală duce la îndestulare, iar cuvintele fără rost la lipsă. Bogăţia este o cunună pentru cei înţelepţi; iar coroana celor nebuni este nebunia. Martorul drept scapă suflete, iar cel viclean spune numai minciuni. Întru frica lui Dumnezeu este nădejdea celui tare; fiii lui afla-vor un liman."
   }
 }

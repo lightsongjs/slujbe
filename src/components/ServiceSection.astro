@@ -24,15 +24,15 @@ const roleLabels: Record<string, string> = {
 };
 
 const roleClasses: Record<string, string> = {
-  preot: "text-red-700/80",
-  diacon: "text-red-700/80",
+  preot: "text-emerald-800",
+  diacon: "text-emerald-800",
   strana: "text-black",
   citeti: "text-black",
   rubrica: "text-red-700 italic text-sm",
 };
 
 function labelClass(role: string): string {
-  if (role === "preot" || role === "diacon") return "text-red-800 font-bold";
+  if (role === "preot" || role === "diacon") return "text-emerald-700 font-bold";
   return "text-stone-600 font-semibold";
 }
 
@@ -65,7 +65,7 @@ let prevWasRubrica = false;
               {roleLabels[line.role]}
             </p>
           )}
-          {line.redInitial && line.role !== "preot" && line.role !== "diacon" ? (
+          {(line.role === "strana" || line.redInitial) && line.role !== "preot" && line.role !== "diacon" ? (
             <p class:list={[
               roleClasses[line.role],
               line.role !== "rubrica" ? "pl-4 text-justify" : "pl-0",

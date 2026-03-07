@@ -1,8 +1,10 @@
 ---
 import ServiceLayout from "../../layouts/ServiceLayout.astro";
 import ServiceSection from "../../components/ServiceSection.astro";
+import PregatesteBanner from "../../components/PregatesteBanner.astro";
 import { getPresanctifiedContext, getPresanctifiedDays } from "../../lib/context";
 import { composePresanctified } from "../../lib/composer-presanctified";
+import { getEntry } from "astro:content";
 
 import type { GetStaticPaths } from "astro";
 
@@ -21,6 +23,14 @@ if (!context) {
 }
 
 const service = await composePresanctified(context);
+const presanctData = await getEntry("presanctified", context.slug);
+
+// Sfântul din Minei = ziua URMĂTOARE (nu ziua curentă)
+const nextDay = new Date(context.date);
+nextDay.setUTCDate(nextDay.getUTCDate() + 1);
+const mineiSlug = `${String(nextDay.getUTCMonth() + 1).padStart(2, "0")}-${String(nextDay.getUTCDate()).padStart(2, "0")}`;
+const mineiEntry = await getEntry("minei", mineiSlug);
+const sfantMinei = mineiEntry?.data?.saint ?? "";
 
 const dayLabel = context.dayOfWeek === "miercuri" ? "Miercuri" : "Vineri";
 const pageTitle = `Liturghia Darurilor — ${dayLabel}, ${context.formattedDate}`;
@@ -32,6 +42,10 @@ const pageTitle = `Liturghia Darurilor — ${dayLabel}, ${context.formattedDate}
     <p class="text-rubric font-medium">Liturghia Darurilor Înainte Sfințite</p>
     <p class="text-stone-400 text-sm">Săptămâna {context.lentWeek} — Glasul {context.tone}</p>
   </div>
+
+  {presanctData && (
+    <PregatesteBanner data={presanctData.data} glasDeRand={context.tone} sfantMinei={sfantMinei} />
+  )}
 
   {service.sections.map((section) => (
     <ServiceSection section={section} />

@@ -89,24 +89,6 @@ async function loadStihuri(slug: string): Promise<Stih[]> {
   return entry.data.stihuri as Stih[];
 }
 
-/**
- * Expands catisma lines by replacing each "Ectenia mică:" rubric marker
- * with the actual ectenia-mica lines loaded from its own JSON file.
- */
-function expandEcteniaMica(
-  catismaLines: ServiceLine[],
-  ecteniaMicaLines: ServiceLine[],
-): ServiceLine[] {
-  const result: ServiceLine[] = [];
-  for (const line of catismaLines) {
-    if (line.role === "rubrica" && line.text === "Ectenia mică:") {
-      result.push(...ecteniaMicaLines);
-    } else {
-      result.push(line);
-    }
-  }
-  return result;
-}
 
 // ---------------------------------------------------------------------------
 // Public API
@@ -122,14 +104,19 @@ export async function composePresanctified(
     inceput,
     psalm103,
     ecteniaMare,
-    catisma18,
-    ,
+    catisma18starea1,
+    catisma18ectenie1,
+    catisma18starea2,
+    catisma18ectenie2,
+    catisma18starea3,
+    catisma18ectenie3,
     doamneStrigatAm,
     stihuri,
     saSeIndrepteze,
     ecteniaIntreita,
     ecteniaCatehumenilor,
-    ecteniaLuminare,
+    ecteniaCred1,
+    ecteniaCred2,
     heruvicDaruri,
     ecteniaCererileDaruri,
     tatalNostruDaruri,
@@ -143,14 +130,19 @@ export async function composePresanctified(
     loadFixed("inceput"),
     loadFixed("psalm103"),
     loadFixed("ectenia-mare"),
-    loadFixed("catisma18"),
-    loadFixed("ectenia-mica"),
+    loadFixed("catisma18-starea1"),
+    loadFixed("catisma18-ectenie1"),
+    loadFixed("catisma18-starea2"),
+    loadFixed("catisma18-ectenie2"),
+    loadFixed("catisma18-starea3"),
+    loadFixed("catisma18-ectenie3"),
     loadFixed("doamne-strigat-am"),
     loadStihuri("stihuri-la-doamne-strigat-am"),
     loadFixed("sa-se-indrepteze"),
     loadFixed("ectenia-intreita"),
     loadFixed("ectenia-catehumenilor"),
-    loadFixed("ectenia-luminare"),
+    loadFixed("ectenia-credinciosilor-1"),
+    loadFixed("ectenia-credinciosilor-2"),
     loadFixed("heruvic-daruri"),
     loadFixed("ectenia-cererilor-daruri"),
     loadFixed("tatal-nostru-daruri"),
@@ -164,9 +156,11 @@ export async function composePresanctified(
 
   const data = presanctData?.data;
 
-  // --- Build Doamne strigat-am section (pe 10) ---
+  // --- Psalmii 140+141 (Doamne strigat-am) ---
+  const psalmiiLines: ServiceLine[] = [...doamneStrigatAm];
+
+  // --- Stihirile pe 10 (intercalate cu stihuri) ---
   const stihiriLines: ServiceLine[] = [
-    ...doamneStrigatAm,
     L("rubrica", "Și îndată se cântă stihirile pe 10:"),
   ];
 
@@ -181,7 +175,7 @@ export async function composePresanctified(
     // 1. Samoglasnica zilei (×2)
     allStihiri.push({
       text: data.stihiraZilei.text,
-      rubricBefore: `Stihira zilei, glasul ${data.tone}, singur glasul:`,
+      rubricBefore: `Stihira zilei, glasul ${data.stihiraZilei.glas || data.tone}, singur glasul:`,
     });
     allStihiri.push({ text: data.stihiraZilei.text });
 
@@ -340,13 +334,43 @@ export async function composePresanctified(
       lines: ecteniaMare,
     },
     {
-      id: "catisma-18",
-      title: "Catisma 18 (Psalmii 119–133)",
-      lines: catisma18,
+      id: "catisma18-starea1",
+      title: "Catisma 18 — Starea 1 (Ps. 119–123)",
+      lines: catisma18starea1,
+    },
+    {
+      id: "catisma18-ectenie1",
+      title: "Ectenia mică (după Starea 1)",
+      lines: catisma18ectenie1,
+    },
+    {
+      id: "catisma18-starea2",
+      title: "Catisma 18 — Starea 2 (Ps. 124–128)",
+      lines: catisma18starea2,
+    },
+    {
+      id: "catisma18-ectenie2",
+      title: "Ectenia mică (după Starea 2)",
+      lines: catisma18ectenie2,
+    },
+    {
+      id: "catisma18-starea3",
+      title: "Catisma 18 — Starea 3 (Ps. 129–133)",
+      lines: catisma18starea3,
+    },
+    {
+      id: "catisma18-ectenie3",
+      title: "Ectenia mică (după Starea 3)",
+      lines: catisma18ectenie3,
     },
     {
       id: "doamne-strigat-am",
-      title: "Doamne strigat-am – Stihirile pe 10",
+      title: "Doamne strigat-am (Ps. 140, 141)",
+      lines: psalmiiLines,
+    },
+    {
+      id: "stihiri",
+      title: "Stihirile pe 10",
       lines: stihiriLines,
     },
     {
@@ -391,19 +415,21 @@ export async function composePresanctified(
     },
   ];
 
-  // Ectenia luminării — from week 4 onward
-  if (context.lentWeek >= 4) {
-    sections.push({
-      id: "ectenia-luminare",
-      title: "Ectenia celor ce vin spre luminare",
-      lines: ecteniaLuminare,
-    });
-  }
-
+  // Cele două ectenii mici ale credincioșilor
   sections.push(
     {
+      id: "ectenia-credinciosilor-1",
+      title: "Ectenia mică (I) a credincioșilor",
+      lines: ecteniaCred1,
+    },
+    {
+      id: "ectenia-credinciosilor-2",
+      title: "Ectenia mică (II) a credincioșilor",
+      lines: ecteniaCred2,
+    },
+    {
       id: "heruvic-daruri",
-      title: "Acum Puterile cerești",
+      title: "Heruvic: Acum Puterile cerești",
       lines: heruvicDaruri,
     },
     {

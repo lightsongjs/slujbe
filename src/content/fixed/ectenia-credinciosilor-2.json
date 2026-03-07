@@ -1,0 +1,24 @@
+{
+  "id": "ectenia-credinciosilor-2",
+  "title": "Ectenia mică (II) a credincioșilor",
+  "lines": [
+    { "role": "rubrica", "text": "Diaconul:" },
+    { "role": "preot", "text": "Iară și iară cu pace, Domnului să ne rugăm." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Pentru pacea de sus și pentru mântuirea sufletelor noastre, Domnului să ne rugăm." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Pentru pacea a toată lumea, pentru bunăstarea sfintelor lui Dumnezeu Biserici și pentru unirea tuturor, Domnului să ne rugăm." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Pentru sfânta biserica aceasta și pentru cei ce cu credință, cu evlavie și cu frică de Dumnezeu intră și se roagă într-însa, Domnului să ne rugăm." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "preot", "text": "Pentru ca să fim izbăviți noi de tot necazul, mânia, primejdia și nevoia, Domnului să ne rugăm." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "rubrica", "text": "Preotul citește în taină Rugăciunea a doua pentru credincioși, apoi diaconul:" },
+    { "role": "preot", "text": "Apără, mântuiește, miluiește și ne păzește pe noi, Dumnezeule, cu harul Tău." },
+    { "role": "preot", "text": "Înțelepciune!" },
+    { "role": "rubrica", "text": "Preotul zice cu glas mare:" },
+    { "role": "preot", "text": "După darul Hristosului Tău, cu Care ești binecuvântat, împreună cu Preasfântul și bunul și de viață făcătorul Tău Duh, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." },
+    { "role": "rubrica", "text": "Diaconul intră în Altar, iar la strană începe îndată să se cânte, rar, cântarea heruvimică:" }
+  ]
+}

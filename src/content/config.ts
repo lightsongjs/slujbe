@@ -89,9 +89,10 @@ const presanctified = defineCollection({
     lentWeek: z.number(),
     title: z.string(),
     tone: z.number(),
-    stihiraZilei: stihiraSchema,
+    stihiraZilei: z.object({ text: z.string(), glas: z.number().optional() }),
     stihiriMucenicilor: z.array(stihiraSchema),
     stihiriMinei: z.array(stihiraSchema),
+    rubricaTriod: z.string().optional(),
     slavaMortilor: z.object({
       glas: z.string(),
       text: z.string(),

@@ -3,22 +3,23 @@
   "dayOfWeek": "vineri",
   "lentWeek": 3,
   "title": "Vineri, săptămâna a 3-a din Post",
-  "tone": 7,
+  "tone": 6,
   "stihiraZilei": {
-    "text": "Ca un dezmierdat m-am depărtat de la darul Tău, Doamne. Şi bogăţia bunătăţii risipindu-o, am alergat la Tine, Îndurate, strigând către Tine : Dumnezeule greşit-am ! Miluieşte-mă."
+    "text": "Ca un dezmierdat m-am depărtat de la darul Tău, Doamne. Şi bogăţia bunătăţii risipindu-o, am alergat la Tine, Îndurate, strigând către Tine : Dumnezeule greşit-am ! Miluieşte-mă.",
+    "glas": 7
   },
   "stihiriMucenicilor": [
     {
-      "text": "Sfinţilor mucenici, care bine v-ați nevoit, și v-ați încununat, rugaţi-vă Domnului, să se miluiască sufletele noastre."
+      "text": "Izbăveşte-mă de gheena care mă aşteaptă, scoate-mă din focul cel veșnic pe mine cel osândit, preadrepte Judecătorule, arată-mă nerobit de furtuna cea împotrivă, că mă cutremur ticălosul, aducându-mi aminte de mulţimea greşalelor mele, şi cad la Tine, Cuvântule cu lacrimi, și cu zdrobirea inimii, cerând mila Ta."
     },
     {
-      "text": "Defăimând toate cele pământeşti Sfinţilor Mucenici, și prin divanuri pe Hristos bărbăteşte propovăduindu-L, răsplătiri ați luat de la El pentru munci. Ci ca cei ce aveţi îndrăzneală, pe Dânsul rugaţi-L, ca pe Dumnezeu cel atotputernic, să mântuiască sufletele noastre, a celor ce alergăm către voi, rugămu-ne."
+      "text": "Cine nu mă va, plânge pe mine cel ce am călcat porunca Stăpânului pentru neînfrânare, cel ce am locuit iadul, în locul raiului, mâncarea ceea ce mi s-a părut dulce întru fiere s-a întors, străin de mărirea Ta şi de îngeri m-am arătat, Îndurate. Ci mă primeşte Doamne pe mine cela ce mă pocăiesc, ca un milostiv şi iubicor de oameni, pentru mare mila Ta."
     },
     {
-      "text": "Prealăudaţilor mucenici, oile cele duhovniceşti, întregile arderi cele cuvântătoare, jertfa cea primită, plăcută lui Dumnezeu, pe voi nu v-a ascuns pământul, ci cerul v-a primit, cu îngerii v-aţi făcut părtaşi, cu care dimpreună rugaţi pe Mântuitorul și Dumnezeul nostru, rugămu-vă pe voi, ca să împace lumea, şi să mântuiască sufletele noastre."
+      "text": "Pe toţi cei adormiţi în credinţă rânduieşte-i Dătătorule de viață în partea celor vii, în locurile de odihnă, în corturile cele veșnice, unde străluceşte din-destul lumina feței Tale, unde este desfătarea şi bucuria, şi pacea drepţilor, trecând cu vederea greşalele lor, cele cu lucrul, cu cuvântul şi cu gândul Stăpâne, pentru multă bunătatea Ta."
     },
     {
-      "text": "Mântuitorule, când vei veni să judeci toată lumea, să nu mă ruşinezi pe mine, cel ce am făcut fapte de ruşine."
+      "text": "Cei ce au mărturisit pentru Tine, Hristoase, multe munci au răbdat, şi cununa cea desăvârşită au luat în ceruri, ca să se roage pentru sufletele noastre."
     }
   ],
   "stihiriMinei": [
@@ -35,9 +36,10 @@
       "text": "Cu credință şi cu dragoste adevărată, lepădându-te de lume Părinte Cuvioase, din tinereţe bucurându-te ai urmat lui Hristos Celui ce S-a răstignit, şi prin multe nevoinţe trupul omorându-l, din-destul ai luat darul tămăduirilor, a înceta neputinţele cele de multe feluri, şi a goni duhurile vicleşugului, cu mărire minunându-te."
     }
   ],
+  "rubricaTriod": "La Doamne strigat-am... punem Stihiri 10 şi cântăm Stihira zilei de două ori. Apoi patru Martirice ale glasului şi patru din Minei. Slavă..., a morţilor. Şi acum..., a Născătoarei, cea întâia a glasului.",
   "slavaMortilor": {
-    "glas": "7",
-    "text": "Odihneşte Stăpâne în curţile Tale pe cei ce au adormit întru credinţă, şi împărăţiei Tale îi învredniceşte."
+    "glas": "6",
+    "text": "Începătură şi stat mi s-a făcut mie porunca Ta cea ziditoare; că voind din firea cea nevăzută, şi din cea văzută ființă să mă alcătuieşti, din pământ trupul meu l-ai zidit, iar suflet mi-ai dat cu insuflarea Ta cea dumnezeiască și de viață făcătoare. Pentru aceasta Mântuitorule pe robii Tăi în latura celor vii, în corturile drepţilor odihneşte-i."
   },
   "prochimen1": {
     "glas": 4,
@@ -46,7 +48,7 @@
   },
   "paremia1": {
     "sursa": "Facere",
-    "referinta": "Cap. 8, vers 4–21.",
+    "referinta": "Cap. 8, Vers 4-20.",
     "text": "Iar în luna a şaptea, în ziua a douăzeci şi şaptea a lunii acesteia, s-a oprit corabia pe Munţii Ararat. Apa a scăzut mereu până în luna a zecea; iar în ziua întâi a lunii a zecea s-au arătat vârfurile munţilor. După patruzeci de zile, a deschis Noe fereastra, pe care o făcuse la corabie, şi a dat drumul corbului, ca să vadă de a scăzut apa pe pământ. Acesta, zburând, nu s-a mai întors până ce a secat apa de pe pământ. Apoi, după el a trimis porumbelul, ca să vadă de s-a scurs apa de pe pământ. Porumbelul însă, negăsind loc de odihnă pentru picioarele sale, s-a întors la el, în corabie; căci era încă apă pe toată faţa pământului. Şi a întins Noe mâna şi l-a apucat şi l-a băgat la sine, în corabie. Şi aşteptând încă alte şapte zile, a dat iarăşi drumul porumbelului din corabie, şi porumbelul s-a întors la el, spre seară, şi iată avea în ciocul său o ramură verde de măslin. Atunci a cunoscut Noe că s-a scurs apa de pe faţa pământului. Mai zăbovind încă alte şapte zile, iarăşi a dat drumul porumbelului şi el nu s-a mai întors. Iar în anul şase sute unu al vieţii lui Noe, în ziua întâi a lunii întâi, secând apa de pe pământ, a ridicat Noe acoperişul corăbiei şi a privit, şi iată se zbicise faţa pământului. Iar în luna a doua, la douăzeci şi şapte ale lunii acesteia, pământul era uscat. Atunci a grăit Domnul Dumnezeu lui Noe şi a zis: «Ieşi din corabie tu şi împreună cu tine femeia ta, fiii tăi şi femeile fiilor tăi. Scoate de asemenea împreună cu tine toate vietăţile, care sunt cu tine, şi tot trupul, de la păsări şi până la animale, şi toate vietăţile ce se mişcă pe pământ, ca să se împrăştie pe pământ, să se prăsească şi să se înmulţească pe pământ». Atunci a ieşit Noe din corabie; şi împreună cu el au ieşit fiii lui, femeia lui şi femeile fiilor lui; toate fiarele, toate animalele, toate păsurile şi toate câte se mişcă pe pământ, după felul lor, au ieşit din corabie. Apoi a făcut Noe un jertfelnic Domnului; şi a luat din animalele cele curate şi din toate păsurile cele curate şi le-a adus ardere de tot pe jertfelnic. Iar Domnul Dumnezeu a mirosit mireasmă bună şi a zis Domnul Dumnezeu în inima Sa: «Am socotit să nu mai blestem pământul pentru faptele omului, pentru că cugetul inimii omului se pleacă la rău din tinereţile lui şi nu voi mai pierde toate vietăţile, cum am făcut.»"
   },
   "prochimen2": {
@@ -56,7 +58,7 @@
   },
   "paremia2": {
     "sursa": "Pilde",
-    "referinta": "Cap. 10, vers 31; cap. 11, vers 1–12.",
+    "referinta": "Cap. 10, Vers 31, Cap. 11, Vers 12",
     "text": "Gura celui drept rodeşte înţelepciune, iar limba urzitoare de rele aduce pierzare. Buzele celui drept cunosc bunăvoirea, iar gura păcătoşilor strâmbătatea. Cântarul strâmb este urgisit de Domnul, şi cântărirea dreaptă este plăcerea Lui. Dacă vine mândria, va veni şi ocara, iar înţelepciunea este cu cei smeriţi. Neprihănirea poartă pe cei drepţi, iar strâmbătatea prăpădeşte pe cei vicleni. La nimic nu foloseşte bogăţia în ziua mâniei; numai dreptatea izbăveşte de moarte. Dreptatea netezeşte calea celui fără prihană, iar cel fără de lege va cădea prin fărădelegea lui. Dreptatea izbăveşte pe cei drepţi, iar cei vicleni vor fi prinşi prin pofta lor. La moartea omului drept rămâne nădejdea, iar la moartea celui păcătos piere nădejdea. Dreptul scapă din strâmtorare, şi cel fără de lege îi ia locul. Făptuitorul de rele prăbuşeşte cu gura pe aproapele lui, iar prin ştiinţa celor drepţi va fi mântuit. De propăşirea celor drepţi cetatea se bucură, iar când pier cei fără de lege ea tresaltă de veselie. Prin binecuvântarea oamenilor drepţi cetatea merge înainte, iar prin gura celor nelegiuiţi ajunge ruină. Cel nepriceput urgiseşte pe aproapele lui, iar omul cu bună-chibzuială tace."
   }
 }

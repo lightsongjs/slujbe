@@ -1,0 +1,14 @@
+{
+  "id": "ectenia-credinciosilor-1",
+  "title": "Ectenia mică (I) a credincioșilor",
+  "lines": [
+    { "role": "preot", "text": "Iară și iară cu pace, Domnului să ne rugăm." },
+    { "role": "strana", "text": "Doamne, miluiește." },
+    { "role": "rubrica", "text": "Preotul citește în taină Rugăciunea întâi pentru credincioși, apoi diaconul:" },
+    { "role": "preot", "text": "Apără, mântuiește, miluiește și ne păzește pe noi, Dumnezeule, cu harul Tău." },
+    { "role": "preot", "text": "Înțelepciune!" },
+    { "role": "rubrica", "text": "Preotul zice cu glas mare:" },
+    { "role": "preot", "text": "Că Ție se cuvine toată slava, cinstea și închinăciunea, Tatălui și Fiului și Sfântului Duh, acum și pururea și în vecii vecilor." },
+    { "role": "strana", "text": "Amin." }
+  ]
+}

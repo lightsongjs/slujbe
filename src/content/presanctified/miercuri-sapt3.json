@@ -3,9 +3,10 @@
   "dayOfWeek": "miercuri",
   "lentWeek": 3,
   "title": "Miercuri, săptămâna a 3-a din Post — Pomenirea celui dintru Sfinţi Părintelui nostru Sofronie Patriarhul Ierusalimului.",
-  "tone": 4,
+  "tone": 6,
   "stihiraZilei": {
-    "text": "Nebuneşte risipind părinteasca mea bogăţie, pustiu m-am făcut, locuind în locul viclenilor cetăţeni; şi prin nepriceperea mea, m-am asemănat dobitoacelor celor neînţelegătoare şi m-am golit de tot darul cel dumnezeiesc. Pentru aceasta întorcându-mă strig către Tine milostivul şi înduratul Părinte : Greşit-am, primeşte-mă pe mine cel ce mă pocăiesc Dumnezeule, şi mă miluieşte."
+    "text": "Nebuneşte risipind părinteasca mea bogăţie, pustiu m-am făcut, locuind în locul viclenilor cetăţeni; şi prin nepriceperea mea, m-am asemănat dobitoacelor celor neînţelegătoare şi m-am golit de tot darul cel dumnezeiesc. Pentru aceasta întorcându-mă strig către Tine milostivul şi înduratul Părinte : Greşit-am, primeşte-mă pe mine cel ce mă pocăiesc Dumnezeule, şi mă miluieşte.",
+    "glas": 4
   },
   "stihiriMucenicilor": [
     {
@@ -29,12 +30,13 @@
       "text": "Părinte de Dumnezeu cugetătorule Teofane, aflându-te în slăbiciune, ai suferit cu răbdare izgoniri amare, necruțându-ți trupul, pentru cinstitele Icoane, prealăudate. Şi de mânia leilor izgonindu-te, ca un batjocoritor, ai nebunit cu adevărat sfaturile şi gândurile cele deşarte, şi mintea cea cumplit înşelătoare."
     },
     {
-      "text": "Cu adevărat a dăruit ție din-destul răsplătirile ostenelilor tale, Dătătorul celor bune, de trei ori fericite, dându-ți putere a izgoni diavolii, şi a tămădui bolile, şi te-ai învrednicit bucuriei celei nespuse, văzând fața Atotțiitorului, unde pururea dănțuiesc cetele îngerilor."
+      "text": "Cu adevărat a dăruit ție din-destul răsplătirile ostenelilor tale, Dătătorul celor bune, de trei ori fericite, dându-ți putere a izgoni dracii, şi a tămădui bolile, şi te-ai învrednicit bucuriei celei nespuse, văzând fața Atotțiitorului, unde pururea dănțuiesc cetele îngerilor."
     },
     {
       "text": "Părinte de Dumnezeu cugetătorule Teofane, fiind numit cu numirea Dumnezeieştii arătării lui Hristos, ai urmat urmelor lui celor purtătoare de viață, şi cele veselitoare ale vieţii le-ai părăsit, privind spre frumuseţea cea dorită de tine, prea-alesule. Şi prin dumnezeieştile privirile cele către Dânsul, prea bine şi desăvârşit îndumnezeindu-te."
     }
   ],
+  "rubricaTriod": "La Doamne strigat-am..., punem Stihirile pe 10 și cântăm Stihira de două ori, apoi Martirica şi trei podobnice ale Triodului. Şi din Minei 4, Slavă..., Şi acum..., a Născătoarei.",
   "nascatoarea": {
     "text": "Vino suflete al meu suspinând, şi izvoare de lacrimi din inimă aducând, strigă Fecioarei şi Maicii Dumnezeului nostru. Pentru mulţimea îndurărilor tale Preacurată, izbăveşte-mă de munca cea înfricoşată, şi mă sălăşluieşte unde este odihna şi bucuria şi desfătarea cea veșnică."
   },
@@ -45,7 +47,7 @@
   },
   "paremia1": {
     "sursa": "Facere",
-    "referinta": "Cap. 7, vers 6–9.",
+    "referinta": "Cap. 7, Vers. 6-9.",
     "text": "Noe însă, când a venit asupra pământului potopul de apă, era de şase sute de ani. Şi a intrat Noe în corabie şi împreună cu el au intrat fiii lui, femeia lui şi femeile fiilor lui, ca să scape de apele potopului. Din păsurile curate şi din păsurile necurate, din animalele curate şi din animalele necurate, din fiare şi din toate cele ce se mişcă pe pământ au intrat la Noe în corabie perechi, perechi, parte bărbătească şi parte femeiască, cum poruncise Dumnezeu lui Noe."
   },
   "prochimen2": {
@@ -55,7 +57,7 @@
   },
   "paremia2": {
     "sursa": "pilde",
-    "referinta": "Cap. 9, vers 12–18.",
+    "referinta": "Cap. 9, Vers 12-18.",
     "text": "Dacă tu eşti înţelept, eşti înţelept pentru tine, şi dacă eşti batjocoritor, singur vei purta ponosul. Nebunia este o femeie gălăgioasă, proastă şi care nu ştie nimic. Ea stă la uşa casei sale, pe un scaun înalt şi strigă, ca să poftească pe cei ce trec pe drum şi pe cei ce merg pe calea lor fără să se abată: «Cine este neînţelept să intre la mine!» Şi celui lipsit de buna-chibzuială îi zice: «Apa furată e mai plăcută şi pâinea mâncată pe furiş are gust mai bun». Şi omul nu ştie că acolo sunt numai umbre, iar cei pe care îi pofteşte nebunia se află de mult în adâncurile şeolului."
   }
 }

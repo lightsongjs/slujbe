@@ -1,0 +1,192 @@
+---
+/**
+ * PregatesteBanner.astro
+ *
+ * Afișează automat lista de cărți necesare și rânduiala stihirilor
+ * la începutul paginii Liturghiei Darurilor Înainte Sfințite.
+ *
+ * Derivă totul din datele deja existente în JSON-ul presanctified.
+ */
+
+interface Stihira {
+  text: string;
+}
+
+interface Prochimen {
+  glas: number;
+  text: string;
+  stih: string;
+}
+
+interface Paremia {
+  sursa: string;
+  referinta: string;
+  text: string;
+}
+
+interface SlavaMortilor {
+  glas: number;
+  text: string;
+}
+
+interface Nascatoarea {
+  text: string;
+}
+
+interface Props {
+  data: {
+    date: string;
+    dayOfWeek: "miercuri" | "vineri";
+    lentWeek: number;
+    title: string;
+    tone: number;
+    stihiraZilei: { text: string };
+    stihiriMucenicilor: Stihira[];
+    stihiriMinei: Stihira[];
+    rubricaTriod?: string;
+    nascatoarea?: Nascatoarea;
+    slavaMortilor?: SlavaMortilor;
+    prochimen1: Prochimen;
+    paremia1: Paremia;
+    prochimen2: Prochimen;
+    paremia2: Paremia;
+  };
+  glasDeRand: number;
+  /** Sfântul din Minei (ziua următoare, nu ziua curentă). */
+  sfantMinei?: string;
+}
+
+const { data, glasDeRand, sfantMinei } = Astro.props;
+
+// --- Derivăm rânduiala din structura datelor ---
+
+// Miercuri: Stihira zilei (×2) + Martirica (1) + 3 podobnice = toate din Triod
+// Vineri:   Stihira zilei (×2) din Triod + 4 Martirice din Octoih (glasul de rând)
+const isMiercuri = data.dayOfWeek === "miercuri";
+const nrMartirice = isMiercuri ? 1 : Math.min(data.stihiriMucenicilor.length, 4);
+const nrPodobinceTriod = isMiercuri ? Math.max(0, data.stihiriMucenicilor.length - 1) : 0;
+const nrMinei = data.stihiriMinei.length;
+const total = 2 + nrMartirice + nrPodobinceTriod + nrMinei;
+
+// Formăm textul rânduielii
+const partiRanduiala: string[] = [];
+partiRanduiala.push(`Stihira zilei ×2 (Triod)`);
+if (isMiercuri) {
+  partiRanduiala.push(`Martirica (Triod)`);
+  if (nrPodobinceTriod > 0) partiRanduiala.push(`${nrPodobinceTriod} podobnice (Triod)`);
+} else {
+  partiRanduiala.push(`${nrMartirice} Martirice (Octoih, gl. ${glasDeRand})`);
+}
+if (nrMinei > 0) partiRanduiala.push(`${nrMinei} Minei`);
+const randuialaText = partiRanduiala.join(" · ");
+
+// --- Lista de cărți ---
+interface Carte {
+  nume: string;
+  detaliu: string;
+}
+
+const carti: Carte[] = [];
+
+// 1. Triodul — întotdeauna necesar (stihira zilei + martirica/podobnice miercuri, stihira zilei vineri)
+const ziuaTriod = data.dayOfWeek === "miercuri" ? "Joi" : "Sâmbătă";
+if (isMiercuri) {
+  carti.push({
+    nume: "Triodul",
+    detaliu: `${ziuaTriod}, săpt. ${data.lentWeek} (stihira zilei, martirica, ${nrPodobinceTriod} podobnice)`,
+  });
+} else {
+  carti.push({
+    nume: "Triodul",
+    detaliu: `${ziuaTriod}, săpt. ${data.lentWeek} (stihira zilei)`,
+  });
+  // 2. Octoihul — necesar vinerea (martirice ale glasului de rând)
+  carti.push({
+    nume: "Octoihul",
+    detaliu: `glasul ${glasDeRand}, Vineri seara (${nrMartirice} martirice + Slavă, a morților)`,
+  });
+}
+
+// 3. Mineiul — dacă avem stihiri din Minei
+if (nrMinei > 0) {
+  // Data Mineiului = ziua următoare (miercuri → joi, vineri → sâmbătă)
+  // Stihirile din Minei sunt ale sfântului zilei URMĂTOARE, nu al zilei curente
+  const dateObj = new Date(data.date + "T00:00:00Z");
+  const nextDay = new Date(dateObj);
+  nextDay.setUTCDate(nextDay.getUTCDate() + 1);
+  const dayNum = nextDay.getUTCDate();
+  const monthNames = [
+    "ianuarie", "februarie", "martie", "aprilie", "mai", "iunie",
+    "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie",
+  ];
+  const monthName = monthNames[nextDay.getUTCMonth()];
+  const mineiDate = `${dayNum} ${monthName}`;
+
+  const nascInfo = data.nascatoarea ? " + Născătoarea" : "";
+  const detaliu = sfantMinei
+    ? `${mineiDate} — ${sfantMinei} (${nrMinei} stihiri${nascInfo})`
+    : `${mineiDate} (${nrMinei} stihiri${nascInfo})`;
+
+  carti.push({
+    nume: "Mineiul",
+    detaliu,
+  });
+}
+
+// --- Paremii ---
+function formatParemieSursa(p: Paremia): string {
+  const numeCarteFrumos = p.sursa.charAt(0).toUpperCase() + p.sursa.slice(1);
+  return `${numeCarteFrumos} ${p.referinta}`;
+}
+
+// --- Slavă..., Și acum ---
+let slavaSiAcum = "";
+if (data.nascatoarea) {
+  slavaSiAcum = "Slavă..., Și acum..., a Născătoarei din Minei";
+} else if (data.slavaMortilor) {
+  slavaSiAcum = `Slavă..., a morților (gl. ${data.slavaMortilor.glas}); Și acum..., Dogmatica gl. ${glasDeRand}`;
+}
+---
+
+<div class="mb-8 border border-stone-300 rounded-lg bg-stone-50 print:bg-white print:border-stone-400">
+  {/* Header */}
+  <div class="px-5 py-3 border-b border-stone-200 bg-stone-100 rounded-t-lg print:bg-white">
+    <h3 class="font-bold text-stone-700 text-sm uppercase tracking-wide">
+      Pregătește
+    </h3>
+  </div>
+
+  <div class="px-5 py-4 space-y-4 text-sm">
+    {/* Lista de cărți */}
+    <div>
+      <p class="font-semibold text-stone-600 mb-1.5">Cărți necesare:</p>
+      <ul class="space-y-1 pl-4">
+        {carti.map((c) => (
+          <li class="flex gap-1.5">
+            <span class="text-rubric font-semibold shrink-0">{c.nume}</span>
+            <span class="text-stone-500">— {c.detaliu}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    {/* Rânduiala din Triod */}
+    <div>
+      <p class="font-semibold text-stone-600 mb-1">Rânduiala la Doamne strigat-am (Triod):</p>
+      {data.rubricaTriod ? (
+        <p class="text-stone-500 pl-4 italic">{data.rubricaTriod}</p>
+      ) : (
+        <p class="text-stone-500 pl-4">{randuialaText}</p>
+      )}
+    </div>
+
+    {/* Paremii */}
+    <div>
+      <p class="font-semibold text-stone-600 mb-1">Paremii (2 citiri):</p>
+      <ol class="pl-4 space-y-0.5 text-stone-500 list-decimal list-inside">
+        <li>{formatParemieSursa(data.paremia1)}</li>
+        <li>{formatParemieSursa(data.paremia2)}</li>
+      </ol>
+    </div>
+  </div>
+</div>

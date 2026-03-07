@@ -219,13 +219,10 @@ export function getPresanctifiedDays(year: number): PresanctifiedContext[] {
       const dayOfWeek = DAY_NAMES[utcDay];
       if (!dayOfWeek) continue;
 
-      // Tone: the Sunday of this week (the previous Sunday for the cycle)
+      // Tone: the Sunday that opened this week (the preceding Sunday)
       const prevSunday = new Date(d);
       prevSunday.setUTCDate(prevSunday.getUTCDate() - utcDay);
-      // For week 1, prevSunday is before Lent — use the next Sunday instead
-      const nextSunday = new Date(d);
-      nextSunday.setUTCDate(nextSunday.getUTCDate() + (7 - utcDay));
-      const tone = getOctoechosTone(nextSunday);
+      const tone = getOctoechosTone(prevSunday);
 
       const slug = `${dayOfWeek}-sapt${week}`;
 

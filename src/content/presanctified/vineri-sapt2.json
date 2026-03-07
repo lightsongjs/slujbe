@@ -3,22 +3,23 @@
   "dayOfWeek": "vineri",
   "lentWeek": 2,
   "title": "Vineri, săptămâna a 2-a din Post — Pomenirea Sfinţilor patruzeci şi doi de Mucenici din Amoreea : Teodor, Constantin, Calist, Teofil, Vasois şi cei împreună cu ei.",
-  "tone": 4,
+  "tone": 5,
   "stihiraZilei": {
-    "text": "Acum este vreme bineprimită, acum este ziua mântuirii; cu mulţimea milei Tale cercetează sufletul meu şi sarcina fărădelegilor mele uşurează-o, Unule, Iubitorule de oameni."
+    "text": "Acum este vreme bineprimită, acum este ziua mântuirii; cu mulţimea milei Tale cercetează sufletul meu şi sarcina fărădelegilor mele uşurează-o, Unule, Iubitorule de oameni.",
+    "glas": 4
   },
   "stihiriMucenicilor": [
     {
-      "text": "Izbăveşte-mă de gheena care mă aşteaptă, scoate-mă din focul cel veșnic pe mine cel osândit, preadrepte Judecătorule, arată-mă nerobit de furtuna cea împotrivă, că mă cutremur ticălosul, aducându-mi aminte de mulţimea greşalelor mele, şi cad la Tine, Cuvântule cu lacrimi, și cu zdrobirea inimii, cerând mila Ta."
+      "text": "Fie-Ți milă de robul Tău, Hristoase, când va vrea să se despartă sufletul meu de trup, cu porunca Ta, a Celui ce ai adus întru una ţarină și duhul, cu dumnezeiasca Ta voie; izbăveşte-mă de năvălirea și răutatea nevăzuţilor vrăjmaşi, care pândesc să mă rupă fără de milă, și să mă facă a lorusi mâncare; învrednicește-mă ca să aflu odihna, de unde au fugit durerea și suspinarea, unde este pârâul desfătării şi glasul şi bucuria celor ce prăznuiesc."
     },
     {
-      "text": "Cine nu mă va, plânge pe mine cel ce am călcat porunca Stăpânului pentru neînfrânare, cel ce am locuit iadul, în locul raiului, mâncarea ceea ce mi s-a părut dulce întru fiere s-a întors, străin de mărirea Ta şi de îngeri m-am arătat, Îndurate. Ci mă primeşte Doamne pe mine cela ce mă pocăiesc, ca un milostiv şi iubicor de oameni, pentru mare mila Ta."
+      "text": "Temându-mă de ceasul sfârşitului, și de ridicarea asupră-mi a dracilor cea înfricoşată strig Ție eu ticălosul din suflet cu durere : Stăpâne Doamne cu puterea Ta, zdrobeşte cursele şi smintelile lor, şi să nu laşi pe robul Tău să se facă cheltuială a răutăţii lor. Vezi mâhnirea mea, și ia aminte la necazul meu, şi-mi slobozeşte ticălosul meu suflet din dureri, Dumnezeule preamilostive, Cela ce dăruiești lumii mare milă."
     },
     {
-      "text": "Pe toţi cei adormiţi în credinţă rânduieşte-i Dătătorule de viață în partea celor vii, în locurile de odihnă, în corturile cele veșnice, unde străluceşte din-destul lumina feței Tale, unde este desfătarea şi bucuria, şi pacea drepţilor, trecând cu vederea greşalele lor, cele cu lucrul, cu cuvântul şi cu gândul Stăpâne, pentru multă bunătatea Ta."
+      "text": "Ca și cananeianca strig și eu Ție, Mântuitorule, tămăduieşte sufletul meu, şi-l izbăveşte de vătămarea dracilor, şi de asupreala vrăjmaşilor celor ce afară de fire mă supără pururea, şi strică pe cel după chipul Tău, Doamne, şi judecata gândului o trag spre pomeniri netrebnice şi defăimate, pe care șterge-le din inima mea, rogu-mă, şi într-însa sădeşte preacurată frica Ta, și dă-mi a săvârşi viața mea în pace şi întru smerenia sufletului."
     },
     {
-      "text": "Cei ce au mărturisit pentru Tine, Hristoase, multe munci au răbdat, şi cununa cea desăvârşită au luat în ceruri, ca să se roage pentru sufletele noastre."
+      "text": "Cu pavăza credinţei îmbrăcându-se, și cu semnul Crucii pe sineşi întărindu-se, la munci bărbăteşte au năvălit, și înşelăciunea diavolului și semeţia au pierdut sfinţii Tăi, Doamne. Pentru rugăciunile lor ca un atotputernic Dumnezeu, trimite lumii Tale pace, şi sufletelor noastre mare milă."
     }
   ],
   "stihiriMinei": [
@@ -35,9 +36,10 @@
       "text": "Mucenici nebiruiți şi prealăudați ierarhi şi luminători a toată lumea, făcutu-v-ați stâlpi neclintiţi ai dumnezeieştii Biserici, temei dogmelor şi povățuitori binecredincioşilor şi surpători înşelăciunii, părinţi cugetători de cele cereşti, luminători sufletelor noastre, vorbitori împreună cu îngerii şi apărători ai Treimii."
     }
   ],
+  "rubricaTriod": "La Doamne strigat-am... Stihirile pe 10 şi cântăm Stihira, de două ori şi patru Martirice ale glasului, şi din Minei patru. Slavă..., a morţilor, Şi acum..., a Născătoarei glasului, Dogmatica.",
   "slavaMortilor": {
-    "glas": "6",
-    "text": "Începătură şi stat mi s-a făcut mie porunca Ta cea ziditoare; că voind din firea cea nevăzută, şi din cea văzută ființă să mă alcătuieşti, din pământ trupul meu l-ai zidit, iar suflet mi-ai dat cu insuflarea Ta cea dumnezeiască și de viață făcătoare. Pentru aceasta Mântuitorule pe robii Tăi în latura celor vii, în corturile drepţilor odihneşte-i."
+    "glas": "5",
+    "text": "Adusu-mi-am aminte de proorocul ce strigă : Eu sunt pământ și cenuşă. Și iarăşi am luat seama în mormânturi, şi am văzut oase goale, şi am zis : Oare cine este împăratul, sau ostaşul, sau bogatul, sau săracul, sau dreptul, sau păcătosul ? Ci odihneşte Doamne cu drepţii pe robii Tăi, ca un iubitor de oameni."
   },
   "prochimen1": {
     "glas": 4,
@@ -46,7 +48,7 @@
   },
   "paremia1": {
     "sursa": "Facere",
-    "referinta": "Cap. 5, vers 32; cap. 6, vers 1–8.",
+    "referinta": "Cap 5, Vers 32. Cap 6, Vers 8.",
     "text": "Noe era de cinci sute de ani, când i s-au născut trei feciori: Sem, Ham şi Iafet. Iar după ce au început a se înmulţi oamenii pe pământ şi li s-au născut fiice, fiii lui Dumnezeu, văzând că fiicele oamenilor sunt frumoase, şi-au ales dintre ele soţii, care pe cine a voit. Dar Domnul Dumnezeu a zis: «Nu va rămâne Duhul Meu pururea în oamenii aceştia, pentru că sunt numai trup. Deci zilele lor să mai fie o sută douăzeci de ani!» În vremea aceea s-au ivit pe pământ uriaşi, mai cu seamă de când fiii lui Dumnezeu începuseră a intra la fiicele oamenilor şi acestea începuseră a le naşte fii: aceştia sunt vestiţii viteji din vechime. Văzând însă Domnul Dumnezeu că răutatea oamenilor s-a mărit pe pământ şi că toate cugetele şi dorinţele inimii lor sunt îndreptate la rău în toate zilele, I-a părut rău şi s-a căit Dumnezeu că a făcut pe om pe pământ. Şi a zis Domnul: «Pierde-voi de pe faţa pământului pe omul pe care l-am făcut! De la om până la dobitoc şi de la târâtoare până la păsările cerului, tot voi pierde, căci Îmi pare rău că le-am făcut». Noe însă a aflat har înaintea Domnului Dumnezeu."
   },
   "prochimen2": {
@@ -56,7 +58,7 @@
   },
   "paremia2": {
     "sursa": "Pilde",
-    "referinta": "Cap. 6, vers 20–35.",
+    "referinta": "Cap. 6, Vers 20-35.",
     "text": "Păzeşte, fiule, povaţa tatălui tău şi nu lepăda îndemnul maicii tale. Leagă-le la inima ta, pururea atârnă-le de gâtul tău. Ele te vor conduce când vei vrea să mergi; în vremea somnului te vor păzi, iar când te vei deştepta vor grăi cu tine. Că povaţa este un sfeşnic bun şi legea o lumină, iar îndemnurile care dau învăţătură sunt calea vieţii. Ele te vor păzi de femeia vicleană, de limba cea ademenitoare a celei străine. Nu dori frumuseţea ei întru inima ta şi să nu te vâneze cu genele ei. Că femeia desfrânată umblă după o bucată de pâine, pe când femeia-soţie doreşte un suflet de mare preţ. Oare poate pune cineva foc în sânul lui, fără ca veşmintele lui să nu ardă? Sau va merge cineva pe cărbuni fără să i se frigă tălpile? Aşa este cu cel ce se duce la femeia aproapelui său: nimeni din cei ce se ating de ea nu va rămâne nepedepsit. Nimeni nu dispreţuieşte un hoţ pentru că a furat ca să-şi astâmpere foamea; dar când a fost prins, el dă înapoi înşeptit, întoarce tot ceea ce are în casa lui. Cel ce se desfrânează însă cu o femeie este lipsit de minte, se pierde pe el însuşi făcând astfel; el nu dobândeşte decât bătaie, iar ocara lui niciodată nu se şterge. Pizma trezeşte mânia omului defăimat şi el este fără milă în ziua răzbunării; el nu se uită la nici un preţ de răscumpărare, şi chiar când îi vei spori darurile, tot nu se îmblânzeşte."
   }
 }
